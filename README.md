@@ -7,6 +7,7 @@ Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
 
 
+ 
 
 
 汉化文本 By _喵Plus_
@@ -14,6 +15,8 @@ Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 ~~字库附加MOD By _喵Plus_~~
 
 ~~UCS2字符集字库 By _喵Plus_~~
+
+
 
 
 
@@ -27,6 +30,8 @@ Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 个人翻译，仅供学习以交流。
 
 
+
+
 ---
 **安装方式**：
     下载json文件 ==>[ror2_june_6_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rian-2-ChineseLocalization/master/ZH_CN/ror2_june_6_19-chinese_prc.json)       可使用右键-另存为
@@ -36,6 +41,8 @@ Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
     文件
     
  建议备份源文件 
+
+
 
 
 

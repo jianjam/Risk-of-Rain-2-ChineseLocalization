@@ -19,8 +19,8 @@
     "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Not in QuickPlay queue.",
     "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Connecting to host...",
     "STEAM_LOBBY_STATUS_STARTING_SERVER": "Starting server...",
-	"STEAM_LOBBY_STATUS_GAME_STARTING": "Game starting...",
-	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Version Mismatch",
-	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Could not join the lobby. The host of the game is running on a version that is either older or newer than yours.\nYours={0}\nTheirs={1}",
+  	"STEAM_LOBBY_STATUS_GAME_STARTING": "Game starting...",
+  	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Version Mismatch",
+  	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Could not join the lobby. The host of the game is running on a version that is either older or newer than yours.\nYours={0}\nTheirs={1}",
   }
 }
