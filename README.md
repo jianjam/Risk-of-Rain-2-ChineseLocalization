@@ -1,4 +1,4 @@
-# Risk-of-Rian2-ChineseLocalization
+# Risk-of-Rian-2-ChineseLocalization
 Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
 该汉化由雨中冒险2吧大佬 @_喵Plus_ 提供，最终解释权归该大佬所有
@@ -29,7 +29,7 @@ Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
 ---
 **安装方式**：
-    下载json文件 ==>[ror2_june_6_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rian2-ChineseLocalization/master/ZH_CN/ror2_june_6_19-chinese_prc.json)       可使用右键-另存为
+    下载json文件 ==>[ror2_june_6_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rian-2-ChineseLocalization/master/ZH_CN/ror2_june_6_19-chinese_prc.json)       可使用右键-另存为
     
     替换掉
             Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_june_6_19-chinese_prc.json
