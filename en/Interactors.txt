@@ -83,7 +83,7 @@
 	"CATEGORYCHEST_DAMAGE_NAME": "Chest - Damage",
 	"CATEGORYCHEST_DAMAGE_CONTEXT": "Open Chest - Damage",
 
-	"CATEGORYCHEST_UTILITY_NAME": "Chest - Utility)",
+	"CATEGORYCHEST_UTILITY_NAME": "Chest - Utility",
 	"CATEGORYCHEST_UTILITY_CONTEXT": "Open Chest - Utility",
 
 	//[SHRINES],

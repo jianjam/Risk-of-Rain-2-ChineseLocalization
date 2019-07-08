@@ -7,7 +7,7 @@
 
 	"ITEM_CLOVER_NAME": "57 Leaf Clover",
 	"ITEM_CLOVER_PICKUP": "Luck is on your side.",
-	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1 <style=cStack>(+1 per stack)</style> times for a favorable outcome.<style=cIsUtility>", 
+	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1 <style=cStack>(+1 per stack)</style> times for a favorable outcome<style=cIsUtility>.", 
 
 	"ITEM_SYRINGE_NAME": "Soldier's Syringe",
 	"ITEM_SYRINGE_PICKUP": "Increases attack speed.",
@@ -21,7 +21,7 @@
 	
 	"ITEM_BEHEMOTH_NAME": "Brilliant Behemoth",
 	"ITEM_BEHEMOTH_PICKUP": "All your attacks explode!",
-	"ITEM_BEHEMOTH_DESC": "All your <style=cIsDamage>attacks explode</style> in a <style=cIsDamage>4m </style> <style=cStack>(+1.5m per stack)</style> radius for a bonus <style=cIsDamage>60%</style>TOTAL damage to nearby enemies.", 
+	"ITEM_BEHEMOTH_DESC": "All your <style=cIsDamage>attacks explode</style> in a <style=cIsDamage>4m </style> <style=cStack>(+1.5m per stack)</style> radius for a bonus <style=cIsDamage>60%</style> TOTAL damage to nearby enemies.", 
 
 	"ITEM_MISSILE_NAME": "AtG Missile Mk. 1",
 	"ITEM_MISSILE_PICKUP": "Chance to fire a missile.",
@@ -50,7 +50,7 @@
 
 	"ITEM_FEATHER_NAME": "Hopoo Feather",
 	"ITEM_FEATHER_PICKUP": "Gain an extra jump.",
-	"ITEM_FEATHER_DESC": "Gain <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> maximum <style=cIsUtility>jump count.</style>", 
+	"ITEM_FEATHER_DESC": "Gain <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> maximum <style=cIsUtility>jump count</style>.", 
  
 	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
 	"ITEM_CHAINLIGHTNING_PICKUP": "...and his music was electric.",
@@ -66,7 +66,7 @@
 
 	"ITEM_GHOSTONKILL_NAME": "Happiest Mask",
 	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
-	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>10%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack).</style>", 
+	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>10%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack)</style>.", 
 
 	"ITEM_MUSHROOM_NAME": "Bustling Fungus",
 	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
@@ -289,12 +289,12 @@
 
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_NAME": "War Horn",
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_PICKUP": "Activating your Equipment gives you a burst of attack speed.",
-	"ITEM_ENERGIZEDONEQUIPMENTUSE_DESC": "Activating your Equipment gives you <style=cIsDamage>+70% attack speed</style> for <style=cIsDamage>8s</style> <style=cStack>(+4s per stack).</style>",
+	"ITEM_ENERGIZEDONEQUIPMENTUSE_DESC": "Activating your Equipment gives you <style=cIsDamage>+70% attack speed</style> for <style=cIsDamage>8s</style> <style=cStack>(+4s per stack)</style>.",
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_LORE" : "\"The War of 2019, while lasting only a brief year, was the bloodiest conflict in human history. As the war got deadlier throughout the year, many rebel groups began to rely on tradition and history for inspiration. \r\n\r\nThe War Horn, pictured above was a favorite of the Northern Fist Rebellion for both its inspirational and tactical uses.\"\r\n\r\n-Exhibit at The National WW19 Museum",
 
 	"ITEM_BARRIERONOVERHEAL_NAME": "Aegis",
 	"ITEM_BARRIERONOVERHEAL_PICKUP": "Healing past full grants you a temporary barrier.",
-	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for up to <style=cIsHealing>20%<style=cStack>(+20% per stack)</style></style> of your <style=cIsHealing>maximum health.</style>",
+	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for up to <style=cIsHealing>20%<style=cStack>(+20% per stack)</style></style> of your <style=cIsHealing>maximum health</style>.",
 
 	"ITEM_TONICAFFLICTION_NAME": "Tonic Affliction",
 	"ITEM_TONICAFFLICTION_PICKUP": "<color=#FF7F7F>Reduce ALL stats when not under the effects of Spinel Tonic.</color>",

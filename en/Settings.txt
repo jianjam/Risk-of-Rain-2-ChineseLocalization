@@ -159,7 +159,7 @@
 		"OPTION_DAMAGENUMBERS_DESCRIPTION": "Enables floating damage numbers.",
 
 		"OPTION_SPRINT_SENSITIVITY_REDUCTION": "Sprint Sensitivity Reduction",
-		"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION": "Enables reducing input sensitivity while sprinting.",
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION": "Enables reduced input sensitivity while sprinting.",
 
 		"OPTION_HUD": "In-Game HUD",
 		"OPTION_HUD_DESCRIPTION": "Enables the in-game HUD, i.e healthbars, item icons, skill icons.",

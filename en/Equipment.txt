@@ -11,7 +11,7 @@
 
 	"EQUIPMENT_FRUIT_NAME": "Foreign Fruit",
 	"EQUIPMENT_FRUIT_PICKUP": "Heal on use.",
-	"EQUIPMENT_FRUIT_DESC": "Instantly heal for <style=cIsHealing>50% of your maximum health.</style>",
+	"EQUIPMENT_FRUIT_DESC": "Instantly heal for <style=cIsHealing>50% of your maximum health</style>.",
 
 	"EQUIPMENT_METEOR_NAME": "Glowing Meteorite",
 	"EQUIPMENT_METEOR_PICKUP": "Rain meteors from the sky, <color=#FF7F7F>hurting both enemies and allies.</color>",
@@ -40,7 +40,7 @@
 
 	"EQUIPMENT_BFG_NAME": "Preon Accumulator",
 	"EQUIPMENT_BFG_PICKUP": "Fire a ball of energy that electrocutes nearby enemies before detonating.",
-	"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>600% damage/second.</style> On contact, detonate in an enormous 20m explosion for <style=cIsDamage>4000% damage.</style>",
+	"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>600% damage/second</style>. On contact, detonate in an enormous 20m explosion for <style=cIsDamage>4000% damage</style>.",
 
 	"EQUIPMENT_JETPACK_NAME": "Milky Chrysalis",
     "EQUIPMENT_JETPACK_PICKUP": "Gain temporary flight.",
@@ -56,7 +56,7 @@
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "Gnarled Woodsprite",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal over time. Activate to send to an ally.",
-	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health.</style>",
+	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health</style>.",
 
 	"EQUIPMENT_AFFIXRED_NAME": "Ifrit's Distinction",
     "EQUIPMENT_AFFIXRED_PICKUP": "Become an aspect of fire.",
@@ -81,7 +81,7 @@
 	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire Tincture",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "Burn everything nearby... <color=#FF7F7F>including you and allies.</color>\n",
 	"EQUIPMENT_BURNNEARBY_DESC" : "Ignite ALL characters within 8m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies.",
-	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining� <100000000 cycles>\nTraining� <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom.  \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
+	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom.  \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
 
 	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
 	"EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
@@ -101,7 +101,8 @@
 	
 	"EQUIPMENT_TONIC_NAME" : "Spinel Tonic",
 	"EQUIPMENT_TONIC_PICKUP" : "Gain a massive boost to ALL stats. <color=#FF7F7F>Chance to gain an affliction that reduces ALL stats.</color>",
-	"EQUIPMENT_TONIC_DESC" :  "Drink the Tonic, gaining a boost for 15 seconds. Increases <style=cIsDamage>damage</style> by <style=cIsDamage>+100%</style>. Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>+70%</style>. Increases <style=cIsDamage>armor</style> by <style=cIsDamage>+20</style>. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>+50%</style>. Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>+300%</style>. Increases <style=cIsUtility>movespeed</style> by <style=cIsUtility>+30%</style>.\n\nWhen the Tonic wears off, you have a <style=cIsHealth>20%</style> chance to gain a <style=cIsHealth>Tonic Affliction, reducing all of your stats</style> by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack.)</style>",
+	"EQUIPMENT_TONIC_DESC" :  "Drink the Tonic, gaining a boost for 15 seconds. Increases <style=cIsDamage>damage</style> by <style=cIsDamage>+100%</style>. Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>+70%</style>. Increases <style=cIsDamage>armor</style> by <style=cIsDamage>+20</style>. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>+50%</style>. Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>+300%</style>. Increases <style=cIsUtility>movespeed</style> by <style=cIsUtility>+30%</style>.
+	\n\nWhen the Tonic wears off, you have a <style=cIsHealth>20%</style> chance to gain a <style=cIsHealth>Tonic Affliction, reducing all of your stats</style> by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack).</style>",
 	
 	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Fuel Array",
 	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Looks like it could power something. <color=#FF7F7F>EXTREMELY unstable...</color>",
