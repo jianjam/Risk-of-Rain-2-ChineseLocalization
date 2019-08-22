@@ -777,7 +777,7 @@
 		"DIFFICULTY_NORMAL_NAME": "狂风暴雨",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "<color=#D28F61>这才是这个游戏的正确游玩方式！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！</color>",
 		"DIFFICULTY_HARD_NAME": "季风骤雨",
-		"DIFFICULTY_HARD_DESCRIPTION": "<color=#AF3E3E>这里是硬核玩家的专属！这个星球充满了绝望和痛苦，你不会知道你会死的有多惨...</color>",
+		"DIFFICULTY_HARD_DESCRIPTION": "<color=#AF3E3E>硬核玩家专属难度！这颗星球充满了绝望和痛苦，你不会知道你将死的有多惨......</color>",
 		"USER_PROFILE_DELETE_HEADER": "删除档案",
 		"USER_PROFILE_DELETE_DESCRIPTION": "你确认你要删除档案 \"<color=\"orange\">{0}</color>\" 吗? 此操作无法撤回, 并且档案内所有已解锁道具、游戏进度、设定配置都将<style=cDeath>永久消失</style>。",
 		"USER_PROFILE_DELETE_YES": "是的，我确定！",
