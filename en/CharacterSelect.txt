@@ -4,7 +4,15 @@
 		"CHARACTER_SELECT_TITLE": "Character Select",
 		"SURVIVOR_OVERVIEW": "Overview",
 		"SURVIVOR_SKILLS": "Skills",
+		"SURVIVOR_LOADOUT": "Loadout",
 		"CHARACTER_SELECT_READY": "Ready",
 		"CHARACTER_SELECT_LOCKED_IN": "Locked In",
+		
+		"LOADOUT_SKILL_PRIMARY": "Primary",
+		"LOADOUT_SKILL_SECONDARY": "Secondary",
+		"LOADOUT_SKILL_UTILITY": "Utility",
+		"LOADOUT_SKILL_SPECIAL": "Special",
+		"LOADOUT_SKILL_MISC": "Misc",
+		"LOADOUT_SKIN": "Skin",
 	}
 }

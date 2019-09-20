@@ -97,7 +97,7 @@
 		"OPTION_LOD_BIAS_DESCRIPTION": "The distances in which the LOD will change. Lowering this will improve performance but may cause pop-in.",
 
 		"OPTION_MAX_LOD": "LOD Reduction:",
-		"OPTION_MAX_LOD_DESCRIPTION": "The reduces the highest LOD that will be used by the game. Lowering this will improve performance but may cause pop-in and dramatically reduce graphic fidelity.",	
+		"OPTION_MAX_LOD_DESCRIPTION": "The highest LOD that will be used by the game. Lowering this will improve performance but may cause pop-in and dramatically reduce graphic fidelity.",	
 
 		"OPTION_SOFTPARTICLES": "Soft Particles:",
 		"OPTION_SOFTPARTICLES_DESCRIPTION": "Enables depth-based particle blending for smoother particles. Disabling will improve GPU performance.",

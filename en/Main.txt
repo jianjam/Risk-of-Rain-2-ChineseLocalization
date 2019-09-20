@@ -70,6 +70,7 @@
 		"GAME_RESULT_UNKNOWN": "FATE UNKNOWN..",
 		
 		"UNIDENTIFIED" : "???",
+		"UNIDENTIFIED_DESCRIPTION" : "You have not met the prerequisites for this Challenge yet.",
 		
 		"DESCRIPTION_PREFIX_FORMAT" : "Description:\n{0}",
 		"NOTES_PREFIX_FORMAT" : "Notes:\n<style=cSub><size=80%>{0}</size></style>",
@@ -79,8 +80,11 @@
 		"BODY_HEALTH_FORMAT" : "Max Health: {0}",
 		"BODY_DAMAGE_FORMAT" : "Damage: {0}",
 		"BODY_MOVESPEED_FORMAT" : "Speed: {0} m/s",
+		"BODY_ARMOR_FORMAT" : "Armor: {0}",
+		"BODY_REGEN_FORMAT" : "Health Regeneration: {0} hp/s",
 
 		"ITEM_PREFIX_STACKCOUNT" : "Highest Stack Count: <style=cEvent>x{0}</style>",
+		"EQUIPMENT_PREFIX_COOLDOWN" : "Cooldown: <style=cIsUtility>{0}s</style>",
 		"EQUIPMENT_PREFIX_USECOUNT" : "Total Activations: <style=cEvent>{0}</style>",
 		"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "Total Time Held: <style=cEvent>{0}</style>",
 		"MONSTER_PREFIX_KILLED" : "Killed: <style=cEvent>{0}</style>",

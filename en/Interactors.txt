@@ -124,6 +124,11 @@
 	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>You have summoned {1}s to fight.</color>",
 	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fight.</color>",
 
+	"SHRINE_PROTECTION_NAME": "Shrine of Warding",
+	"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
+	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
+	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
+
 	"GOLDTOTEM_NAME": "Halcyon Beacon",
 	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
 
@@ -176,9 +181,11 @@
 	"COST_NONE_FORMAT": "",
 	"COST_MONEY_FORMAT": "${0}",
 	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
-	"COST_LUNAR_FORMAT": "{0} Lunar",
+	"COST_LUNAR_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
 	"COST_ITEM_FORMAT": "{0} Items",
 	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
+	
+	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
 	}
 }

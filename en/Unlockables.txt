@@ -32,6 +32,10 @@
 		"UNLOCKABLE_LOG_ELECTRICWORM" : "Monster Log: Overloading Worm",
 		"UNLOCKABLE_LOG_CLAYBRUISER" : "Monster Log: Clay Templar",
 		"UNLOCKABLE_LOG_GRAVEKEEPER" : "Monster Log: Grovetender",
+		"UNLOCKABLE_LOG_VULTURE" : "Monster Log: Alloy Vulture",
+		"UNLOCKABLE_LOG_ROBOBALLBOSS" : "Monster Log: Solus Control Unit",
+		"UNLOCKABLE_LOG_ROBOBALLMINI" : "Monster Log: Solus Probe",
+		"UNLOCKABLE_LOG_SUPERROBOBALLBOSS" : "Monster Log: Alloy Worship Unit",
 
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
@@ -44,6 +48,7 @@
 		"UNLOCKABLE_LOG_STAGES_WISPGRAVEYARD": "Environment Log: Scorched Acres",
 		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "Environment Log: A Moment, Fractured",
 		"UNLOCKABLE_LOG_STAGES_GOLDSHORES" : "Environment Log: Gilded Coast",
+		"UNLOCKABLE_LOG_STAGES_SHIPGRAVEYARD" : "Environment Log: Siren's Call",
 
 	}
 }

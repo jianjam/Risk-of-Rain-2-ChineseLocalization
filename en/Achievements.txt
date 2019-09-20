@@ -119,7 +119,7 @@
 		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Complete 30 stages.",
 		
 		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Blackout",
-		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the guardian of Gilded Coast without any beacons deactivating.",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the unique guardian of Gilded Coast without any beacons deactivating.",
 		
 		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Cut Down",
 		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Defeat 500 elite monsters.",
@@ -133,6 +133,84 @@
 		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Power Plant",
 		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Repair the broken robot with an Escape Pod's Fuel Array.",
 
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_NAME": "Commando: Rolling Thunder",
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "As Commando, land the killing blow on an Overloading Worm.",
+
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_NAME": "MUL-T: Pest Control",
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "As MUL-T, defeat two Beetle Queens without leaving the teleporter zone.",
+		
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Gotcha!",
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "As MUL-T, land the killing blow on an Imp Overlord with the Preon Accumulator.",
+		
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Mercenary: Demon of the Skies",
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "As Mercenary, don't touch the ground for 30 seconds.",
+		
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Mercenary: Ethereal",
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "As Mercenary, complete a Prismatic Trial without falling below 100% health.",
+		
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Huntress: Piercing Wind",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "As Huntress, start and finish Rallypoint Delta without falling below 100% health.",
+		
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Huntress: One Shot, One Kill",
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "As Huntress, collect and carry 12 Crowbars at once.",
+		
+		"ACHIEVEMENT_ENGIARMY_NAME": "Engineer: Better With Friends",
+		"ACHIEVEMENT_ENGIARMY_DESCRIPTION": "As Engineer, recruit 12 minions at one time.",
+		
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Bushwhacked",
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "As REX, complete an entire teleporter event while under 50% health.",
+		
+		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Artificer: Chunked!",
+		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "As Artificer, fully defeat the teleporter boss in a one-second burst of damage.",
+		
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Artificer: Orbital Bombardment",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "As Artificer, kill 15 enemies before touching the ground.",
+		
+		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Artificer: Massacre",
+		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "As Artificer, perform a multikill of 20 enemies.",
+		
+		"ACHIEVEMENT_BURNTODEATH_NAME": "Warm For Life",
+		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Die three fiery deaths.",
+		
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Engineer: 100% Calculated",
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "As Engineer, defeat the teleporter boss in less than 5 seconds after it spawns.",
+		
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Dunked",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Clay Dunestrider on Abandoned Aqueduct by throwing it into a pit.",
+		
+		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Loader: Swing By",
+		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "As Loader, reach and proceed through the Celestial Portal in 25 minutes or less.",
+		
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Commando: Incorruptible",
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "As Commando, clear 20 stages in a single run without picking up any Lunar items.",
+		
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Commando: Mastery",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Mastery",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Huntress: Mastery",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Artificer: Mastery",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As Artificer, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Mercenary: Mastery",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Mastery",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Loader: Mastery",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As Loader, Obliterate yourself at the Obelisk on Monsoon.",
+
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
+		
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Guidance Offline",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Defeat the unique guardian of Siren's Call.",
+		
 		"ACHIEVEMENT__NAME": "",
 		"ACHIEVEMENT__DESCRIPTION": "",
 	}

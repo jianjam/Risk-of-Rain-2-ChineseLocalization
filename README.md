@@ -34,16 +34,11 @@ Risk of Rain 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
 ---
 **安装方式**：
-    下载json文件 ==>[ror2_june_6_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/ror2_june_6_19-chinese_prc.json)       可使用右键-另存为
+    下载json文件 ==>[ror2_august_29_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/ror2_august_29_19-chinese_prc.json)       可使用右键-另存为
     
     替换掉
-            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_june_6_19-chinese_prc.json
+            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_august_29_19-chinese_prc.json
     文件
     
- 建议备份源文件 
-
-
-
-
-
-已知BUG： 游戏界面左边友军单位列表的名称无法显示，疑是游戏字库问题，无法显示中文/日文等字符，英文/数字可以正常显示。
+ 建议备份源文件
+ 

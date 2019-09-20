@@ -12,6 +12,7 @@
 		"PLAYER_PING_DEFAULT" : "<style=cIsHealing>{0} wants to move here.</style>",
 		"PLAYER_PING_ENEMY" : "<style=cIsHealth>{0} wants to attack: {1}.</style>",
 		"PLAYER_PING_INTERACTABLE" : "<style=cIsDamage>{0} has found: {1}.</style>",
+		"PLAYER_PING_INTERACTABLE_WITH_COST" : "<style=cIsDamage>{0} has found: {1} ({2}).</style>",
 		"PLAYER_PING_COOLDOWN" : "<style=cEvent>You must wait before issuing more pings.</style>",
 		"MONSTER_LEVEL": "<style=cWorldEvent><i>The forces of the planet have become stronger over time.</i></style>",
 		"PORTAL_SHOP_WILL_OPEN":"<style=cWorldEvent>A blue orb appears..</style>",
@@ -21,6 +22,9 @@
 		"PORTAL_MS_WILL_OPEN":"<style=cWorldEvent>A celestial orb appears..</style>",
 		"PORTAL_MS_OPEN" : "<style=cWorldEvent>A celestial portal appears..</style>",
 		"STONEGATE_OPEN" : "<style=cWorldEvent>An ancient gate begins to shift..</style>",
+		"VULTURE_EGG_WARNING" : "<style=cWorldEvent>You hear a distant whirring..</style>",
+		"VULTURE_EGG_BEGIN" : "<style=cWorldEvent>The whirring grows loud.</style>",
+
 		"NEWT_UPGRADE_1": "Yes yes. That will grow both ways. Both ways.",
 		"NEWT_UPGRADE_2": "More growth. Good good good.",
 		"NEWT_UPGRADE_3": "Good growth. Will grow both ways. Both!",
@@ -32,6 +36,19 @@
 		"NEWT_LUNAR_PURCHASE_6": "Will remember this shape.",
 		"NEWT_LUNAR_PURCHASE_7": "More shaped. Shaped like Nomad.",
 		"NEWT_LUNAR_PURCHASE_8": "Shaped like Providence. Shape?",
+
+		"BAZAAR_SEER_NAME" : "Lunar Seer",
+		"BAZAAR_SEER_CONTEXT" : "Dream",
+		"BAZAAR_SEER_GOLEMPLAINS" : "<style=cWorldEvent>You dream of rolling hills.</style>",
+		"BAZAAR_SEER_BLACKBEACH" : "<style=cWorldEvent>You dream of waves, crashing on cliffsides.</style>",
+		"BAZAAR_SEER_GOOLAKE" : "<style=cWorldEvent>You dream of sand beneath your feet.</style>",
+		"BAZAAR_SEER_FOGGYSWAMP" : "<style=cWorldEvent>You dream of twisting roots.</style>",
+		"BAZAAR_SEER_FROZENWALL" : "<style=cWorldEvent>You dream of quiet snowfall.</style>",
+		"BAZAAR_SEER_WISPGRAVEYARD" : "<style=cWorldEvent>You dream of wind, blowing through trees.</style>",
+		"BAZAAR_SEER_DAMPCAVESIMPLE" : "<style=cWorldEvent>You dream of fire.</style>",
+		"BAZAAR_SEER_SHIPGRAVEYARD" : "<style=cWorldEvent>You dream of wind.</style>",
+		"BAZAAR_SEER_GOLDSHORES" : "<style=cWorldEvent>You dream of wealth.</style>",
+
 
 		"NEWT_ANNOY_1": "Again again. Everytime.",
 		"NEWT_ANNOY_2": "Reshape. Out of forever.",

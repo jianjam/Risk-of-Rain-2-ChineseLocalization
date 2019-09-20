@@ -29,5 +29,7 @@
 		"MAP_DAMPCAVE_LORE" : "<style=cMono>\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... done.\r\n$ Resolving... done.\r\n$ Combing for relevant data... done.\r\nComplete!\r\nOutputting local plain text transcriptions...\r\n<\/style>\r\n\r\n<style=cMono>Day 0<\/style>\r\n\r\nWe have landed a few minutes ago and I have no time I must log as quickly as possible I hope the speech-to-text works many died on impact inside hollow cavern chains great chains fire the ground they come from the ground the burning they breathe fire we are hiding beneath the caverns groans they coax metal from the surface with song giant snakes made of fire they collect the security chests the death god we are in hell here chains keeps the ground from splintering they breathe beneath and above and around us punishments it must be forgive me I cannot see too dark deep thunder goodbye\r\n\r\n<style=cMono>Local text transcriptions complete.<\/style>\r\n",
 		"MAP_WISPGRAVEYARD_TITLE" : "Scorched Acres",
 		"MAP_WISPGRAVEYARD_SUBTITLE" : "Wisp Installation",
+		"MAP_SHIPGRAVEYARD_TITLE" : "Siren's Call",
+		"MAP_SHIPGRAVEYARD_SUBTITLE" : "Ship Graveyard",
 	}
 }

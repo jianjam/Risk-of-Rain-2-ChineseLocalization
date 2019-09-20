@@ -74,11 +74,11 @@
 
 	"ITEM_CROWBAR_NAME": "Crowbar",
 	"ITEM_CROWBAR_PICKUP": "Deal more damage to healthy enemies.",
-	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>150%</style> <style=cStack>(+30% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
+	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "Predatory Instincts",
 	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'Critical Strikes' increase attack speed. Stacks 3 times.",
-	"ITEM_ATTACKSPEEDONCRIT_DESC": "<style=cIsDamage>Critical strikes</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style>. Maximum cap of <style=cIsDamage>30% <style=cStack>(+30% per stack)</style> attack speed</style>.",
+	"ITEM_ATTACKSPEEDONCRIT_DESC": "<style=cIsDamage>Critical strikes</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style>. Maximum cap of <style=cIsDamage>30% <style=cStack>(+20% per stack)</style> attack speed</style>.",
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "Gossip spreads quickly in terrified communities. Stories that keep the more fearful lizardfolk in their passageways. Hushed tales that frighten the most commanding of stone constructs and woodfolk and creatures of the plains. Fear travels between the trees and the valleys.\n\nA demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. Only two arms, two legs - but with 22 unblinking, crimson eyes.\n",
 
 	"ITEM_BLEEDONHIT_NAME": "Tri-Tip Dagger",
@@ -117,7 +117,7 @@
 
 	"ITEM_HEALWHILESAFE_NAME": "Cautious Slug",
 	"ITEM_HEALWHILESAFE_PICKUP": "Rapidly heal outside of danger.",
-	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>250%</style> <style=cStack>(+150% per stack)</style> while outside of combat.",
+	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>300%</style> <style=cStack>(+300% per stack)</style> while outside of combat.",
 
 	"ITEM_JUMPBOOST_NAME": "Wax Quail",
 	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
@@ -149,7 +149,7 @@
 
 	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil",
 	"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
-	"ITEM_SHOCKNEARBY_DESC": "Fire out <style=cIsDamage>lightning</style> that hits <style=cIsDamage>3</style> <style=cStack>(+3 per stack)</style> enemies for <style=cIsDamage>200%</style> base damage every <style=cIsDamage>0.5s</style>. The Tesla Coil switches off every <style=cIsDamage>10 seconds</style>.",
+	"ITEM_SHOCKNEARBY_DESC": "Fire out <style=cIsDamage>lightning</style> that hits <style=cIsDamage>3</style> <style=cStack>(+2 per stack)</style> enemies for <style=cIsDamage>200%</style> base damage every <style=cIsDamage>0.5s</style>. The Tesla Coil switches off every <style=cIsDamage>10 seconds</style>.",
 
 	"ITEM_IGNITEONKILL_NAME": "Gasoline",
 	"ITEM_IGNITEONKILL_PICKUP": "Killing enemies sets nearby enemies on fire.",
@@ -217,7 +217,7 @@
 	
 	"ITEM_STICKYBOMB_NAME": "Sticky Bomb",
 	"ITEM_STICKYBOMB_PICKUP": "Chance on hit to attach a bomb to enemies.",
-	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> <style=cStack>(+2.5% per stack)</style> chance on hit to attach a <style=cIsDamage>bomb</style> to an enemy, detonating for <style=cIsDamage>180%</style> TOTAL damage.",
+	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> <style=cStack>(+5% per stack)</style> chance on hit to attach a <style=cIsDamage>bomb</style> to an enemy, detonating for <style=cIsDamage>180%</style> TOTAL damage.",
 	
 	"ITEM_TREASURECACHE_NAME": "Rusted Key",
 	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains treasure.",
@@ -230,7 +230,7 @@
 	
 	"ITEM_SPRINTARMOR_NAME": "Rose Buckler",
 	"ITEM_SPRINTARMOR_PICKUP": "Reduce incoming damage while sprinting.",
-	"ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Increase armor</style> by <style=cIsHealing>25</style> <style=cStack>(+25 per stack)</style> <style=cIsUtility>while sprinting</style>.",
+	"ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Increase armor</style> by <style=cIsHealing>30</style> <style=cStack>(+30 per stack)</style> <style=cIsUtility>while sprinting</style>.",
 	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro and Runald's Bands",
@@ -250,7 +250,7 @@
 	"ITEM_SLOWONHIT_LORE": "Order: Chronobauble\r\nTracking Number: 99******\r\nEstimated Delivery: 03\/03\/2066\r\nShipping Method: Priority\r\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\r\nShipping Details:\r\n\r\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\r\n\r\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\r\n\r\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!\r\n",
 
 	"ITEM_EXTRALIFE_NAME": "Dio's Best Friend",
-	"ITEM_EXTRALIFE_PICKUP": "Cheat death once.",
+	"ITEM_EXTRALIFE_PICKUP": "Cheat death. Consumed on use.",
 	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
 	
 	"ITEM_EXTRALIFECONSUMED_NAME": "Dio's Best Friend (Consumed)",
@@ -285,7 +285,7 @@
 	
 	"ITEM_EXECUTELOWHEALTHELITE_NAME": "Old Guillotine",
 	"ITEM_EXECUTELOWHEALTHELITE_PICKUP": "Instantly kill low health Elite monsters.",
-	"ITEM_EXECUTELOWHEALTHELITE_DESC": "Instantly kill Elite monsters below <style=cIsHealth>20% <style=cStack>(+5% per stack)</style> health.</style>",
+	"ITEM_EXECUTELOWHEALTHELITE_DESC": "Instantly kill Elite monsters below <style=cIsHealth>20% <style=cStack>(+20% per stack)</style> health.</style>",
 
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_NAME": "War Horn",
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_PICKUP": "Activating your Equipment gives you a burst of attack speed.",
@@ -294,7 +294,7 @@
 
 	"ITEM_BARRIERONOVERHEAL_NAME": "Aegis",
 	"ITEM_BARRIERONOVERHEAL_PICKUP": "Healing past full grants you a temporary barrier.",
-	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for up to <style=cIsHealing>20%<style=cStack>(+20% per stack)</style></style> of your <style=cIsHealing>maximum health</style>.",
+	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>50% <style=cStack>(+50% per stack)</style></style> of the amount you <style=cIsHealing>healed</style>.",
 
 	"ITEM_TONICAFFLICTION_NAME": "Tonic Affliction",
 	"ITEM_TONICAFFLICTION_PICKUP": "<color=#FF7F7F>Reduce ALL stats when not under the effects of Spinel Tonic.</color>",
@@ -306,10 +306,30 @@
 	"ITEM_SPRINTWISP_NAME": "Little Disciple",
 	"ITEM_SPRINTWISP_PICKUP": "Fire tracking wisps while sprinting.",
 	"ITEM_SPRINTWISP_DESC" : "Fire a <style=cIsDamage>tracking wisp</style> for <style=cIsDamage>100% <style=cStack>(+100% per stack)</style> damage.</style> Fires every 0.5 seconds while sprinting.",
+	"ITEM_SPRINTWISP_LORE" : "HELLO, LITTLE ONE. HOW WAS YOUR ADVENTURE TODAY?\r\n\r\nOH\r\n\r\nYOUR FORM IS BROKEN, LITTLE ONE. WHAT TRICKERIES HAVE YOU GOTTEN YOURSELF INTO?\r\n\r\nOH\r\n\r\nDO YOU TIRE OF ADVENTURE? \r\n\r\nWOULD YOU LIKE TO HELP ME TEND TO THE GARDEN, MY LITTLE ONE?\r\n\r\nI UNDERSTAND. OH, YOUR FORM! DO NOT WORRY. COME CLOSER.\r\n\r\nHERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\r\n\r\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.\r\n\r\nI GIVE YOU NOTHING FOR SPIRIT.\r\n\r\nOH, DO NOT WORRY! WE WILL STILL GO ON ADVENTURES. THEY WILL BE QUIET ADVENTURES. \r\n\r\nCOME CLOSER - CLOSER NOW. \r\n\r\nCLOSER!\r\n\r\nNOW WATCH - WATCH CLOSELY. \r\n\r\nWATCH HOW I TEND TO OUR GARDEN.\r\n",
 
 	"ITEM_BARRIERONKILL_NAME" : "Topaz Brooch",
 	"ITEM_BARRIERONKILL_PICKUP" : "Gain a temporary barrier on kill.",
-	"ITEM_BARRIERONKILL_DESC" : "Gain a <style=cIsHealing>temporary barrier</style> on kill for <style=cIsHealing>20 health <style=cStack>(+20 per stack)</style></style>.",
+	"ITEM_BARRIERONKILL_DESC" : "Gain a <style=cIsHealing>temporary barrier</style> on kill for <style=cIsHealing>15 health <style=cStack>(+15 per stack)</style></style>.",
+	
+	"ITEM_ARMORREDUCTIONONHIT_NAME" : "Shattering Justice",
+	"ITEM_ARMORREDUCTIONONHIT_PICKUP" : "Reduce the armor of enemies after repeatedly striking them.",
+	"ITEM_ARMORREDUCTIONONHIT_DESC" : "After hitting an enemy <style=cIsDamage>5</style> times, reduce their <style=cIsDamage>armor</style> by <style=cIsDamage>60</style> for <style=cIsDamage>8</style><style=cStack> (+8 per stack)</style> seconds.",
+	
+	"ITEM_TPHEALINGNOVA_NAME" : "Lepton Daisy",
+	"ITEM_TPHEALINGNOVA_PICKUP" : "Periodically release a healing nova during the Teleporter event.",
+	"ITEM_TPHEALINGNOVA_DESC" : "Release a <style=cIsHealing>healing nova </style>during the Teleporter event, <style=cIsHealing>healing</style> all nearby allies for <style=cIsHealing>50%</style> of their maximum health. Occurs <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style> times.",
+	
+	"ITEM_NEARBYDAMAGEBONUS_NAME": "Focus Crystal",
+	"ITEM_NEARBYDAMAGEBONUS_PICKUP": "Deal bonus damage to nearby enemies.",
+	"ITEM_NEARBYDAMAGEBONUS_DESC": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style>.",
 
+	"ITEM_LUNARUTILITYREPLACEMENT_NAME": "Strides of Heresy",
+	"ITEM_LUNARUTILITYREPLACEMENT_PICKUP": "Replace your Utility Skill with 'Shadowfade'.",
+	"ITEM_LUNARUTILITYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Utility Skill</style> with <style=cIsUtility>Shadowfade</style>. \n\nFade away, becoming <style=cIsUtility>intangible</style> and gaining <style=cIsUtility>+30% movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>25% <style=cStack>(+25% per stack)</style> of your maximum health</style>. Lasts 3 <style=cStack>(+3 per stack)</style> seconds.",
+	
+	"ITEM_PROTECTIONPOTION_NAME" : "Gold Flask",
+	"ITEM_PROTECTIONPOTION_PICKUP" : "Gain a massive barrier at low health. Consumed on use.",
+	"ITEM_PROTECTIONPOTION_DESC" : "Gain a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>100% of your health</style> when falling below <style=cIsHealth>30% health</style>.",
 	}
 }
