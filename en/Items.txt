@@ -16,7 +16,7 @@
 
 	"ITEM_BEAR_NAME": "Tougher Times",
 	"ITEM_BEAR_PICKUP": "Chance to block incoming damage.",
-	"ITEM_BEAR_DESC": "<style=cIsHealing>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsHealing>block</style> incoming damage. <style=cIsUtility>Unaffected by the luck</style>.", 
+	"ITEM_BEAR_DESC": "<style=cIsHealing>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsHealing>block</style> incoming damage. <style=cIsUtility>Unaffected by luck</style>.", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\n//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//</style>\n\n\"Why\'d you sign up?\"\n\nWyatt\'s voice was bored. The mission to the Contact Light\'s last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that\'s it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I\'m here to find something.\" He continued. \"I shipped it a few years back, but I don\'t think it made it before the train went down. I\'m guessing it\'s still in the Contact Light. So I\'m gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It\'s all gone, Wyatt.\"\n\nHe grinned. \"I think I\'m gonna find it.\"\n\n\"You\'re terrible.\"\n",
 	
 	"ITEM_BEHEMOTH_NAME": "Brilliant Behemoth",
@@ -38,7 +38,7 @@
 	
 	"ITEM_TOOTH_NAME": "Monster Tooth",
 	"ITEM_TOOTH_PICKUP": "Drop a healing orb on kill.",
-	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>6 <style=cStack>(+6 per stack)</style> health</style>.", 
+	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.", 
 
 	"ITEM_CRITGLASSES_NAME": "Lens-Maker's Glasses",
 	"ITEM_CRITGLASSES_PICKUP": "Chance to 'Critically Strike', dealing double damage.",
@@ -62,7 +62,7 @@
 
 	"ITEM_ICICLE_NAME": "Frost Relic",
 	"ITEM_ICICLE_PICKUP": "Killing enemies surrounds you with an ice storm.",
-	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with an <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage per second</style>. The storm <style=cIsDamage>grows with every kill</style>, increasing its radius by <style=cIsDamage>1m.</style> Stacks up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack).</style>", 
+	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with an <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage per second</style>. The storm <style=cIsDamage>grows with every kill</style>, increasing its radius by <style=cIsDamage>1m</style>. Stacks up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack)</style>.", 
 
 	"ITEM_GHOSTONKILL_NAME": "Happiest Mask",
 	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
@@ -90,7 +90,7 @@
 	"ITEM_SPRINTOUTOFCOMBAT_DESC": "Leaving combat boosts your <style=cIsUtility>movement speed</style> by <style=cIsUtility>30%</style> <style=cStack>(+30% per stack)</style>.",
 
 	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
-	"ITEM_FALLBOOTS_PICKUP": "Increase jump height. Hold 'Jump' to slam down to the ground.",
+	"ITEM_FALLBOOTS_PICKUP": "Increase jump height. Hold 'Interact' to slam down to the ground.",
 	"ITEM_FALLBOOTS_DESC": "Increase <style=cIsUtility>jump height</style>. Creates a <style=cIsDamage>10m</style> radius <style=cIsDamage>kinetic explosion</style> on hitting the ground, dealing <style=cIsDamage>2300%</style> base damage that scales up with <style=cIsDamage>speed</style>. Recharges in <style=cIsDamage>10</style> <style=cStack>(-50% per stack)</style> seconds.",
 	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
 
@@ -167,7 +167,7 @@
 
 	"ITEM_BANDOLIER_NAME": "Bandolier",
 	"ITEM_BANDOLIER_PICKUP": "Chance on kill to drop an ammo pack that resets all skill cooldowns.",
-	"ITEM_BANDOLIER_DESC": "<style=cIsUtility>18%</style> + <style=cStack>(10% on stack)</style> chance on kill to drop an ammo pack that <style=cIsUtility>resets all skill cooldowns</style>.",
+	"ITEM_BANDOLIER_DESC": "<style=cIsUtility>18%</style> <style=cStack>(+10% on stack)</style> chance on kill to drop an ammo pack that <style=cIsUtility>resets all skill cooldowns</style>.",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "Stun Grenade",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "Chance to stun on hit.",

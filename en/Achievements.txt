@@ -170,7 +170,7 @@
 		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "As Artificer, perform a multikill of 20 enemies.",
 		
 		"ACHIEVEMENT_BURNTODEATH_NAME": "Warm For Life",
-		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Die three fiery deaths.",
+		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Die three times while burning.",
 		
 		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Engineer: 100% Calculated",
 		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "As Engineer, defeat the teleporter boss in less than 5 seconds after it spawns.",

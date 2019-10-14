@@ -45,13 +45,13 @@
 
 		"CHARSELECT_RETURN": "Back",
 		"DIFFICULTY_EASY_NAME": "Drizzle",
-		"DIFFICULTY_EASY_DESCRIPTION": "Reduces difficulty for players new to the game. Weeping and gnashing is replaced by laughter and tickles.",
+		"DIFFICULTY_EASY_DESCRIPTION": "Reduces difficulty for players new to the game. Weeping and gnashing is replaced by laughter and tickles.<style=cStack>\n\n>Player Health Regeneration: +50% \n>Player Damage Reduction: +38% \n>Difficulty Scaling: -50%</style>",
 
 		"DIFFICULTY_NORMAL_NAME": "Rainstorm",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "This is the way the game is meant to be played! Test your abilities and skills against formidable foes.",
 
 		"DIFFICULTY_HARD_NAME": "Monsoon",
-		"DIFFICULTY_HARD_DESCRIPTION": "For hardcore players. Every bend introduces pain and horrors of the planet. You will die.",
+		"DIFFICULTY_HARD_DESCRIPTION": "For hardcore players. Every bend introduces pain and horrors of the planet. You will die.<style=cStack>\n\n>Player Health Regeneration: -40% \n>Difficulty Scaling: +50%</style>",
 		
 		"USER_PROFILE_DELETE_HEADER": "Delete Profile",
 		"USER_PROFILE_DELETE_DESCRIPTION": "Are you really sure you want to delete profile \"<color=\"orange\">{0}</color>\"? Profile deletion cannot be undone, and all unlockables, stats, settings, and control configurations in the profile <style=cDeath>will be lost forever</style>.",
