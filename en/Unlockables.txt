@@ -36,6 +36,8 @@
 		"UNLOCKABLE_LOG_ROBOBALLBOSS" : "Monster Log: Solus Control Unit",
 		"UNLOCKABLE_LOG_ROBOBALLMINI" : "Monster Log: Solus Probe",
 		"UNLOCKABLE_LOG_SUPERROBOBALLBOSS" : "Monster Log: Alloy Worship Unit",
+		"UNLOCKABLE_LOG_NULLIFIER" : "Monster Log: Void Reaver",
+		"UNLOCKABLE_LOG_SCAV" : "Monster Log: Scavenger",
 
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
@@ -49,6 +51,8 @@
 		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "Environment Log: A Moment, Fractured",
 		"UNLOCKABLE_LOG_STAGES_GOLDSHORES" : "Environment Log: Gilded Coast",
 		"UNLOCKABLE_LOG_STAGES_SHIPGRAVEYARD" : "Environment Log: Siren's Call",
+		"UNLOCKABLE_LOG_STAGES_ARENA" : "Environment Log: Void Fields",
+		"UNLOCKABLE_LOG_STAGES_LIMBO" : "Environment Log: A Moment, Whole",
 
 	}
 }

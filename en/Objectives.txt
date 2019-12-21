@@ -10,5 +10,7 @@
 		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "Rebuild the Halcyon Beacons({0}/{1})",
 		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "Defeat {0},{1}",
 		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "Destroy <color=#f37aff>Time Crystals</color> ({0}/{1})",
+		"OBJECTIVE_CLEAR_ARENA" : "Activate all Cell Vents ({0}/{1})",
+		"OBJECTIVE_ARENA_CHARGE_CELL" : "Breach the Cell ({0}%)",
 	}
 }

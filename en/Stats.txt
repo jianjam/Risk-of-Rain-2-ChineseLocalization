@@ -29,6 +29,6 @@
 		"STATNAME_HIGHESTSTAGESCOMPLETED": "Most Stages Completed",
 		"STATNAME_TOTALPURCHASES": "Purchases",
 		"STATNAME_HIGHESTPURCHASES": "Most Purchases",
-		
+		"STATNAME_TOTALMINIONKILLS": "Minion Kills",
 	}
 }

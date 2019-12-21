@@ -50,6 +50,11 @@
 
 	"DUPLICATOR_MILITARY_NAME": "Mili-Tech Printer",
 	"DUPLICATOR_MILITARY_CONTEXT": "Use Mili-Tech Printer",
+	"DUPLICATOR_WILD_NAME": "Overgrown 3D Printer",
+	"DUPLICATOR_WILD_CONTEXT": "Use Overgrown 3D Printer",
+
+	"CASINOCHEST_NAME": "Adaptive Chest",
+	"CASINOCHEST_CONTEXT": "Open Adaptive Chest",
 
 	//[LUNAR STUFF],
 	"LUNAR_CHEST_NAME" : "Lunar Pod",
@@ -129,9 +134,19 @@
 	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
 	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
 
+	"SHRINE_CLEANSE_NAME": "Cleansing Pool",
+	"SHRINE_CLEANSE_CONTEXT": "Use Cleansing Pool",
+	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>You have cleansed yourself of {1}.</color>",
+	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has cleansed themself of {1}.</color>",
+
 	"GOLDTOTEM_NAME": "Halcyon Beacon",
 	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
 
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] {1}s have been released from the Cell..!</style>",
+	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] {1} has been integrated into the Cell...!</style>",
+	"ARENA_END" : "<style=cWorldEvent>The Cell stabilizes.</style>",
+	"NULL_WARD_NAME" : "Cell Vent",
+	"NULL_WARD_CONTEXT" : "Open Cell Vent",
 	//MISC
 	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
 	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
@@ -141,6 +156,9 @@
 		
 	"LOCKEDTREEBOT_NAME" : "Broken Robot",
 	"LOCKEDTREEBOT_CONTEXT" : "Repair",
+
+	"SCAVBACKPACK_NAME" : "Scavenger's Sack",
+	"SCAVBACKPACK_CONTEXT" : "Open Scavenger's Sack",
 	//[DRONES],
 	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
 	"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
@@ -160,6 +178,9 @@
 	"FLAMEDRONE_INTERACTABLE_NAME" : "Broken Incinerator Drone",
 	"FLAMEDRONE_CONTEXT" : "Repair Incinerator Drone",
 
+	"EMERGENCYDRONE_INTERACTABLE_NAME" : "Broken Emergency Drone",
+	"EMERGENCYDRONE_CONTEXT" : "Repair Emergency Drone",
+
 	//[TURRETS],
 	"TURRET1_INTERACTABLE_NAME": "Broken Gunner Turret",
 	"TURRET1_CONTEXT": "Repair Gunner Turret",
@@ -170,7 +191,8 @@
 	"PORTAL_GOLDSHORES_CONTEXT": "Enter Gold Portal",
 	"PORTAL_MYSTERYSPACE_NAME" : "Celestial Portal",
 	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter Celestial Portal",
-
+	"PORTAL_ARENA_NAME" : "Null Portal",
+	"PORTAL_ARENA_CONTEXT" : "Enter Null Portal",
 	"PORTAL_GENERIC_CONTEXT": "Enter Portal",
 	"ZIPLINE_ENTER_CONTEXT" : "Enter Quantum Tunnel",
 	"ZIPLINE_EXIT_CONTEXT" : "Exit Quantum Tunnel",
@@ -181,8 +203,9 @@
 	"COST_NONE_FORMAT": "",
 	"COST_MONEY_FORMAT": "${0}",
 	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
-	"COST_LUNAR_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
+	"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
 	"COST_ITEM_FORMAT": "{0} Items",
+	"COST_LUNAR_FORMAT": "{0} Lunar",
 	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
 	

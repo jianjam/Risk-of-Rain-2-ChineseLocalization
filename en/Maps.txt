@@ -31,5 +31,9 @@
 		"MAP_WISPGRAVEYARD_SUBTITLE" : "Wisp Installation",
 		"MAP_SHIPGRAVEYARD_TITLE" : "Siren's Call",
 		"MAP_SHIPGRAVEYARD_SUBTITLE" : "Ship Graveyard",
+		"MAP_ARENA_TITLE" : "Hidden Realm: Void Fields",
+		"MAP_ARENA_SUBTITLE" : "Cosmic Prison",
+		"MAP_LIMBO_TITLE" : "Hidden Realm: A Moment, Whole",
+		"MAP_LIMBO_SUBTITLE" : "",
 	}
 }

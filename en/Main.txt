@@ -101,6 +101,7 @@
 
 		"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} per level)</style>",
 		
+		"DIALOG_OPTION_YES" : "Yes",
 		"OK" : "OK",
 		"CANCEL" : "Cancel",
 		
@@ -142,5 +143,18 @@
 		"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "Are you sure you want to end this run?",
 		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Are you sure you want to leave this run? You will be leaving your teammates behind.",
 		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "You are the host of this game, and quitting now will <style=cDeath>end the game for all other players</style>. Are you really sure you want to quit?",
+		
+		"ARENA_HUD_MONSTERS_LABEL": "Monsters",
+		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Monsters' Items",
+		
+		"IMMUNE_TO_DAMAGE_HITMARKER": "IMMUNE",
+		"BLOCKED_DAMAGE_HITMARKER": "BLOCKED!",
+		"EXTRALIFE_REVIVED_EFFECT": "REVIVED!",
+		
+		"SCOREBOARD_HEADER_PLAYERS": "Players",
+		"SCOREBOARD_HEADER_ITEMS": "Items",
+		"SCOREBOARD_HEADER_EQUIPMENT": "Equipment",
+		
+		"HUD_LEVEL_PREFIX": "Lv:",
 	}
 }

@@ -164,6 +164,9 @@
 		"OPTION_HUD": "In-Game HUD",
 		"OPTION_HUD_DESCRIPTION": "Enables the in-game HUD, i.e healthbars, item icons, skill icons.",
 
+		"OPTION_EXP_AND_MONEY_EFFECTS": "Exp and Money Effects",
+		"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Enables particle effects for experience and money.",
+
 
 		"OPTION_REBIND_DIALOG_TITLE": "Rebind Control...",
 		"OPTION_REBIND_DIALOG_DESCRIPTION": "Press the button you wish to assign for {0}. \n{1:0} second(s) remaining.",

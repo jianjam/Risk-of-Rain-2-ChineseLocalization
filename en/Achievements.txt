@@ -205,11 +205,23 @@
 		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Loader: Mastery",
 		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As Loader, Obliterate yourself at the Obelisk on Monsoon.",
 
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Mastery",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As Acrid, Obliterate yourself at the Obelisk on Monsoon.",
+
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
 		
 		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Guidance Offline",
 		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Defeat the unique guardian of Siren's Call.",
+		
+		"ACHIEVEMENT_BEATARENA_NAME": "...To Be Left Alone",
+		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Stabilize the Cell in the Void Fields.",
+
+		"ACHIEVEMENT_LOADERBIGSLAM_NAME": "Loader: Earthshatter",
+		"ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "As Loader, land a Charged Gauntlet hit at 300mph or higher.",
+
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Acrid: Pandemic",
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "As Acrid, inflict Poison 1000 total times.",
 		
 		"ACHIEVEMENT__NAME": "",
 		"ACHIEVEMENT__DESCRIPTION": "",

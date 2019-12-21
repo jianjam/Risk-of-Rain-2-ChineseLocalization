@@ -15,6 +15,7 @@
 		"PLAYER_PING_INTERACTABLE_WITH_COST" : "<style=cIsDamage>{0} has found: {1} ({2}).</style>",
 		"PLAYER_PING_COOLDOWN" : "<style=cEvent>You must wait before issuing more pings.</style>",
 		"MONSTER_LEVEL": "<style=cWorldEvent><i>The forces of the planet have become stronger over time.</i></style>",
+		"MONSTER_PICKUP": "<style=cWorldEvent>{0} picked up {1}{2}</color>",
 		"PORTAL_SHOP_WILL_OPEN":"<style=cWorldEvent>A blue orb appears..</style>",
 		"PORTAL_SHOP_OPEN" : "<style=cWorldEvent>A blue portal appears..</style>",
 		"PORTAL_GOLDSHORES_WILL_OPEN":"<style=cWorldEvent>A gold orb appears..</style>",
@@ -140,5 +141,11 @@
 		"PLAYER_DEATH_QUOTE_36" : "Sucks to suck, {0}",
 		"PLAYER_DEATH_QUOTE_37_2P" : "You walk toward the light.",
 		"PLAYER_DEATH_QUOTE_37" : "{0} walks toward the light.",
+		
+		"PLAYER_DEATH_QUOTE_BRITTLEDEATH_2P" : "You have shattered into innumerable pieces.",
+		"PLAYER_DEATH_QUOTE_BRITTLEDEATH" : "{0} has shattered into innumerable pieces.",
+		
+		"PLAYER_DEATH_QUOTE_VOIDDEATH_2P" : "You have been detained. Await your sentence at the end of Time.",
+		"PLAYER_DEATH_QUOTE_VOIDDEATH" : "{0} has vanished without a trace.",
 	}
 }

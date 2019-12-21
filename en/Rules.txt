@@ -2,6 +2,7 @@
 	"strings":
 	{
 		"RULE_HEADER_DIFFICULTY": "Difficulty",
+		"RULE_HEADER_DIFFICULTY_WITH_COLON": "Difficulty:",
 		"RULE_HEADER_ARTIFACTS": "Artifacts",
 		"RULE_HEADER_ITEMS": "Items",
 		"RULE_HEADER_EQUIPMENT": "Equipment",

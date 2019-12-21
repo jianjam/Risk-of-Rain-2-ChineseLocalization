@@ -117,5 +117,9 @@
 	"EQUIPMENT_FIREBALLDASH_NAME" : "Volcanic Egg",
 	"EQUIPMENT_FIREBALLDASH_PICKUP" : "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
 	"EQUIPMENT_FIREBALLDASH_DESC" : "Turn into a <style=cIsDamage>draconic fireball</style> for <style=cIsDamage>5</style> seconds. Deal <style=cIsDamage>500% damage</style> on impact. Detonates at the end for <style=cIsDamage>800% damage</style>.",
+	
+	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
+	"EQUIPMENT_GAINARMOR_PICKUP" : "Gain massive armor for 5 seconds.",
+	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",
 	}
 }

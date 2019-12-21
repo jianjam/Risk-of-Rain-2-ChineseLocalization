@@ -66,7 +66,7 @@
 
 	"ITEM_GHOSTONKILL_NAME": "Happiest Mask",
 	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
-	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>10%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack)</style>.", 
+	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>7%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>1500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack)</style>.", 
 
 	"ITEM_MUSHROOM_NAME": "Bustling Fungus",
 	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
@@ -78,7 +78,7 @@
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "Predatory Instincts",
 	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'Critical Strikes' increase attack speed. Stacks 3 times.",
-	"ITEM_ATTACKSPEEDONCRIT_DESC": "<style=cIsDamage>Critical strikes</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style>. Maximum cap of <style=cIsDamage>30% <style=cStack>(+20% per stack)</style> attack speed</style>.",
+	"ITEM_ATTACKSPEEDONCRIT_DESC": "<style=cIsDamage>Critical strikes</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>12%</style>. Maximum cap of <style=cIsDamage>36% <style=cStack>(+24% per stack)</style> attack speed</style>.",
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "Gossip spreads quickly in terrified communities. Stories that keep the more fearful lizardfolk in their passageways. Hushed tales that frighten the most commanding of stone constructs and woodfolk and creatures of the plains. Fear travels between the trees and the valleys.\n\nA demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. Only two arms, two legs - but with 22 unblinking, crimson eyes.\n",
 
 	"ITEM_BLEEDONHIT_NAME": "Tri-Tip Dagger",
@@ -117,7 +117,7 @@
 
 	"ITEM_HEALWHILESAFE_NAME": "Cautious Slug",
 	"ITEM_HEALWHILESAFE_PICKUP": "Rapidly heal outside of danger.",
-	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>300%</style> <style=cStack>(+300% per stack)</style> while outside of combat.",
+	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+4 hp/s</style> <style=cStack>(+4 hp/s per stack)</style>while outside of combat.",
 
 	"ITEM_JUMPBOOST_NAME": "Wax Quail",
 	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
@@ -126,7 +126,8 @@
 	
 	"ITEM_PERSONALSHIELD_NAME": "Personal Shield Generator",
 	"ITEM_PERSONALSHIELD_PICKUP": "Gain a recharging shield.",
-	"ITEM_PERSONALSHIELD_DESC": "Gain a <style=cIsHealing>25</style> <style=cStack>(+25 per stack)</style> <style=cIsHealing>health shield</style>. Recharges outside of danger.",
+	"ITEM_PERSONALSHIELD_DESC": "Gain a <style=cIsHealing>shield</style> equal to <style=cIsHealing>8%</style> <style=cStack>(+8% per stack)</style> of your maximum health. Recharges outside of danger.",
+	"ITEM_PERSONALSHIELD_LORE" : "\"While the kinetic rating is very poor, the extremely cheap production costs of Hinon\u2019s Personal Barrier made it a great budget tool for hikers, sailors, and even daily commuters to be comfortable in harsh weather. Many people in the office figured out they could replace their expensive winter jackets with comfortable, trendy personal barriers!\"\r\n\r\n-Top 10 Best Personal Barriers of 2053\r\n",
 
 	"ITEM_NOVAONHEAL_NAME": "N'kuhana's Opinion",
 	"ITEM_NOVAONHEAL_PICKUP": "Fire haunting skulls when healed.",
@@ -154,6 +155,7 @@
 	"ITEM_IGNITEONKILL_NAME": "Gasoline",
 	"ITEM_IGNITEONKILL_PICKUP": "Killing enemies sets nearby enemies on fire.",
 	"ITEM_IGNITEONKILL_DESC": "Killing an enemy <style=cIsDamage>ignites</style> all enemies within <style=cIsDamage>12m</style> <style=cStack>(+4m per stack)</style>. Enemies <style=cIsDamage>burn</style> for <style=cIsDamage>150%</style> <style=cStack>(+75% per stack)</style> base damage.",
+	"ITEM_IGNITEONKILL_LORE" : "<style=cMono>\r\nAudio transcription complete from signal echoes. Assigning generic tokens.</style>\r\n\r\n[Fire crackling]\r\n\r\nMAN 1: D-do you think they're gonna come for us?\r\n\r\nMAN 2: They'll try. It's going to be a very long while.\r\n\r\nMAN 1: What? Why?\r\n\r\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours \u2013 FTL ships are very rare nowadays.\r\n\r\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\r\n\r\nMAN 2: We weren't on the route.\r\n\r\n[Fire pops]\r\n\r\nMAN 1: What?!\r\n\r\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren\u2019t. The ship never announced it was slowing down either, so that\u2019ll make triangulating our positions even harder.\r\n\r\nMAN 1: I-I don't get it. Who would take a UESC train off course? That's completely insane!\r\n\r\nMAN 2: I don\u2019t know \u2013 only the Captain does. There\u2019s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\r\n\r\n[Sizzling]\r\n\r\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\r\n\r\nMAN 1: I... I can't even think right now. I\u2019m not hungry.\r\n\r\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\r\n\r\nMAN 1: Sure. Okay. Okay. Um\u2026 do you think it's poisonous?\r\n\r\nMAN 2: Eat.\r\n\r\n<style=cMono>End of requested transcript. </style>\r\n",
 
 	"ITEM_BOUNCENEARBY_NAME": "Sentient Meat Hook",
 	"ITEM_BOUNCENEARBY_PICKUP": "Chance to hook all nearby enemies.",
@@ -180,7 +182,7 @@
 
 	"ITEM_GOLDONHIT_NAME": "Brittle Crown",
 	"ITEM_GOLDONHIT_PICKUP": "Gain gold on hit... <color=#FF7F7F>\BUT lose gold on getting hit.</color>\n",
-	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30% chance on hit</style> to gain <style=cIsUtility>3 <style=cStack>(+3 per stack)</style> gold</style>. <style=cIsHealth>Lose gold</style> equal to <style=cIsHealth>100% <style=cStack>(+100% per stack)</style></style> of amount you are hit for OR lose % gold equal to <style=cIsHealth>100% <style=cStack>(+100% per stack)</style></style> of the maximum health % you lost. Chooses the greater of the two.",
+	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30% chance on hit</style> to gain <style=cIsUtility>2<style=cStack> (+2 per stack)</style> gold</style>. <style=cIsUtility>Scales over time.</style>\n\n<style=cIsHealth>Lose gold</style> on taking damage equal to <style=cIsHealth>100%<style=cStack> (+100% per stack)</style></style> of the <style=cIsHealth>maximum health percentage you lost</style>.",
 	"ITEM_GOLDONHIT_LORE" : "A wretched carnival.\r\n\r\nThey were doomed for good reason. Dunepeople of Aphelia: lost, in fanatic worship of parasitic influences. Lemurians: destined to a dead planet, picked clean. Chitin beasts. Automations of death. Why do you bring them home? They were not meant to survive. \r\n\r\nI have watched you for ages, from my dead rock - and every century, you disgust me with vanity. You invite vermin into your home. Wretches. Rats. Monsters. Creatures without restraint. Each and every one, planet killers. And yet, you entertain them as guests. Like children, requiring saving and protection.\r\n\r\nShe should have died for me. Her gift was wasted on you.\r\n\r\nAnd when will we open discussion - dear brother - of all your thin lies? Why do you forbid your guests to leave? To pilot? Why do you fashion great walls and gates? Why do you weave constructs of destruction, if your role is protection? They are entries in your collection. You slaver. Gatekeeper. Hoarder.\r\n\r\nYour death is fated. When you die - and you WILL die - I will be ready. I have been patient for millennia. That planet... is mine.",
 
 	"ITEM_SHIELDONLY_NAME": "Transcendence",
@@ -199,7 +201,7 @@
 
 	"ITEM_KNURL_NAME": "Titanic Knurl",
 	"ITEM_KNURL_PICKUP": "Boosts health and regeneration.",
-	"ITEM_KNURL_DESC": "<style=cIsHealing>Increase maximum health</style> by <style=cIsHealing>40</style> <style=cStack>(+40 per stack)</style> and <style=cIsHealing>health regeneration</style> by <style=cIsHealing>1.6 <style=cStack>(+1.6 per stack)</style> health / second</style>.",
+	"ITEM_KNURL_DESC": "<style=cIsHealing>Increase maximum health</style> by <style=cIsHealing>40</style> <style=cStack>(+40 per stack)</style> and <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+1.6 hp/s<style=cStack>(+1.6 hp/s per stack)</style>.",
 
 	"ITEM_BEETLEGLAND_NAME": "Queen's Gland",
 	"ITEM_BEETLEGLAND_PICKUP": "Recruit a Beetle Guard.",
@@ -218,7 +220,8 @@
 	"ITEM_STICKYBOMB_NAME": "Sticky Bomb",
 	"ITEM_STICKYBOMB_PICKUP": "Chance on hit to attach a bomb to enemies.",
 	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> <style=cStack>(+5% per stack)</style> chance on hit to attach a <style=cIsDamage>bomb</style> to an enemy, detonating for <style=cIsDamage>180%</style> TOTAL damage.",
-	
+	"ITEM_STICKYBOMB_LORE" : "In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\r\n\r\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\r\n\r\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\r\n\r\n\"What! We need these \u2013 this planet is trying to kill us! \"\r\n\r\n\"You\u2019re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\r\n\r\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\r\n\r\n\"\u2026What materials?\"\r\n\r\n\"Huh?\"\r\n\r\n\"What materials did you put in? We barely had anything.\"\r\n\r\n\"I just put in everything.\"\r\n",
+
 	"ITEM_TREASURECACHE_NAME": "Rusted Key",
 	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains treasure.",
 	"ITEM_TREASURECACHE_DESC": "A <style=cIsUtility>hidden cache</style> containing an item will appear in a random location <style=cIsUtility>on each stage</style>. <style=cStack>(Increases rarity of the item per stack)</style>.",
@@ -268,8 +271,9 @@
 	
 	"ITEM_KILLELITEFRENZY_NAME": "Brainstalks",
 	"ITEM_KILLELITEFRENZY_PICKUP": "Skills have NO cooldowns for a short period after killing an elite.",
-	"ITEM_KILLELITEFRENZY_DESC": "Upon killing an elite monster, <style=cIsDamage>enter a frenzy</style> for <style=cIsDamage>3s</style> <style=cStack>(+2s per stack)</style> where <style=cIsUtility>skills have no cooldowns</style>.",
-	
+	"ITEM_KILLELITEFRENZY_DESC": "Upon killing an elite monster, <style=cIsDamage>enter a frenzy</style> for <style=cIsDamage>4s</style> <style=cStack>(+4s per stack)</style> where <style=cIsUtility>skills have no cooldowns</style>.",
+	"ITEM_KILLELITEFRENZY_LORE" : "Order:  Biopsy Samples of Cairne Jefferson\r\nTracking Number: 051*****\r\nEstimated Delivery: 11/11/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Saura Cosmo, Beacon Post, ???\r\nShipping Details:\r\n\r\nContained in this shipment should be a variety of biopsy samples from our late Mr. Jefferson. As you know, he was an extraordinary man in almost any manner. He was athletic, brilliant, kind, funny, and an all-around great human specimen. \r\n\r\nHe donated his body to science, and as we began the operation we found a most terrifying discovery.\r\n\r\nA quick visual examination of the subject\u2019s brain shows a very\u2026 particular oddity. It seems to be housing a variety of\u2026 glowing brain \u201Cstalks\u201D, similar to tubeworms. Trying to biopsy the stalks is impossible - they seem to disintegrate into dust the moment we remove it from the brain. We cannot explain this oddity at all. As such, we have included the entire brain in this shipment.\r\n\r\nPlease let us know if you find any explanation.",
+
 	"ITEM_INCREASEHEALING_NAME": "Rejuvenation Rack",
 	"ITEM_INCREASEHEALING_PICKUP": "Double the strength of healing.",
 	"ITEM_INCREASEHEALING_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more.",
@@ -323,13 +327,52 @@
 	"ITEM_NEARBYDAMAGEBONUS_NAME": "Focus Crystal",
 	"ITEM_NEARBYDAMAGEBONUS_PICKUP": "Deal bonus damage to nearby enemies.",
 	"ITEM_NEARBYDAMAGEBONUS_DESC": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style>.",
-
+	
+	"ITEM_LUNARSKILLREPLACEMENTS_NAME" : "Heresy Set",
 	"ITEM_LUNARUTILITYREPLACEMENT_NAME": "Strides of Heresy",
 	"ITEM_LUNARUTILITYREPLACEMENT_PICKUP": "Replace your Utility Skill with 'Shadowfade'.",
 	"ITEM_LUNARUTILITYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Utility Skill</style> with <style=cIsUtility>Shadowfade</style>. \n\nFade away, becoming <style=cIsUtility>intangible</style> and gaining <style=cIsUtility>+30% movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>25% <style=cStack>(+25% per stack)</style> of your maximum health</style>. Lasts 3 <style=cStack>(+3 per stack)</style> seconds.",
-	
+	"ITEM_LUNARUTILITYREPLACEMENT_LORE" : "\u201CHer legs were scattered to the two poles of the moon, twisted in a wicked position, in a field of obsidian thorns\u2026\"\r\n\r\n-The Evisceration of Kur-skan the Heretic, V\r\n",
+
 	"ITEM_PROTECTIONPOTION_NAME" : "Gold Flask",
 	"ITEM_PROTECTIONPOTION_PICKUP" : "Gain a massive barrier at low health. Consumed on use.",
 	"ITEM_PROTECTIONPOTION_DESC" : "Gain a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>100% of your health</style> when falling below <style=cIsHealth>30% health</style>.",
+	
+	"ITEM_THORNS_NAME" : "Razorwire",
+	"ITEM_THORNS_PICKUP" : "Retaliate in a burst of razors on taking damage.",
+	"ITEM_THORNS_DESC" : "Getting hit causes you to explode in a burst of razors, dealing <style=cIsDamage>160% damage</style>. Hits up to <style=cIsDamage>5</style> <style=cStack>(+2 per stack)</style> targets in a <style=cIsDamage>25m</style> <style=cStack>(+10m per stack)</style> radius",
+	
+	"ITEM_REGENONKILL_NAME" : "Fresh Meat",
+	"ITEM_REGENONKILL_PICKUP" : "Regenerate health after killing an enemy.",
+	"ITEM_REGENONKILL_DESC": "Increases<style=cIsHealing> base health regeneration</style> by <style=cIsHealing>+2 hp/s</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> after killing an enemy.",
+	
+	"ITEM_PEARL_NAME" : "Pearl",
+	"ITEM_PEARL_PICKUP" : "Increase your maximum health.",
+	"ITEM_PEARL_DESC" : "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10%</style> <style=cStack>(+10% per stack)</style>.",
+
+	"ITEM_SHINYPEARL_NAME" : "Irradiant Pearl",
+	"ITEM_SHINYPEARL_PICKUP" : "Increase ALL of your stats.",
+	"ITEM_SHINYPEARL_DESC" : "Increases <style=cIsUtility>ALL stats</style> by <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>.",
+
+	"ITEM_BONUSGOLDPACKONKILL_NAME" : "Ghor's Tome",
+	"ITEM_BONUSGOLDPACKONKILL_PICKUP" : "Chance on kill to drop a treasure.",
+	"ITEM_BONUSGOLDPACKONKILL_DESC": "<style=cIsUtility>4%</style> <style=cStack>(+4% on stack)</style> chance on kill to a treasure worth <style=cIsUtility>$25</style>. <style=cIsUtility>Scales over time.</style>",
+	
+	"ITEM_LASERTURBINE_NAME" : "Resonance Disc",
+	"ITEM_LASERTURBINE_PICKUP" : "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
+	"ITEM_LASERTURBINE_DESC" : "Killing enemies charges the Resonance Disc. The disc launches itself toward a target for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>, piercing all enemies it doesn't kill, and then explodes for <style=cIsDamage>1000%</style> base damage <style=cStack>(+1000% per stack)</style>. Returns to the user, striking all enemies along the way for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>.",
+	
+	"ITEM_LUNARPRIMARYREPLACEMENT_NAME": "Visions of Heresy",
+	"ITEM_LUNARPRIMARYREPLACEMENT_PICKUP": "Replace your Primary Skill with 'Hungering Gaze'.",
+	"ITEM_LUNARPRIMARYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Primary Skill</style> with <style=cIsUtility>Hungering Gaze</style>. \n\nFire a flurry of <style=cIsUtility>tracking shards</style> that detonate after a delay, dealing <style=cIsDamage>120%</style> base damage. Hold up to 12 charges <style=cStack>(+12 per stack)</style> that reload after 2 seconds <style=cStack>(+2 per stack)</style>.",
+	"ITEM_LUNARPRIMARYREPLACEMENT_LORE" : "\"\u2026and for her betrayal, and her lies, and her scheming ways, the Heretic was violently separated into four distinctive pieces, each to be scattered across the farthest depths of the Moon. \r\n\r\nFirst, her many eyes were plucked from her skull and sealed in boiling glass, forced to gaze upon her failure...\u201D\r\n\r\n-The Evisceration of Kur-skan the Heretic, III\r\n",
+
+	"ITEM_NOVAONLOWHEALTH_NAME" : "Genesis Loop",
+	"ITEM_NOVAONLOWHEALTH_PICKUP" : "Fire an electric nova at low health.",
+	"ITEM_NOVAONLOWHEALTH_DESC" : "Falling below <style=cIsHealth>25% health</style> causes you to explode, dealing <style=cIsDamage>6000% base damage</style>. Recharges every <style=cIsUtility>30 seconds</style> <style=cStack>(-50% per stack)</style>.",
+	
+	"ITEM_LUNARTRINKET_NAME" : "Beads of Fealty",
+	"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing... <color=#FF7F7F>but...</color>\n",
+	"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <color=#FF7F7F>but...</color>\n",
 	}
 }
