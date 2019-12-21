@@ -29,15 +29,15 @@ Risk of Rain 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
 个人翻译，仅供学习以交流。
 
-
+因个人时间有限。每个道具的背景故事介绍中涉及的文本很多，而且对游戏内容没有什么实质性的影响，所以之后版本的道具背景故事介绍会直接搬运官方中文。敬请原谅。
 
 
 ---
 **安装方式**：
-    下载json文件 ==>[ror2_august_29_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/ror2_august_29_19-chinese_prc.json)       可使用右键-另存为
+    下载json文件 ==>[ror2_dec_02_19-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/ror2_dec_02_19-chinese_prc.json)       可使用右键-另存为
     
     替换掉
-            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_august_29_19-chinese_prc.json
+            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_dec_02_19-chinese_prc.json
     文件
     
  建议备份源文件
