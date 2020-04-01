@@ -3,11 +3,7 @@
 	{
 	"EQUIPMENT_COMMANDMISSILE_NAME": "Disposable Missile Launcher",
 	"EQUIPMENT_COMMANDMISSILE_PICKUP": "Fire a swarm of missiles.",
-	"EQUIPMENT_COMMANDMISSILE_DESC": "Fire a swarm of <style=cIsDamage>12</style> missiles that deal <style=cIsDamage>12x300% damage.</style>",
-
-	"EQUIPMENT_SAW_NAME": "Saw",
-	"EQUIPMENT_SAW_PICKUP": "Saw pickup text.",
-	"EQUIPMENT_SAW_DESC": "Saw description.",
+	"EQUIPMENT_COMMANDMISSILE_DESC": "Fire a swarm of <style=cIsDamage>12</style> missiles that deal <style=cIsDamage>12x300% damage</style>.",
 
 	"EQUIPMENT_FRUIT_NAME": "Foreign Fruit",
 	"EQUIPMENT_FRUIT_PICKUP": "Heal on use.",
@@ -97,7 +93,7 @@
 	
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "Effigy of Grief",
 	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "Drop an effigy that cripples ALL characters inside. Can be picked back up.",
-	"EQUIPMENT_CRIPPLEWARD_DESC" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20.</style>",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>.",
 
 	"EQUIPMENT_GATEWAY_NAME" : "Eccentric Vase",
 	"EQUIPMENT_GATEWAY_PICKUP" : "Create a quantum tunnel between two locations.",
@@ -105,7 +101,7 @@
 	
 	"EQUIPMENT_TONIC_NAME" : "Spinel Tonic",
 	"EQUIPMENT_TONIC_PICKUP" : "Gain a massive boost to ALL stats. <color=#FF7F7F>Chance to gain an affliction that reduces ALL stats.</color>",
-	"EQUIPMENT_TONIC_DESC" : "Drink the Tonic, gaining a boost for 15 seconds. Increases <style=cIsDamage>damage</style> by <style=cIsDamage>+100%</style>. Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>+70%</style>. Increases <style=cIsDamage>armor</style> by <style=cIsDamage>+20</style>. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>+50%</style>. Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>+300%</style>. Increases <style=cIsUtility>movespeed</style> by <style=cIsUtility>+30%</style>.\n\nWhen the Tonic wears off, you have a <style=cIsHealth>20%</style> chance to gain a <style=cIsHealth>Tonic Affliction, reducing all of your stats</style> by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack)</style>.",
+	"EQUIPMENT_TONIC_DESC" : "Drink the Tonic, gaining a boost for 20 seconds. Increases <style=cIsDamage>damage</style> by <style=cIsDamage>+100%</style>. Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>+70%</style>. Increases <style=cIsDamage>armor</style> by <style=cIsDamage>+20</style>. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>+50%</style>. Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>+300%</style>. Increases <style=cIsUtility>movespeed</style> by <style=cIsUtility>+30%</style>.\n\nWhen the Tonic wears off, you have a <style=cIsHealth>20%</style> chance to gain a <style=cIsHealth>Tonic Affliction, reducing all of your stats</style> by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack)</style>.",
 	
 	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Fuel Array",
 	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Looks like it could power something. <color=#FF7F7F>EXTREMELY unstable...</color>",
@@ -121,5 +117,15 @@
 	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
 	"EQUIPMENT_GAINARMOR_PICKUP" : "Gain massive armor for 5 seconds.",
 	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",
+
+	"EQUIPMENT_SAWMERANG_NAME": "Sawmerang",
+	"EQUIPMENT_SAWMERANG_PICKUP": "Throw a fan of buzzing saws that come back to you.",
+	"EQUIPMENT_SAWMERANG_DESC": "Throw <style=cIsDamage>three large saw blades</style> that slice through enemies for <style=cIsDamage>3x400%</style> damage. Also deals an additional <style=cIsDamage>3x100% damage per second</style> while <style=cIsDamage>bleeding</style> enemies. Can <style=cIsDamage>strike</style> enemies again on the way back.",
+	"EQUIPMENT_SAWMERANG_LORE": "I'm so happy they let me bring my trusty Frisbee on this trip! Trees need cutting? Frisbee. Baddies getting a little too close? Frisbee. Fun after-hours game of catch? Frisbee... but only if you're trained to catch it.",
+
+	"EQUIPMENT_RECYCLER_NAME": "Recycler",
+	"EQUIPMENT_RECYCLER_PICKUP": "Transform an Item or Equipment into a different one. Can only recycle once.",
+	"EQUIPMENT_RECYCLER_DESC": "<style=cIsUtility>Transform</style> an Item or Equipment into a different one. <style=cIsUtility>Can only be converted into the same tier one time</style>.",
+	"EQUIPMENT_RECYCLER_LORE": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n",
 	}
 }

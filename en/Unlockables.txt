@@ -3,9 +3,9 @@
 	{
 		"NEW_UNLOCKABLE" : "NEW",
 		"LOCKED" : "LOCKED",
-		"UNLOCKED_FORMAT" : "Unlocked: {0}",
+		"UNLOCKED_FORMAT" : "Completed '{0}'!\n<s><style=cStack>{1}</style></s>",
 		
-		"UNLOCK_VIA_ACHIEVEMENT_FORMAT" : "Requires \"{0}\".\n\n<i>{1}</i>",
+		"UNLOCK_VIA_ACHIEVEMENT_FORMAT" : "Requires '{0}'\n<style=cStack>{1}</style>",
 		"UNLOCK_VIA_FIND_FORMAT" : "Find {0}.",
 		
 		"UNLOCKABLE_LOG_BEETLE": "Monster Log: Beetle",
@@ -38,6 +38,9 @@
 		"UNLOCKABLE_LOG_SUPERROBOBALLBOSS" : "Monster Log: Alloy Worship Unit",
 		"UNLOCKABLE_LOG_NULLIFIER" : "Monster Log: Void Reaver",
 		"UNLOCKABLE_LOG_SCAV" : "Monster Log: Scavenger",
+		"UNLOCKABLE_LOG_PARENT" : "Monster Log: Parent",
+		"UNLOCKABLE_LOG_MINIMUSHROOM" : "Monster Log: Mini Mushrum",
+		"UNLOCKABLE_LOG_GRANDPARENT" : "Monster Log: Grandparent",
 
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
@@ -53,6 +56,7 @@
 		"UNLOCKABLE_LOG_STAGES_SHIPGRAVEYARD" : "Environment Log: Siren's Call",
 		"UNLOCKABLE_LOG_STAGES_ARENA" : "Environment Log: Void Fields",
 		"UNLOCKABLE_LOG_STAGES_LIMBO" : "Environment Log: A Moment, Whole",
-
+		"UNLOCKABLE_LOG_STAGES_SKYMEADOW" : "Environment Log: Sky Meadow",
+		"UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD" : "Environment Log: Bulwark's Ambry",
 	}
 }

@@ -193,6 +193,8 @@
 	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter Celestial Portal",
 	"PORTAL_ARENA_NAME" : "Null Portal",
 	"PORTAL_ARENA_CONTEXT" : "Enter Null Portal",
+	"PORTAL_ARTIFACTWORLD_NAME" : "Artifact Portal",
+	"PORTAL_ARTIFACTWORLD_CONTEXT" : "Enter Artifact Portal",
 	"PORTAL_GENERIC_CONTEXT": "Enter Portal",
 	"ZIPLINE_ENTER_CONTEXT" : "Enter Quantum Tunnel",
 	"ZIPLINE_EXIT_CONTEXT" : "Exit Quantum Tunnel",
@@ -208,7 +210,16 @@
 	"COST_LUNAR_FORMAT": "{0} Lunar",
 	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
-	
+	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
 	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
+
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "Activate Unknown Artifact...?",
+
+	"PORTAL_DIALER_NAME" : "Compound Generator",
+	"PORTAL_DIALER_CONTEXT" : "Cycle Compound",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Submit Formula",
 	}
 }

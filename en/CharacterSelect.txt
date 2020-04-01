@@ -2,6 +2,7 @@
 	"strings":
 	{
 		"CHARACTER_SELECT_TITLE": "Character Select",
+		"CHARACTER_SELECT_SELECT_SURVIVOR" : "Select a Survivor",
 		"SURVIVOR_OVERVIEW": "Overview",
 		"SURVIVOR_SKILLS": "Skills",
 		"SURVIVOR_LOADOUT": "Loadout",
@@ -14,5 +15,10 @@
 		"LOADOUT_SKILL_SPECIAL": "Special",
 		"LOADOUT_SKILL_MISC": "Misc",
 		"LOADOUT_SKIN": "Skin",
+
+		"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT" : "{0}\n\n{1}",
+
+		"RANDOM_VOTE_NAME" : "Randomize",
+		"RANDOM_VOTE_DESCRIPTION" : "Vote for random choices.",
 	}
 }

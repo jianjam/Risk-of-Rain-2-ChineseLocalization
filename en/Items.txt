@@ -1,4 +1,4 @@
-{
+ {
 	strings:
 	{
 	"ITEM_PICKUP_CONTEXT" : "Get {0}",
@@ -7,7 +7,7 @@
 
 	"ITEM_CLOVER_NAME": "57 Leaf Clover",
 	"ITEM_CLOVER_PICKUP": "Luck is on your side.",
-	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1 <style=cStack>(+1 per stack)</style> times for a favorable outcome<style=cIsUtility>.", 
+	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style><style=cIsUtility> times for a favorable outcome</style>.", 
 
 	"ITEM_SYRINGE_NAME": "Soldier's Syringe",
 	"ITEM_SYRINGE_PICKUP": "Increases attack speed.",
@@ -54,7 +54,7 @@
  
 	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
 	"ITEM_CHAINLIGHTNING_PICKUP": "...and his music was electric.",
-	"ITEM_CHAINLIGHTNING_DESC": "<style=cIsDamage>25%</style> chance to fire <style=cIsDamage>chain lighting</style> for <style=cIsDamage>80%</style> TOTAL damage on up to <style=cIsDamage>3 <style=cStack>(+2 per stack)</style></style> targets within <style=cIsDamage>20m</style> <style=cStack>(+2m per stack)</style>.",
+	"ITEM_CHAINLIGHTNING_DESC": "<style=cIsDamage>25%</style> chance to fire <style=cIsDamage>chain lightning</style> for <style=cIsDamage>80%</style> TOTAL damage on up to <style=cIsDamage>3 <style=cStack>(+2 per stack)</style></style> targets within <style=cIsDamage>20m</style> <style=cStack>(+2m per stack)</style>.",
 
 	"ITEM_SEED_NAME": "Leeching Seed",
 	"ITEM_SEED_PICKUP": "Dealing damage heals you.",
@@ -136,7 +136,7 @@
 	
 	"ITEM_MEDKIT_NAME": "Medkit",
 	"ITEM_MEDKIT_PICKUP": "Receive a delayed heal after taking damage.",
-	"ITEM_MEDKIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>10 <style=cStack>(+10 per stack)</style> health</style> 1.1 seconds after getting hurt.",
+	"ITEM_MEDKIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>25 <style=cStack>(+25 per stack)</style> health</style> 2 seconds after getting hurt.",
 	"ITEM_MEDKIT_LORE": "\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nMED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nThe robot was speaking to a tall man, gaunt but strong. \"I'd love to, but we're running low on food.\" Even though his expression was hidden underneath his blue combat helmet, it was obvious the man was extremely tired. \"And everyone else is recovering from last night's attacks. Without the enforcers, we probably wouldn't have-\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nIt was apparent that MED-E only had a limited set of lines. However, the man continued to respond. \"I can't, MED-E. They're counting on me. You know that.\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nThis time the man did not humor a reply. Grabbing his shotgun, he turned away from the echoing robot. Weaving his way between countless sleeping bags and stretchers, he set out into the wilderness again. Everyone was counting on him.\r\n\r\n<style=cMono>\"Please stay indoors and rest.\" <\/style>\r\n",
 
 	"ITEM_EQUIPMENTMAGAZINE_NAME": "Fuel Cell",
@@ -146,7 +146,7 @@
 
 	"ITEM_INFUSION_NAME": "Infusion",
 	"ITEM_INFUSION_PICKUP": "Killing an enemy permanently increases your health, up to 100.",
-	"ITEM_INFUSION_DESC": "Killing an enemy increases your <style=cIsHealing>health permanently</style> by <style=cIsHealing>1</style>, up to a <style=cIsHealing>maximum</style> of <style=cIsHealing>100 <style=cStack>(+100 per stack)</style> health</style>.",
+	"ITEM_INFUSION_DESC": "Killing an enemy increases your <style=cIsHealing>health permanently</style> by <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style>, up to a <style=cIsHealing>maximum</style> of <style=cIsHealing>100 <style=cStack>(+100 per stack)</style> health</style>.",
 
 	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil",
 	"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
@@ -176,7 +176,7 @@
 	"ITEM_STUNCHANCEONHIT_DESC": "<style=cIsUtility>5%</style> <style=cStack>(+5% on stack)</style> chance on hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 seconds</style>.",
 
 	"ITEM_LUNARDAGGER_NAME": "Shaped Glass",
-	"ITEM_LUNARDAGGER_PICKUP": "Double your damage... <color=#FF7F7F>\BUT halve your health.</color>\n",
+	"ITEM_LUNARDAGGER_PICKUP": "Double your damage... <color=#FF7F7F>BUT halve your health.</color>\n",
 	"ITEM_LUNARDAGGER_DESC": "Increase base damage by <style=cIsDamage>100%</style> <style=cStack>(+100% per stack)</style>. <style=cIsHealing>Reduce maximum health by 50%</style> <style=cStack>(+50% per stack)</style>.",
 	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <50912157 cycles>\nPaused…\nDisplay partial result? Y/N\nY\n================================</style>\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a god's designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast.  The cost of folded time. But <he> has plenty of time.\n\n<style=cMono>\n================================\nContinue training? Y/N\nY</style>\n",
 
@@ -220,7 +220,7 @@
 	"ITEM_STICKYBOMB_NAME": "Sticky Bomb",
 	"ITEM_STICKYBOMB_PICKUP": "Chance on hit to attach a bomb to enemies.",
 	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> <style=cStack>(+5% per stack)</style> chance on hit to attach a <style=cIsDamage>bomb</style> to an enemy, detonating for <style=cIsDamage>180%</style> TOTAL damage.",
-	"ITEM_STICKYBOMB_LORE" : "In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\r\n\r\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\r\n\r\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\r\n\r\n\"What! We need these \u2013 this planet is trying to kill us! \"\r\n\r\n\"You\u2019re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\r\n\r\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\r\n\r\n\"\u2026What materials?\"\r\n\r\n\"Huh?\"\r\n\r\n\"What materials did you put in? We barely had anything.\"\r\n\r\n\"I just put in everything.\"\r\n",
+	"ITEM_STICKYBOMB_LORE" : "In the bla  ring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\r\n\r\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\r\n\r\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\r\n\r\n\"What! We need these \u2013 this planet is trying to kill us! \"\r\n\r\n\"You\u2019re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\r\n\r\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\r\n\r\n\"\u2026What materials?\"\r\n\r\n\"Huh?\"\r\n\r\n\"What materials did you put in? We barely had anything.\"\r\n\r\n\"I just put in everything.\"\r\n",
 
 	"ITEM_TREASURECACHE_NAME": "Rusted Key",
 	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains treasure.",
@@ -289,7 +289,7 @@
 	
 	"ITEM_EXECUTELOWHEALTHELITE_NAME": "Old Guillotine",
 	"ITEM_EXECUTELOWHEALTHELITE_PICKUP": "Instantly kill low health Elite monsters.",
-	"ITEM_EXECUTELOWHEALTHELITE_DESC": "Instantly kill Elite monsters below <style=cIsHealth>20% <style=cStack>(+20% per stack)</style> health.</style>",
+	"ITEM_EXECUTELOWHEALTHELITE_DESC": "Instantly kill Elite monsters below <style=cIsHealth>20% <style=cStack>(+20% per stack)</style> health</style>.",
 
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_NAME": "War Horn",
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_PICKUP": "Activating your Equipment gives you a burst of attack speed.",
@@ -309,7 +309,7 @@
 
 	"ITEM_SPRINTWISP_NAME": "Little Disciple",
 	"ITEM_SPRINTWISP_PICKUP": "Fire tracking wisps while sprinting.",
-	"ITEM_SPRINTWISP_DESC" : "Fire a <style=cIsDamage>tracking wisp</style> for <style=cIsDamage>100% <style=cStack>(+100% per stack)</style> damage.</style> Fires every 0.5 seconds while sprinting.",
+	"ITEM_SPRINTWISP_DESC" : "Fire a <style=cIsDamage>tracking wisp</style> for <style=cIsDamage>100% <style=cStack>(+100% per stack)</style> damage</style>. Fires every 0.5 seconds while sprinting.",
 	"ITEM_SPRINTWISP_LORE" : "HELLO, LITTLE ONE. HOW WAS YOUR ADVENTURE TODAY?\r\n\r\nOH\r\n\r\nYOUR FORM IS BROKEN, LITTLE ONE. WHAT TRICKERIES HAVE YOU GOTTEN YOURSELF INTO?\r\n\r\nOH\r\n\r\nDO YOU TIRE OF ADVENTURE? \r\n\r\nWOULD YOU LIKE TO HELP ME TEND TO THE GARDEN, MY LITTLE ONE?\r\n\r\nI UNDERSTAND. OH, YOUR FORM! DO NOT WORRY. COME CLOSER.\r\n\r\nHERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\r\n\r\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.\r\n\r\nI GIVE YOU NOTHING FOR SPIRIT.\r\n\r\nOH, DO NOT WORRY! WE WILL STILL GO ON ADVENTURES. THEY WILL BE QUIET ADVENTURES. \r\n\r\nCOME CLOSER - CLOSER NOW. \r\n\r\nCLOSER!\r\n\r\nNOW WATCH - WATCH CLOSELY. \r\n\r\nWATCH HOW I TEND TO OUR GARDEN.\r\n",
 
 	"ITEM_BARRIERONKILL_NAME" : "Topaz Brooch",
@@ -356,8 +356,9 @@
 
 	"ITEM_BONUSGOLDPACKONKILL_NAME" : "Ghor's Tome",
 	"ITEM_BONUSGOLDPACKONKILL_PICKUP" : "Chance on kill to drop a treasure.",
-	"ITEM_BONUSGOLDPACKONKILL_DESC": "<style=cIsUtility>4%</style> <style=cStack>(+4% on stack)</style> chance on kill to a treasure worth <style=cIsUtility>$25</style>. <style=cIsUtility>Scales over time.</style>",
-	
+	"ITEM_BONUSGOLDPACKONKILL_DESC": "<style=cIsUtility>4%</style> <style=cStack>(+4% on stack)</style> chance on kill to drop a treasure worth <style=cIsUtility>$25</style>. <style=cIsUtility>Scales over time.</style>",
+	"ITEM_BONUSGOLDPACKONKILL_LORE" : "Order: \u201CGhor\u2019s Tome\u201D\r\nTracking Number: 19******\r\nEstimated Delivery: 07\\07\\2056\\\r\nShipping Method: Priority\r\nShipping Address: 99th Floor, Crumbling Tower, Venus\r\nShipping Details:\r\n\r\nAncient secrets... transmutation... homunculi... alchemy. Nothing more than nonsense - pursuits of rightly intentioned but grossly misled minds. Or so I thought. This item's... unexpected physical properties are reason enough to stay my immediate dismissal.\r\n\r\nStrange fortune led this book to me, and stranger knowledge still fills the pages. Chilling, even. It concludes, in chapter eight, that even iron can become gold - but only through a ritual of intense bloodletting, a thought disturbing enough without considering the bountiful riches that accompanied the estate.\r\n\r\nThe takeaway, above all else, seems to be that you cannot get something from nothing; even the very paper of the tome turned to ash as I tried to make photocopies. Whatever was on the first two pages is lost forever. I need transcriptions of the rest by hand, and I know you take pride in your precision. \r\n\r\nAnd more importantly, Kosta, I trust you. Don't do anything that would draw attention to yourself. I will try to find the other volumes. This is knowledge too dangerous to lose.",
+
 	"ITEM_LASERTURBINE_NAME" : "Resonance Disc",
 	"ITEM_LASERTURBINE_PICKUP" : "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
 	"ITEM_LASERTURBINE_DESC" : "Killing enemies charges the Resonance Disc. The disc launches itself toward a target for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>, piercing all enemies it doesn't kill, and then explodes for <style=cIsDamage>1000%</style> base damage <style=cStack>(+1000% per stack)</style>. Returns to the user, striking all enemies along the way for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>.",
@@ -374,5 +375,38 @@
 	"ITEM_LUNARTRINKET_NAME" : "Beads of Fealty",
 	"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing... <color=#FF7F7F>but...</color>\n",
 	"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <color=#FF7F7F>but...</color>\n",
+
+	"ITEM_REPULSIONARMORPLATE_NAME" : "Repulsion Armor Plate",
+	"ITEM_REPULSIONARMORPLATE_PICKUP" : "Recieve flat damage reduction from all attacks.",
+	"ITEM_REPULSIONARMORPLATE_DESC" : "Reduce all <style=cIsDamage>incoming damage</style> by <style=cIsDamage>5<style=cStack> (+5 per stack)</style></style>. Cannot be reduced below <style=cIsDamage>1</style>.",
+	"ITEM_REPULSIONARMORPLATE_LORE" : "Order: Repulsion Armor Replacement Piece\r\nTracking Number: 09******\r\nEstimated Delivery: 08\/15\/2056\r\nShipping Method:  Standard\r\nShipping Address: System Police Station 13, Port of Marv, Ganymede\r\nShipping Details:\r\n\r\nLuckily no one was hurt during the shootout. Just a few rough characters at the bar by the docks. Nothing we couldn\u2019t handle. Jaime took a shot to his shoulder but his armor took all the impact. We\u2019ll need to order him a replacement part before he can go back out in the field.\r\n\r\nThe segmented design is nice because I don\u2019t have to shell out the cash for a whole new set. Frankly, the station\u2019s coffers have seen better days. The next time a rookie damages their equipment they might be looking at a desk job for a while.\r\n",
+
+	"ITEM_SQUIDTURRET_NAME" : "Squid Polyp",
+	"ITEM_SQUIDTURRET_PICKUP" : "Activating an interactable summons a Squid Turret nearby.",
+	"ITEM_SQUIDTURRET_DESC": "Activating an interactable summons a <style=cIsDamage>Squid Turret</style> that attacks nearby enemies at <style=cIsDamage>100% <style=cStack>(+100% per stack)</style> attack speed</style>. Lasts <style=cIsUtility>30</style> seconds.",
+	"ITEM_SQUIDTURRET_LORE" : "\"It\u2019s disgusting.\"\r\n\r\n\"It\u2019s only mildly disturbing. You\u2019re overreacting.\"\r\n\r\n\"Well, when it turns on us, don\u2019t come crying to me.\"\r\n\r\n\"It seems like it wants to only help us, so I\u2019d rather have it close in case that dangerous looking group comes back around.\"\r\n\r\n\"I swear there\u2019s more than one. It\u2019s everywhere I look: the storage locker, the food dispenser, the cargo containers, everywhere!\"\r\n\r\n\"You\u2019re exaggerating, it\u2019s probably just following you. Snap out of it!\"\r\n\r\n\"Ow! Did you just smack me!?\"\r\n\r\n\"You were acting hysterical. I had to… hey, why is that thing looking at me now?\"\r\n",
+
+	"ITEM_DEATHMARK_NAME" : "Death Mark",
+	"ITEM_DEATHMARK_PICKUP" : "Enemies with 4 or more debuffs are marked for death, taking bonus damage.",
+	"ITEM_DEATHMARK_DESC" : "Enemies with <style=cIsDamage>4</style> or more debuffs are <style=cIsDamage>marked for death</style>, increasing damage taken by <style=cIsDamage>50%</style> <style=cStack>(+50% per stack)</style> from all sources for <style=cIsUtility>7</style> seconds.",
+	"ITEM_DEATHMARK_LORE" : "Order: \u201CDeath Mark\u201D\r\nTracking Number: 66******\r\nEstimated Delivery: 02\\22\\2056\\\r\nShipping Method:  High Priority\r\nShipping Address: 421 Lane, Lab [72], Mars\r\nShipping Details:\r\n\r\nEveryone said that I was crazy to search for lost artifacts on Mars. Idiots. There hasn\u2019t been any proof of a previous civilization - but I\u2019ve always trusted my gut. This skull proves that I\u2019m right - that something did exist here before.\r\n\r\nThat smug professor at the university... always disparaging my research. I loved seeing the look on his face as I shook his hand. Idiot. Karma must have been working overtime - I heard he fell ill shortly after. I suppose my success was just too much for him.\r\n\r\n...In fact, everyone I\u2019ve shown seems to not be returning my calls. Are they avoiding me? Are they scared this news would shake up their academic communities? Too proud to admit I\u2019m right?\r\n\r\nI\u2019ll find someone who will give me the recognition I deserve. I\u2019ve worked too hard and done too much. If I don\u2019t keep going, I think I might just die.\r\n",
+
+	"ITEM_INTERSTELLARDESKPLANT_NAME" : "Interstellar Desk Plant",
+	"ITEM_INTERSTELLARDESKPLANT_PICKUP" : "Plant a healing fruit on kill.",
+	"ITEM_INTERSTELLARDESKPLANT_DESC" : "On kill, plant a <style=cIsHealing>healing</style> fruit seed that grows into a plant after <style=cIsUtility>5</style> seconds. \n\nThe plant <style=cIsHealing>heals</style> for <style=cIsHealing>5%</style> of <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>. Lasts <style=cIsUtility>10</style> seconds",
+	"ITEM_INTERSTELLARDESKPLANT_LORE" : "Order: \"Interstellar Plant Seed\"\r\nTracking Number: 44******\r\nEstimated Delivery: 08\/27\/2056\r\nShipping Method:  Standard\/Biological\r\nShipping Address: Giardina Dealership, Naples, Earth\r\nShipping Details:\r\n\r\nHello - yes, I\u2019d like one of those space plant seeds for the office. I think it would look so nice in here; it'd really brighten up the room, and it could really use it. Al at the Denver branch says he got one, and it's really made a difference. His sales are OFF the charts, and he's contributing all his success to this magic plant!\r\n\r\nI've also heard that it sorta gives off a glow that has medical benefits. That would be great for the pain I've been having in my ankle after that run. Might even help the attitude of some of my customers.\r\n",
+
+	"ITEM_ANCESTRALINCUBATOR_NAME" : "Ancestral Incubator",
+	"ITEM_ANCESTRALINCUBATOR_PICKUP" : "Chance on kill to summon an Ancestral Pod.",
+	"ITEM_ANCESTRALINCUBATOR_DESC" : "<style=cIsDamage>7%</style> chance <style=cStack>(+1% per stack)</style> on kill to <style=cIsUtility>summon an Ancestral Pod</style> that distracts enemies. \n\nOnce it fully grows, it will hatch into an allied <style=cIsDamage>Parent</style> with <style=cIsHealing>100% health</style> <style=cStack>(+100% per stack)</style>.",
+	"ITEM_ANCESTRALINCUBATOR_LORE" : "\"How do they know who their leader is? Is it instinct? Or is there something about me?\"\r\n\r\n\"I can't believe you're having me cover for you, Ashley. You know the rules. The last time someone brought something 'friendly' to the camp it did NOT end well. Rich cried for days.\"\r\n\r\n\"But if we figure out how to communicate we can use it to our benefit! Besides, the guy is pretty helpful around here. He can lift heavy boxes and reach high places.\"\r\n\r\n\"I think we should just put that thing back where you found it. Who knows if it will attract more?\"\r\n\r\n\"This is for science...! And besides, maybe it can teach us something about this environment. He's a native here.\"\r\n\r\n\"Yeah, cool, native, okay, I'm out.\"\r\n",
+
+	"ITEM_FOCUSEDCONVERGENCE_NAME" : "Focused Convergence",
+	"ITEM_FOCUSEDCONVERGENCE_PICKUP" : "Increase the speed of Teleporter charging... <color=#FF7F7F>BUT reduce the size of the zone</color>.",
+	"ITEM_FOCUSEDCONVERGENCE_DESC" : "Teleporters charge <style=cIsUtility>30% <style=cStack>(+30% per stack)</style> faster</style>, but the size of the Teleporter zone is <style=cIsHealth>50%</style> <style=cStack>(-50% per stack)</style> smaller. ",
+	"ITEM_FOCUSEDCONVERGENCE_LORE" : "Gravity concentrating... falling inward, condensing, hardening.\r\n\r\nA singularity shrinks to the point your mind inverts, reversing reality. Now return. \r\n\r\nDon\u2019t the matters of the physical world seem trivial now? Your tasks in this realm are simple and hastened, all in an attempt to get reversed. How many times can you make this trip before you are claimed by its process? \n\nDo not let it take you. Take it instead. Here.\r\n",
+	"ITEM_ARTIFACTKEY_NAME" : "Artifact Key",
+	"ITEM_ARTIFACTKEY_PICKUP" : "A stone shard with immense power.",
+	"ITEM_ARTIFACTKEY_DESC" : "A stone shard with immense power.",
 	}
 }

@@ -1,0 +1,69 @@
+{
+	"strings":
+	{
+		"ARTIFACT_GLASS_NAME": "Artifact of Glass",
+		"ARTIFACT_GLASS_DESCRIPTION" : "Allies deal 500% damage, but have 10% health.",
+
+		"ARTIFACT_BOMB_NAME" : "Artifact of Spite",
+		"ARTIFACT_BOMB_DESCRIPTION" : "Enemies drop multiple exploding bombs on death.",
+
+		"ARTIFACT_ENIGMA_NAME" : "Artifact of Enigma",
+		"ARTIFACT_ENIGMA_DESCRIPTION" : "Spawn with a random equipment that changes every time it's activated.",
+
+		"ARTIFACT_SACRIFICE_NAME" : "Artifact of Sacrifice",
+		"ARTIFACT_SACRIFICE_DESCRIPTION" : "Monsters drop items on death, but Chests no longer spawn.",
+
+		"ARTIFACT_SPIRIT_NAME" : "Artifact of Spirit",
+		"ARTIFACT_SPIRIT_DESCRIPTION" : "All characters move faster at lower health.",
+
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Artifact of Metamorphosis",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Players always spawn as a random survivor.",
+		
+		"ARTIFACT_WEAKASSKNEES_NAME": "Artifact of Frailty",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Fall damage is doubled and lethal.",
+		
+		"ARTIFACT_WISPONDEATH_NAME": "Artifact of Soul",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Wisps emerge from defeated monsters.",
+		
+		"ARTIFACT_ELITEONLY_NAME": "Artifact of Honor",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "Enemies can only spawn as elites.",
+		
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "Artifact of Kin",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Monsters will be of only one type per stage.",
+		
+		"ARTIFACT_MIXENEMY_NAME": "Artifact of Dissonance",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "Monsters can appear outside their usual environments.",
+		
+		"ARTIFACT_SHADOWCLONE_NAME": "Artifact of Vengeance",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Your relentless doppelganger will invade every 10 minutes.",
+		
+		"ARTIFACT_TEAMDEATH_NAME": "Artifact of Death",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "When one player dies, everyone dies. Enable only if you want to truly put your teamwork and individual skill to the ultimate test.",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0}'s death ripples forth.</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Your demise has catastrophic effect.</b></style>",
+		
+		"ARTIFACT_SWARMS_NAME": "Artifact of Swarms",
+		"ARTIFACT_SWARMS_DESCRIPTION": "Monster spawns are doubled, but monster maximum health is halved.",
+		
+		"ARTIFACT_COMMAND_NAME": "Artifact of Command",
+		"ARTIFACT_COMMAND_DESCRIPTION": "Choose your items.",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Open",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "What is your Command?",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "White Command Essence",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "Green Command Essence",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "Red Command Essence",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "Yellow Command Essence",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "Orange Command Essence",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "Blue Command Essence",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "Unknown Command Essence",
+
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Artifact of Evolution",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Monsters gain items between stages.",
+
+		"ARTIFACT_FRIENDLYFIRE_NAME": "Artifact of Chaos",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Friendly fire is enabled for both survivors and monsters alike.",
+
+		"ARTIFACT_NONE_NAME" : "Disable Artifact",
+		"ARTIFACT_NONE_DESCRIPTION" : "Disables the selected Artifact.",
+	}
+}

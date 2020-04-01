@@ -46,6 +46,7 @@
 
 		"OPTION_FPSLIMIT" : "FPS Limit",
 		"OPTION_FPSLIMIT_DESCRIPTION": "Cap the FPS to maintain a steady frame rate.",
+		"OPTION_FPSLIMIT_UNCAPPED" : "Unlimited",
 
 		"OPTION_RESOLUTION" : "Resolution",
 		"OPTION_RESOLUTION_DESCRIPTION" : "The resolution and refresh rate of the game. This is usually one of the best settings to lower for improving performance on low-end machines.",
@@ -118,12 +119,15 @@
 		"OPTION_SOBEL_DESCRIPTION": "Enables a light outline to help elements stand out. Disabling this will improve GPU performance.",
 
 		"OPTION_CORPSE_DISPOSAL": "Corpse Clean-up",
-		"OPTION_CORPSE_DISPOSAL_DEFINITION": "How the maximum corpse limit is enforced. Immediate is cheaper, but will cause corpses over the limit to disappear even when visible.",
+		"OPTION_CORPSE_DISPOSAL_DESCRIPTION": "How the maximum corpse limit is enforced. Immediate is cheaper, but will cause corpses over the limit to disappear even when visible.",
 		"OPTION_CORPSE_DISPOSAL_HARD": "Immediate",
 		"OPTION_CORPSE_DISPOSAL_OUTOFSIGHT":"Hidden",
 
 		"OPTION_MAX_CORPSE": "Max Corpses",
-		"OPTION_MAX_CORPSE_DEFINITION": "Limit the maximum number of corpses that can exist at one time. Lowering this number will boost performance.",
+		"OPTION_MAX_CORPSE_DESCRIPTION": "Limit the maximum number of corpses that can exist at one time. Lowering this number will boost performance.",
+		
+		"OPTION_MSAA": "UI Anti-Aliasing:",
+		"OPTION_MSAA_DESCRIPTION": "Reduces jaggies and aliasing on UI elements via MSAA. Lowering this will increase GPU performance.",
 
 		//[Gamepad]
 		"OPTION_STICK_LOOK_SENSITIVITY": "<style=cUserSetting>Look Sensitivity</style>",
@@ -155,7 +159,7 @@
 		"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>Screen Shake Scale</style>",
 		"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "Intensity of screen shake.",
 
-		"OPTION_DAMAGENUMBERS": "Damage Number",
+		"OPTION_DAMAGENUMBERS": "Damage Numbers",
 		"OPTION_DAMAGENUMBERS_DESCRIPTION": "Enables floating damage numbers.",
 
 		"OPTION_SPRINT_SENSITIVITY_REDUCTION": "Sprint Sensitivity Reduction",

@@ -4,11 +4,17 @@
 		"RULE_HEADER_DIFFICULTY": "Difficulty",
 		"RULE_HEADER_DIFFICULTY_WITH_COLON": "Difficulty:",
 		"RULE_HEADER_ARTIFACTS": "Artifacts",
+		"RULE_HEADER_ARTIFACTS_WITH_COLON": "Artifacts:",
+		"RULE_HEADER_ARTIFACTS_SUBTITLE" : "<style=cArtifact>Artifacts</style> are game modifiers that can dramatically change the way the game is played. <style=cArtifact>Artifacts</style> can be found in the world in a <style=cArtifact>secret location</style>.\n\n<i>Challenges can still be unlocked while Artifacts are enabled.<i>",
+		"RULE_ARTIFACTS_EMPTY_TIP": "You have not unlocked any Artifacts yet.",
+		"RULE_HEADER_ARTIFACTS_EDIT" : "Enable and disable Artifacts.",
+		
 		"RULE_HEADER_ITEMS": "Items",
 		"RULE_HEADER_EQUIPMENT": "Equipment",
-		"RULE_HEADER_MISC": "Modifiers",
-		"RULE_ARTIFACTS_EMPTY_TIP": "Game modifiers that can be found in the world. <sprite name=\"WIP\"> Coming soon! <sprite name=\"WIP\">",
+		"RULE_HEADER_ITEMSANDEQUIPMENT_SUBTITLE" : "Toggle off and on items that can appear in the world.",
+		"RULE_HEADER_ITEMSANDEQUIPMENT_EDIT" : "Enable and disable items and equipment.",
 
+		"RULE_HEADER_MISC": "Modifiers",
 		"RULE_STARTINGMONEY_CHOICE_0_NAME": "Broke",
 		"RULE_STARTINGMONEY_CHOICE_0_DESC": "Start with no gold.",
 		"RULE_STARTINGMONEY_CHOICE_15_NAME": "Standard",
@@ -24,5 +30,12 @@
 		
 		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_ON_DESC": "Money is kept between stages",
 		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_OFF_DESC": "Money is converted to experience upon stage completion",
+
+		"RULE_ITEM_ON_DESCRIPTION" : "Enables this item to appear in the world.",
+		"RULE_ITEM_OFF_DESCRIPTION" : "Disables this item from appearing in the world.",
+		"RULE_OFF_FORMAT" : "{0} (Disabled)",
+
+		"RULE_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+		"RULE_EDIT_FORMAT" : "<mark=#{2}><b>[ Edit {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
 	}
 }

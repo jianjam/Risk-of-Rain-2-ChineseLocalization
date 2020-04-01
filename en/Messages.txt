@@ -49,6 +49,7 @@
 		"BAZAAR_SEER_DAMPCAVESIMPLE" : "<style=cWorldEvent>You dream of fire.</style>",
 		"BAZAAR_SEER_SHIPGRAVEYARD" : "<style=cWorldEvent>You dream of wind.</style>",
 		"BAZAAR_SEER_GOLDSHORES" : "<style=cWorldEvent>You dream of wealth.</style>",
+		"BAZAAR_SEER_SKYMEADOW" : "<style=cWorldEvent>You dream of serenity.</style>",
 
 
 		"NEWT_ANNOY_1": "Again again. Everytime.",
@@ -65,6 +66,8 @@
 		"FAMILY_BEETLE" : "<style=cWorldEvent>[WARNING] The ground begins to shift beneath you..</style>",
 		"FAMILY_IMP" : "<style=cWorldEvent>[WARNING] A tear in the fabric of the universe..</style>",
 		"FAMILY_LEMURIAN" : "<style=cWorldEvent>[WARNING] The ground's temperature begins to rise..</style>",
+		"FAMILY_PARENT" : "<style=cWorldEvent>[WARNING] The earth shifts and changes..</style>",
+		"FAMILY_MUSHRUM" : "<style=cWorldEvent>[WARNING] The ground grows sickly..</style>",
 		"PLAYER_DEATH_QUOTE_0_2P" : "You are dead.",
 		"PLAYER_DEATH_QUOTE_0" : "{0} is dead.",
 		"PLAYER_DEATH_QUOTE_1_2P" : "You embrace the void.",
@@ -147,5 +150,23 @@
 		
 		"PLAYER_DEATH_QUOTE_VOIDDEATH_2P" : "You have been detained. Await your sentence at the end of Time.",
 		"PLAYER_DEATH_QUOTE_VOIDDEATH" : "{0} has vanished without a trace.",
+
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_0_2P": "*CRUNCH*",
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_0": "{0} went splat.",
+
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_1_2P": "You tripped.",
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_1": "{0} tripped.",
+
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_2_2P": "You left a beautiful crater.",
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_2": "Visit {0}'s Scenic Crater!",
+
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_3_2P": "You forgot your parachute.",
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_3": "{0} forgot their parachute.",
+
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_4_2P": "You greatly miscalculated.",
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_4": "{0} greatly miscalculated.",
+
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_5_2P": "You lost a fight with gravity.",
+		"PLAYER_DEATH_QUOTE_FALLDAMAGE_5": "{0} lost a fight with gravity.",
 	}
 }
