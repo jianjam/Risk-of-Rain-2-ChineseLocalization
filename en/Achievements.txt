@@ -284,13 +284,13 @@
 		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Complete the Trial of Soul.",
 
 		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Commando: Godspeed",
-		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "As Commando, clear the first stage in less than 5 minutes.",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "As Commando, fully charge the first-stage teleporter before the timer hits 5 minutes.",
 
 		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Bad Medicine",
 		"ACHIEVEMENT_CROCOKILLSCAVENGER_DESCRIPTION": "As Acrid, land the final blow on a Scavenger.",
 
 		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_NAME": "Huntress: Finishing Touch",
-		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "As Huntress, land six killing bounces with a single glaive.",
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "As Huntress, land a killing blow with every possible hit of a single glaive.",
 
 		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_NAME": "Acrid: Easy Prey",
 		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_DESCRIPTION": "As Acrid, land the killing blow on 50 total enemies that have 1 hit point left.",

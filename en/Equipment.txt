@@ -121,7 +121,7 @@
 	"EQUIPMENT_SAWMERANG_NAME": "Sawmerang",
 	"EQUIPMENT_SAWMERANG_PICKUP": "Throw a fan of buzzing saws that come back to you.",
 	"EQUIPMENT_SAWMERANG_DESC": "Throw <style=cIsDamage>three large saw blades</style> that slice through enemies for <style=cIsDamage>3x400%</style> damage. Also deals an additional <style=cIsDamage>3x100% damage per second</style> while <style=cIsDamage>bleeding</style> enemies. Can <style=cIsDamage>strike</style> enemies again on the way back.",
-	"EQUIPMENT_SAWMERANG_LORE": "I'm so happy they let me bring my trusty Frisbee on this trip! Trees need cutting? Frisbee. Baddies getting a little too close? Frisbee. Fun after-hours game of catch? Frisbee... but only if you're trained to catch it.",
+	"EQUIPMENT_SAWMERANG_LORE": "I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy. Fun after-hours game of catch? Disc toy... but only if you're trained to catch it.",
 
 	"EQUIPMENT_RECYCLER_NAME": "Recycler",
 	"EQUIPMENT_RECYCLER_PICKUP": "Transform an Item or Equipment into a different one. Can only recycle once.",
