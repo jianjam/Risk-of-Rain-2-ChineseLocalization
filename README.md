@@ -34,11 +34,11 @@ Risk of Rain 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
 ---
 **安装方式**：
-    下载json文件 ==>[ror2_mar_20_20-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/ror2_mar_20_20-chinese_prc.json)       可使用右键-另存为
+    下载json文件 ==>[ror2_mar_24_20-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/ror2_mar_24_20-chinese_prc.json)       可使用右键-另存为
     
     替换掉
-            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_mar_20_20-chinese_prc.json
+            Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ror2_mar_24_20-chinese_prc.json
     文件
     
- 建议备份源文件
+ 建议备份源文件（移动到其他文件夹或者修改文件名与json为其他扩展名）
  
