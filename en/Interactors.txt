@@ -221,5 +221,17 @@
 
 	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
 	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Submit Formula",
+
+	"LUNAR_TELEPORTER_NAME": "Primordial Teleporter",
+	"LUNAR_TELEPORTER_SHIFT" : "Shift Destination",
+	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "Activate Primordial Teleporter..?",
+	"LUNAR_TELEPORTER_END_CONTEXT": "Enter Primordial Teleporter",
+
+	"SCRAPPER_NAME" : "Scrapper",
+	"SCRAPPER_CONTEXT" : "Scrap Items",
+	"SCRAPPER_POPUP_TEXT" : "<b>Scrapper V1-4</b>\n<i><style=cSub><size=75%>Turn anything into recyclable scrap!</size></style></i>",
+
+	"DROPSHIP_NAME" : "UES Dropship",
+	"DROPSHIP_CONTEXT" : "Escape",
 	}
 }

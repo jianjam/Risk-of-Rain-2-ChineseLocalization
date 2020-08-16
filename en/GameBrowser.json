@@ -1,0 +1,68 @@
+{
+	"strings": {
+		"GAME_BROWSER_NAME" : "Game Browser",
+		"GAME_BROWSER_FILTER" : "Filters",
+		"GAME_BROWSER_FILTER_SORTING" : "Sorting",
+		"GAME_BROWSER_FILTER_SHOW_DEDICATED_SERVERS": "Dedicated Servers",
+		"GAME_BROWSER_FILTER_SHOW_LISTEN_SERVERS": "Listen Servers",
+		"GAME_BROWSER_FILTER_SHOW_LOBBIES": "Lobbies",
+		"GAME_BROWSER_FILTER_SHOW_DROP_IN_GAMES": "Drop-In Enabled",
+		"GAME_BROWSER_FILTER_SHOW_DIFFICULTY_EASY_GAMES": "Difficulty: Drizzle",
+		"GAME_BROWSER_FILTER_SHOW_DIFFICULTY_NORMAL_GAMES": "Difficulty: Rainstorm",
+		"GAME_BROWSER_FILTER_SHOW_DIFFICULTY_HARD_GAMES": "Difficulty: Monsoon",
+		"GAME_BROWSER_FILTER_SHOW_GAMES_WITH_RULE_VOTING": "Rule Voting On",
+		"GAME_BROWSER_FILTER_SHOW_GAMES_WITHOUT_RULE_VOTING": "Rule Voting Off",
+		"GAME_BROWSER_FILTER_SHOW_PASSWORDED_GAMES": "Password-Protected",
+		"GAME_BROWSER_FILTER_MAX_PING": "Max Ping",
+		"GAME_BROWSER_FILTER_MUST_HAVE_PLAYERS": "Must Have Players",
+		"GAME_BROWSER_FILTER_MUST_HAVE_ENOUGH_SLOTS": "Must Have Enough Slots",
+		"GAME_BROWSER_FILTER_MIN_MAX_PLAYERS": "Minimum Capacity",
+		"GAME_BROWSER_FILTER_MAX_MAX_PLAYERS": "Maximum Capacity",
+		"GAME_BROWSER_FILTER_REQUIRED_TAGS": "Required Tags",
+		"GAME_BROWSER_FILTER_FORBIDDEN_TAGS": "Forbidden Tags",
+		"GAME_BROWSER_FILTER_SHOW_STARTED_GAMES": "Show Started Games",
+		"GAME_BROWSER_FILTER_HIDE_INCOMPATIBLE_GAMES": "Hide Incompatible Games",
+
+		"GAME_BROWSER_SORTER_PING": "Ping",
+		"GAME_BROWSER_SORTER_NAME": "Name",
+		"GAME_BROWSER_SORTER_PLAYER_COUNT": "Player Count",
+		"GAME_BROWSER_SORTER_MAX_PLAYER_COUNT": "Maximum Capacity",
+		"GAME_BROWSER_SORTER_AVAILABLE_SLOTS": "Available Slots",
+
+		"GAME_BROWSER_REFRESH": "Refresh",
+
+		"GAME_BROWSER_HEADER_NAME": "Name",
+		"GAME_BROWSER_HEADER_DIFFICULTY": "Difficulty",
+		"GAME_BROWSER_HEADER_PING": "Ping",
+		"GAME_BROWSER_HEADER_PLAYERS": "Players",
+		"GAME_BROWSER_HEADER_TAGS": "Tags",
+		"GAME_BROWSER_HEADER_ARTIFACTS": "Artifacts",
+
+		"REMOTE_GAME_DETAILS_WINDOW_TITLE": "Game Info",
+		"REMOTE_GAME_DETAILS_NAME": "<style=cSub>Name:</style>\t\t{0}",
+		"REMOTE_GAME_DETAILS_PING": "<style=cSub>Ping:</style>\t\t{0, 1}",
+		"REMOTE_GAME_DETAILS_TAGS": "<style=cSub>Tags:</style>\t\t{0}",
+		"REMOTE_GAME_DETAILS_GAMEMODE": "<style=cSub>Game Mode:</style>\t{0}",
+		"REMOTE_GAME_DETAILS_MAP": "<style=cSub>Map:</style>\t\t{0}",
+		"REMOTE_GAME_DETAILS_STATUS": "<style=cSub>Status:</style>\t{0}",
+		"REMOTE_GAME_DETAILS_LOBBY_PLAYER_COUNT": "<style=cSub>Lobby Players:</style>\t{0,1}/{1,1}",
+		"REMOTE_GAME_DETAILS_SERVER_PLAYER_COUNT": "<style=cSub>Players:</style>\t{0,1}/{1,1}",
+		"REMOTE_GAME_DETAILS_PASSWORD": "<style=cSub>Password:\t</style>",
+		"REMOTE_GAME_DETAILS_RULES": "<style=cSub>Rules:</style>",
+		"REMOTE_GAME_DETAILS_PLAYERS": "<style=cSub>Players:</style>",
+
+		"REMOTE_GAME_STATUS_UNRESPONSIVE": "Not responding",
+		"REMOTE_GAME_STATUS_RESPONSIVE": "Available",
+		"REMOTE_GAME_STATUS_PENDING": "Pending...",
+
+		"REMOTE_GAME_DETAILS_FAVORITE": "Favorite: ",
+		"REMOTE_GAME_DETAILS_BLACKLISTED": "Blacklisted: ",
+
+		"REMOTE_GAME_DETAILS_REFRESH": "Refresh",
+		"REMOTE_GAME_DETAILS_JOIN_LOBBY": "Join Lobby",
+		"REMOTE_GAME_DETAILS_JOIN_SERVER": "Join Server",
+
+		"REMOTE_GAME_DETAILS_WARNING_VERSION_MISMATCH": "Version differs between your local game and the remote game.",
+		"REMOTE_GAME_DETAILS_WARNING_MOD_MISMATCH": "The active mods between your local game and the remote game do not match."
+	}
+}

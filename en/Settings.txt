@@ -7,6 +7,8 @@
 		"OPTION_HEADER_AUDIO": "AUDIO",
 		"OPTION_HEADER_VIDEO": "VIDEO",
 		"OPTION_HEADER_GRAPHICS": "GRAPHICS",
+		"OPTION_HEADER_OTHER" : "Other",
+		"OPTION_HEADER_NETWORK": "Network",
 
 		"OPTION_OFF": "Off",
 		"OPTION_ON": "Off",
@@ -171,6 +173,14 @@
 		"OPTION_EXP_AND_MONEY_EFFECTS": "Exp and Money Effects",
 		"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Enables particle effects for experience and money.",
 
+		"OPTION_DETAILED_DESCRIPTION" : "Detailed Item Descriptions",
+		"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Enables detailed Item and Equipment descriptions in-game.",
+
+		//[Misc]
+		"OPTION_STEAM_RELAY_SERVER": "Steam Traffic Relay",
+		"OPTION_STEAM_RELAY_SERVER_DESCRIPTION": "By default, Steam is allowed to deliver your network traffic to other players via relay server. This is either to circumvent direct connection issues or to provide a potentially faster network route. Disabling this option will prevent your traffic from being delivered via relay server.",
+		"OPTION_INTRO_SKIP": "Skip Startup Intro",
+		"OPTION_INTRO_SKIP_DESCRIPTION": "Skips the intro cutscene that plays on startup.",
 
 		"OPTION_REBIND_DIALOG_TITLE": "Rebind Control...",
 		"OPTION_REBIND_DIALOG_DESCRIPTION": "Press the button you wish to assign for {0}. \n{1:0} second(s) remaining.",

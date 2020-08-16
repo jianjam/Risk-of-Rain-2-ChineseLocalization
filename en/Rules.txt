@@ -6,7 +6,7 @@
 		"RULE_HEADER_ARTIFACTS": "Artifacts",
 		"RULE_HEADER_ARTIFACTS_WITH_COLON": "Artifacts:",
 		"RULE_HEADER_ARTIFACTS_SUBTITLE" : "<style=cArtifact>Artifacts</style> are game modifiers that can dramatically change the way the game is played. <style=cArtifact>Artifacts</style> can be found in the world in a <style=cArtifact>secret location</style>.\n\n<i>Challenges can still be unlocked while Artifacts are enabled.<i>",
-		"RULE_ARTIFACTS_EMPTY_TIP": "You have not unlocked any Artifacts yet.",
+		"RULE_ARTIFACTS_EMPTY_TIP": "You have no available Artifacts.",
 		"RULE_HEADER_ARTIFACTS_EDIT" : "Enable and disable Artifacts.",
 		
 		"RULE_HEADER_ITEMS": "Items",

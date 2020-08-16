@@ -1,0 +1,33 @@
+{
+	"strings": {
+		"HOSTGAMEPANEL_TITLE": "Create Multiplayer Game",
+		"HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "Game Settings",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME": "Game Name",
+		"HOSTGAMEPANEL_OPTION_SERVER_NAME_DESCRIPTION": "The name of your game.",
+		"HOSTGAMEPANEL_DEFAULT_SERVER_NAME_FORMAT": "{0}'s Listen Server",
+
+		"HOSTGAMEPANEL_OPTION_GAME_MODE": "Game Mode",
+		"HOSTGAMEPANEL_OPTION_GAME_MODE_DESCRIPTION": "The game mode you want to play.",
+
+		"HOSTGAMEPANEL_OPTION_PASSWORD": "Password",
+		"HOSTGAMEPANEL_OPTION_PASSWORD_DESCRIPTION": "An optional password for your game. Players without a password won't be able to join your game.",
+
+		"HOSTGAMEPANEL_MAX_PLAYERS": "Max Players",
+		"HOSTGAMEPANEL_MAX_PLAYERS_DESCRIPTION": "The maximum number of players allowed in your game.",
+		"HOSTGAMEPANEL_MAX_PLAYERS_TOO_MANY_SLOTS_WARNING": "Risk of Rain 2 is designed for a maximum of 4 players. Performance, bandwidth, stability, and game balance may be negatively affected.",
+
+		"HOSTGAMEPANEL_CUSTOM_TAGS": "Custom Tags",
+		"HOSTGAMEPANEL_CUSTOM_TAGS_DESCRIPTION": "Optional tags for your game. Players can filter your lobby with tags.",
+
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Allow Rule Voting",
+		"HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "Whether or not players are allowed to vote for Difficulty, Artifacts, and more while in character selection.",
+
+		"HOSTGAMEPANEL_LOBBY_TYPE": "Lobby Visiblity",
+		"HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Whether or not the game is Public, Private, or Friends Only.\n\nMust be set to Public to be displayed for other users.",
+
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "Visible to Master Server",
+		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER_DESCRIPTION": "Whether or not the game is visible to other players in their Server Browser.",
+
+		"HOSTGAMEPANEL_HOST": "Start Game"
+	} 
+}

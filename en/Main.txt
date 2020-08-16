@@ -22,6 +22,10 @@
 		"TITLE_MORE_DESC" : "Join Communities, learn about the game, and more!",
 		"TITLE_EXIT": "Quit to Desktop",
 		"TITLE_EXIT_DESC" : "Close Risk of Rain 2.",
+		"TITLE_EXTRAGAMEMODE" : "Alternate Game Modes",
+		"TITLE_EXTRAGAMEMODE_DESC" : "Play alternate Risk of Rain 2 gamemodes, like Prismatic Trials and Eclipse.",
+		"TITLE_ECLIPSE" : "Eclipse",
+		"TITLE_ECLIPSE_DESC" : "Play an advanced gamemode that adds stacking challenge modifiers each time you beat the game.",
 
 		"TITLE_MULTIPLAYER_QUICKPLAY_START": "Enter QuickPlay",
 		"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "Leave QuickPlay",
@@ -29,9 +33,10 @@
 		"TITLE_MULTIPLAYER_JOIN": "Join Lobby ID",
 		"TITLE_MULTIPLAYER_INVITE": "Invite Friends",
 		"TITLE_MULTIPLAYER_RETURN": "Back",
-
+		"TITLE_MULTIPLAYER_FIND_GAME": "Join Multiplayer Game",
+		"TITLE_MULTIPLAYER_HOST_GAME": "Create Multiplayer Game",
 		"MORE_MUSIC" : "MUSIC",
-		"MORE_MUSIC_DESC" : "Hello everyone! Chris here, the composer of the game's soundtrack! Some of you might know me from the original Risk of Rain. The rest of you I'd love to get to know during this Early Access period and beyond.\r\n\r\nWhile there's still more music to be written, I do hope you like what you hear so far! If you'd like to stay in the loop you can follow me on Twitter or Instagram (both @AstronautDown) and check out our Discord server!",
+		"MORE_MUSIC_DESC" : "Hello everyone! Chris here, the composer of the game's soundtrack! Some of you might know me from the original Risk of Rain. The rest of you I'd love to get to know during this development period and beyond.\r\n\r\nWhile there's still more music to be written, I do hope you like what you hear so far! If you'd like to stay in the loop you can follow me on Twitter or Instagram (both @AstronautDown) and check out our Discord server!",
 		"MORE_MUSIC_BUTTON" : "TAKE ME!",
 		"MORE_CONTACT" : "CONTACT",
 		"MORE_CONTACT_DESC" : "Follow us on social media for the latest news, updates, and more about Risk of Rain 2!",
@@ -54,13 +59,13 @@
 
 		"CHARSELECT_RETURN": "Back",
 		"DIFFICULTY_EASY_NAME": "Drizzle",
-		"DIFFICULTY_EASY_DESCRIPTION": "Reduces difficulty for players new to the game. Weeping and gnashing is replaced by laughter and tickles.<style=cStack>\n\n>Player Health Regeneration: +50% \n>Player Damage Reduction: +38% \n>Difficulty Scaling: -50%</style>",
+		"DIFFICULTY_EASY_DESCRIPTION": "Reduces difficulty for players new to the game. Weeping and gnashing is replaced by laughter and tickles.<style=cStack>\n\n>Player Health Regeneration: <style=cIsHealing>+50%</style> \n>Player Damage Reduction: <style=cIsHealing>+38%</style> \n>Difficulty Scaling: <style=cIsHealing>-50%</style></style>",
 
 		"DIFFICULTY_NORMAL_NAME": "Rainstorm",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "This is the way the game is meant to be played! Test your abilities and skills against formidable foes.",
 
 		"DIFFICULTY_HARD_NAME": "Monsoon",
-		"DIFFICULTY_HARD_DESCRIPTION": "For hardcore players. Every bend introduces pain and horrors of the planet. You will die.<style=cStack>\n\n>Player Health Regeneration: -40% \n>Difficulty Scaling: +50%</style>",
+		"DIFFICULTY_HARD_DESCRIPTION": "For hardcore players. Every bend introduces pain and horrors of the planet. You will die.<style=cStack>\n\n>Player Health Regeneration: <style=cIsHealth>-40%</style> \n>Difficulty Scaling: <style=cIsHealth>+50%</style></style>",
 		
 		"USER_PROFILE_DELETE_HEADER": "Delete Profile",
 		"USER_PROFILE_DELETE_DESCRIPTION": "Are you really sure you want to delete profile \"<color=\"orange\">{0}</color>\"? Profile deletion cannot be undone, and all unlockables, stats, settings, and control configurations in the profile <style=cDeath>will be lost forever</style>.",
@@ -132,8 +137,12 @@
 		"KICK_REASON_KICK" : "Kicked from server.",
 		"KICK_REASON_BAN" : "Banned from server.",
 		"KICK_REASON_BADPASSWORD" : "Bad password.",
-		"KICK_REASON_BADVERSION" : "Your version of the game differs from the server.",
+		"KICK_REASON_BADVERSION" : "Your version of the game differs from the server's.\nYours={0}\nTheirs={1}",
 		"KICK_REASON_SERVERFULL" : "Server is full.",
+		"KICK_REASON_ACCOUNT_ALREADY_ON_SERVER" : "Your account is already in use on the server you attempted to connect to.",
+		"KICK_REASON_MALFORMED_AUTH_DATA" : "Your request to join the server was malformed.",
+		"KICK_REASON_STEAMWORKS_AUTH_FAILURE" : "Steamworks authentication failed or was revoked: {0}",
+		"KICK_REASON_MOD_MISMATCH" : "Your mods differ from the server's mods. The game sessions cannot communicate. == Incompatible Mods ==\n{0}\n\n== Required Mods ==\n{1}\n",
 
 		"LEADERBOARDS" : "Leaderboards",
 		"LEADERBOARDS_GLOBAL" : "GLOBAL",
@@ -160,6 +169,14 @@
 		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Are you sure you want to leave this run? You will be leaving your teammates behind.",
 		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "You are the host of this game, and quitting now will <style=cDeath>end the game for all other players</style>. Are you really sure you want to quit?",
 		
+		"CONTROLLER_DISCONNECTED_DIALOG_TITLE" : "Controller Disconnected",
+		"CONTROLLER_DISCONNECTED_DIALOG_BODY" : "A controller was disconnected.",
+
+		"STARTUP_FAILURE_DIALOG_TITLE": "Startup Failure",
+
+		"MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "The game failed to load a necessary library due to an issue with your installation of Microsoft Visual C++ 2015 Redistributable (x64). The button below will open your browser to the Microsoft download page for this installer. Please note that if the installation process fails because the redistributable is already installed, you <i>must uninstall it</i> and try again. This will also occur if you have newer versions of the redistributable, like 2017 or 2019, which will prevent the 2015 version from being installed after them.\n\nThis program will close after this message is dismissed.",
+		"MSVCR_2015_BAD_INSTALL_DIALOG_DOWNLOAD_BUTTON": "Get the Redistributable",
+
 		"ARENA_HUD_MONSTERS_LABEL": "Monsters",
 		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Monsters' Items",
 		
@@ -172,5 +189,9 @@
 		"SCOREBOARD_HEADER_EQUIPMENT": "Equipment",
 		
 		"HUD_LEVEL_PREFIX": "Lv:",
+
+		"LANGUAGE_PLATFORM": "Default ({0})",
+
+		"CUTSCENE_SKIP": "Skip"
 	}
 }

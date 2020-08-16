@@ -1,0 +1,16 @@
+{
+    "strings":
+    {
+        "KEYWORD_POISON" : "<style=cKeywordName>Poisonous</style><style=cSub>Deal damage equal to <style=cIsDamage>10%</style> of their maximum health over 10s. <i>Poison cannot kill enemies.</i></style>",
+        "KEYWORD_RAPID_REGEN" : "<style=cKeywordName>Regenerative</style><style=cSub>Heal for <style=cIsHealing>10%</style> of your maximum health over 0.5s.</style>",
+        "KEYWORD_AGILE" : "<style=cKeywordName>Agile</style><style=cSub>The skill can be used while sprinting.</style>",
+        "KEYWORD_PERCENT_HP" : "<style=cKeywordName>X% HP</style><style=cSub>The skill costs <style=cIsHealth>X% of your current health</style>.</style>",
+        "KEYWORD_SONIC_BOOM" : "<style=cKeywordName>Sonic Boom</style><style=cSub><style=cIsUtility>Pushes</style> away all enemies hit. <style=cIsUtility>Pushes you backwards</style> if you are airborne.</style>",
+        "KEYWORD_WEAK" : "<style=cKeywordName>Weaken</style><style=cSub>Reduce movement speed and damage by <style=cIsDamage>40%</style>. Reduce armor by <style=cIsDamage>20</style>.</style>",
+        "KEYWORD_HEAVY" : "<style=cKeywordName>Heavy</style><style=cSub>The skill deals more damage the faster you are moving.</style>", 
+        "KEYWORD_FREEZING" : "<style=cKeywordName>Freezing</style><style=cSub>Freeze enemies in place. Frozen enemies are <style=cIsHealth>instantly killed</style> if below <style=cIsHealth>30%</style> health.</style>",
+        "KEYWORD_STUNNING" : "<style=cKeywordName>Stunning</style><style=cSub>Interrupts enemies and briefly stuns them.",
+        "KEYWORD_EXPOSE" : "<style=cKeywordName>Expose</style><style=cSub>Hitting Exposed enemies reduces all skill cooldowns by <style=cIsUtility>1.0s</style> and deals an additional <style=cIsDamage>+350% damage</style>.",
+        "KEYWORD_SHOCKING" : "<style=cKeywordName>Shocking</style><style=cSub>Interrupts enemies and stuns them. The stun is removed if the target takes more than <style=cIsHealth>10%</style> of their maximum health in damage.",
+    }
+}

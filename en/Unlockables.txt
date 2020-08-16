@@ -41,6 +41,9 @@
 		"UNLOCKABLE_LOG_PARENT" : "Monster Log: Parent",
 		"UNLOCKABLE_LOG_MINIMUSHROOM" : "Monster Log: Mini Mushrum",
 		"UNLOCKABLE_LOG_GRANDPARENT" : "Monster Log: Grandparent",
+		"UNLOCKABLE_LOG_LUNARWISP" : "Monster Log: Lunar Chimera",
+		"UNLOCKABLE_LOG_LUNARGOLEM" : "Monster Log: Lunar Chimera",
+		"UNLOCKABLE_LOG_BROTHER" : "Monster Log: Mithrix",
 
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
@@ -54,9 +57,11 @@
 		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "Environment Log: A Moment, Fractured",
 		"UNLOCKABLE_LOG_STAGES_GOLDSHORES" : "Environment Log: Gilded Coast",
 		"UNLOCKABLE_LOG_STAGES_SHIPGRAVEYARD" : "Environment Log: Siren's Call",
+		"UNLOCKABLE_LOG_STAGES_ROOTJUNGLE" : "Environment Log: Sundered Grove",
 		"UNLOCKABLE_LOG_STAGES_ARENA" : "Environment Log: Void Fields",
 		"UNLOCKABLE_LOG_STAGES_LIMBO" : "Environment Log: A Moment, Whole",
 		"UNLOCKABLE_LOG_STAGES_SKYMEADOW" : "Environment Log: Sky Meadow",
 		"UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD" : "Environment Log: Bulwark's Ambry",
+		"UNLOCKABLE_LOG_STAGES_MOON" : "Environment Log: Commencement",
 	}
 }

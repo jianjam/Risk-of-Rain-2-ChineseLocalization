@@ -2,6 +2,7 @@
   "strings":
   {
     "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Promote to Lobby Leader",
+    "STEAM_COPY_LOBBY" : "Copy Lobby to Clipboard",
     "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Copy your current Lobby ID to your Clipboard.",
     "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "Copied Lobby ID to clipboard.",
     "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Join Clipboard Lobby",

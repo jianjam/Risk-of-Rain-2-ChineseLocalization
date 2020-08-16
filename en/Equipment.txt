@@ -12,6 +12,7 @@
 	"EQUIPMENT_METEOR_NAME": "Glowing Meteorite",
 	"EQUIPMENT_METEOR_PICKUP": "Rain meteors from the sky, <color=#FF7F7F>hurting both enemies and allies.</color>",
 	"EQUIPMENT_METEOR_DESC": "<style=cIsDamage>Rain meteors</style> from the sky, damaging ALL characters for <style=cIsDamage>600% damage per blast</style>. Lasts 20 seconds.",
+	"EQUIPMENT_METEOR_LORE" : "What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun.",
 
 	"EQUIPMENT_SOULJAR_NAME": "Jar of Souls",
 	"EQUIPMENT_SOULJAR_PICKUP": "Summon a ghost for every enemy on the screen.",
@@ -28,6 +29,7 @@
 	"EQUIPMENT_CRITONUSE_NAME": "Ocular HUD",
 	"EQUIPMENT_CRITONUSE_PICKUP": "Gain 100% Critical Strike Chance for 8 seconds.",
 	"EQUIPMENT_CRITONUSE_DESC": "Gain <style=cIsDamage>+100% Critical Strike Chance</style> for 8 seconds.",
+	"EQUIPMENT_CRITONUSE_LORE": "Order: Ocular HUD\r\nTracking Number: 871*****\r\nEstimated Delivery: 09\/06\/2056\r\nShipping Method: Standard\r\nShipping Address: Greivenkamp, 5th Houston St, Prism Tower, Earth\r\nShipping Details:\r\n\r\nI wish you hadn't asked me for help. I was contacted by [REDACTED] and they explained... well, some things. Using their instructions, I was able to design this interface for prolonged exactness. The beauty of it all is that it will compound with any previous precision enhancing tools. Digital plus optical is the way to go.\r\n\r\nWhile I still don't know everything, I feel like I'm already in too deep. You won't hear from me anymore after this.\r\n",
 
 	"EQUIPMENT_DRONEBACKUP_NAME": "The Back-up",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "Call drones for back up. Lasts 25 seconds.",
@@ -37,10 +39,12 @@
 	"EQUIPMENT_BFG_NAME": "Preon Accumulator",
 	"EQUIPMENT_BFG_PICKUP": "Fire a ball of energy that electrocutes nearby enemies before detonating.",
 	"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>600% damage/second</style>. On contact, detonate in an enormous 20m explosion for <style=cIsDamage>4000% damage</style>.",
+	"EQUIPMENT_BFG_LORE" : "Order: Particle Accelerator Component\r\nTracking Number: 993******\r\nEstimated Delivery: 06\/06\/2056\r\nShipping Method: Volatile\r\nShipping Address: Advance Particle Research Center, Mesquite, Earth\r\n\r\nI still don't get how you keep losing so many accumulators. I build 'em tough, and they're supposed to last. I ran the numbers on the comm speeds, and I'm pretty sure you sent for this order less than two days after you should've got the last one. \r\n\r\nIf this keeps up, you're gonna punch a hole in something where it doesn't belong. You've got a real good sponsor, Jim, but this stuff ain't cheap to ship. And it sure as heck ain't fast. So, I'm sending you a custom part. One that's as tough as I can make, and with a safety to keep you from overcharging it - that I'm sure you'll bypass anyway. \r\n\r\nAt least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap.\r\n",
 
 	"EQUIPMENT_JETPACK_NAME": "Milky Chrysalis",
     "EQUIPMENT_JETPACK_PICKUP": "Gain temporary flight.",
     "EQUIPMENT_JETPACK_DESC": "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Gain <style=cIsUtility>+20% movement speed</style> for the duration.",
+	"EQUIPMENT_JETPACK_LORE": "Order: Milky Chrysalis\r\nTracking Number: 393*****\r\nEstimated Delivery: 11/27/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Diptera Research Center, Io\r\nShipping Details:\r\n\r\nDeep within the plague wastes there is an alcove free from disease. It is home to a group of insects that have NOT acclimated to their environment. They survive not through resistance\u2026 but through transformation. \r\n\r\nI\u2019ve witnessed the creatures undergoing infinite states of metamorphosis. Each change that happens to them is reflected in the surrounding land. This constantly molds the area into something less toxic.\r\n\r\nI can\u2019t imagine that they don\u2019t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I\u2019m sending this sample to you to study. Please be careful with it, as it\u2019s frozen in a cryo cell mid-transformation.\r\n",
 
 	"EQUIPMENT_LIGHTNING_NAME": "Royal Capacitor",
     "EQUIPMENT_LIGHTNING_PICKUP": "Call down a lightning strike on a targeted monster.",
@@ -49,11 +53,13 @@
 	"EQUIPMENT_GOLDGAT_NAME": "The Crowdfunder",
     "EQUIPMENT_GOLDGAT_PICKUP": "Toggle to fire. Costs gold per bullet.",
     "EQUIPMENT_GOLDGAT_DESC": "Fires a continuous barrage that deals <style=cIsDamage>100% damage per bullet</style>. Costs $1 per bullet. Cost increases over time.",
+	"EQUIPMENT_GOLDGAT_LORE": "Order: The Crowdfunder\r\nTracking Number: 783*****\r\nEstimated Delivery: 05/09/2056\r\nShipping Method: Standard\r\nShipping Address: 206 29th Ave, High Chariot, Mercury \r\nShipping Details:\r\n\r\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \r\n\r\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\r\n\r\nI don\u2019t have to tell you how that turned out for them. It\u2019s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.\r\n",
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "Gnarled Woodsprite",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal over time. Activate to send to an ally.",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health</style>.",
-
+	"EQUIPMENT_PASSIVEHEALING_LORE":"Order: Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n",
+	
 	"EQUIPMENT_AFFIXRED_NAME": "Ifrit's Distinction",
     "EQUIPMENT_AFFIXRED_PICKUP": "Become an aspect of fire.",
     "EQUIPMENT_AFFIXRED_DESC": "",
@@ -92,8 +98,8 @@
 	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>Reveal</style> all interactables within 500m for <style=cIsUtility>10 seconds</style>.",
 	
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "Effigy of Grief",
-	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "Drop an effigy that cripples ALL characters inside. Can be picked back up.",
-	"EQUIPMENT_CRIPPLEWARD_DESC" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>.",
+	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "Drop a permanent effigy that cripples ALL characters inside. Can place up to 5..",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>. Can place up to <style=cIsUtility>5</style>.",
 
 	"EQUIPMENT_GATEWAY_NAME" : "Eccentric Vase",
 	"EQUIPMENT_GATEWAY_PICKUP" : "Create a quantum tunnel between two locations.",
@@ -109,6 +115,7 @@
 	"EQUIPMENT_CLEANSE_NAME" : "Blast Shower",
 	"EQUIPMENT_CLEANSE_PICKUP" : "Cleanse all negative effects.",
 	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsUtility>Cleanse</style> all negative effects. Includes debuffs, damage over time, and nearby projectiles.",
+	"EQUIPMENT_CLEANSE_LORE" : "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
 
 	"EQUIPMENT_FIREBALLDASH_NAME" : "Volcanic Egg",
 	"EQUIPMENT_FIREBALLDASH_PICKUP" : "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
@@ -117,6 +124,7 @@
 	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
 	"EQUIPMENT_GAINARMOR_PICKUP" : "Gain massive armor for 5 seconds.",
 	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",
+	"EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones, who, just moments ago were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
 
 	"EQUIPMENT_SAWMERANG_NAME": "Sawmerang",
 	"EQUIPMENT_SAWMERANG_PICKUP": "Throw a fan of buzzing saws that come back to you.",
@@ -127,5 +135,20 @@
 	"EQUIPMENT_RECYCLER_PICKUP": "Transform an Item or Equipment into a different one. Can only recycle once.",
 	"EQUIPMENT_RECYCLER_DESC": "<style=cIsUtility>Transform</style> an Item or Equipment into a different one. <style=cIsUtility>Can only be converted into the same tier one time</style>.",
 	"EQUIPMENT_RECYCLER_LORE": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n",
+
+	"EQUIPMENT_LIFESTEALONHIT_NAME": "Super Massive Leech",
+	"EQUIPMENT_LIFESTEALONHIT_PICKUP": "Heal for a percentage of the damage you deal for 8 seconds.",
+	"EQUIPMENT_LIFESTEALONHIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>20%</style> of the <style=cIsDamage>damage</style> you deal. Lasts <style=cIsHealing>8</style> seconds.",
+	"EQUIPMENT_LIFESTEALONHIT_LORE": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n",
+
+	"EQUIPMENT_TEAMWARCRY_NAME": "Gorag's Opus",
+	"EQUIPMENT_TEAMWARCRY_PICKUP": "You and all your allies enter a frenzy.",
+	"EQUIPMENT_TEAMWARCRY_DESC": "All allies enter a <style=cIsDamage>frenzy</style> for <style=cIsUtility>7</style> seconds. Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>.",
+	"EQUIPMENT_TEAMWARCRY_LORE": "<style=cMono>Audio transcription complete from \"Carrion Crows Tour 2055: Special Edition\"\r\n\r\nPrinting...</style>\r\n\r\n\"Halfway through the tour we were at this little shop down in Groveside and the guy at the desk is trying to sell us random junk.\"\r\n\r\n\"Yeah, he was totally out of the loop, had no idea who we were.\"\r\n\r\n\"Yep, anyways, as a joke, I\u2019m thinking I\u2019ll buy this ancient looking drum and use it on stage at the next show. Then we\u2019d circle back and show this guy a video of his merch being used in the biggest performance on the planet.\"\r\n\r\n\"We tried to find him again, but the shop was all shut down. Couldn\u2019t figure out what happened to him.\"\r\n\r\n\"Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever.\"\r\n",
+
+	"EQUIPMENT_DEATHPROJECTILE_NAME": "Forgive Me Please",
+	"EQUIPMENT_DEATHPROJECTILE_PICKUP": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
+	"EQUIPMENT_DEATHPROJECTILE_DESC": "Throw a cursed doll out that <style=cIsDamage>triggers</style> any <style=cIsDamage>On-Kill</style> effects you have every <style=cIsUtility>1</style> second for <style=cIsUtility>8</style> seconds.",
+	"EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
 	}
 }

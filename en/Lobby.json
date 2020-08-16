@@ -1,0 +1,9 @@
+{
+	"strings": 
+	{
+		"LOBBY_DEFAULT_NAME_FORMAT": "{0}'s Lobby",
+		"LOBBY_CONTROL_PANEL_NAME": "Lobby",
+		"LOBBY_CONTROL_PANEL_LEAVE": "Leave Lobby",
+		"LOBBY_CONTROL_PANEL_CREATE": "Create Lobby"
+	}
+}

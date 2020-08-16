@@ -7,7 +7,7 @@
 
 	"ITEM_CLOVER_NAME": "57 Leaf Clover",
 	"ITEM_CLOVER_PICKUP": "Luck is on your side.",
-	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style><style=cIsUtility> times for a favorable outcome</style>.", 
+	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style>times for a <style=cIsUtility>favorable outcome</style>.", 
 
 	"ITEM_SYRINGE_NAME": "Soldier's Syringe",
 	"ITEM_SYRINGE_PICKUP": "Increases attack speed.",
@@ -30,6 +30,7 @@
 	"ITEM_EXPLODEONDEATH_NAME": "Will-o'-the-wisp",
 	"ITEM_EXPLODEONDEATH_PICKUP": "Detonate enemies on kill.",
 	"ITEM_EXPLODEONDEATH_DESC": "On killing an enemy, spawn a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage.", 
+	"ITEM_EXPLODEONDEATH_LORE": "<style=cMono>Audio transcription complete from portable recorder.\r\n\r\nPrinting...<\/style>\r\n\r\n\"You don\u2019t want to re-name it Bill-o-the-Wisp?\"\r\n\"NO.\"\r\n\"JAR-ed?\"\r\n\"NO.\"\r\n\"Then what about FLARE-ed?\"\r\n\"STOP.\"\r\n\"It needs a name, it\u2019s no dif-FIRE-ent than you or me.\"\r\n\"Next time we\u2019re at base I\u2019m applying for a transfer.\"\r\n\"You know that won\u2019t go through until at least Dec-EMBER.\"\r\n\"How long have you been waiting to use these?\"\r\n\"Coming up with them on the spot. I\u2019ve got a good head on my SMOULDERS.\"\r\n\"You can stop emphasizing those words so much. I get it.\"\r\n\"I will never stop FUELING around.\"\r\n\"...\"\r\n\"...\"\r\n\"...\"\r\n\"Want to grab something to eat when we get back?\"\r\n\"Thank the stars that\u2019s over, yes. I hope they\u2019re not serving that gruel we had yesterday.\"\r\n\"Maybe they\u2019ll cook you a pep-PYRO-ni pizza?\"\r\n\"...\"\r\n\"Hey, wait up! I can\u2019t run holding this thing, it might go off!\"\r\n",
 
 	"ITEM_DAGGER_NAME": "Ceremonial Dagger",
 	"ITEM_DAGGER_PICKUP": "Killing an enemy releases homing daggers.",
@@ -38,7 +39,7 @@
 	
 	"ITEM_TOOTH_NAME": "Monster Tooth",
 	"ITEM_TOOTH_PICKUP": "Drop a healing orb on kill.",
-	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.", 
+	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8</style> plus an additional <style=cIsHealing>2% <style=cStack>(+2% per stack)</style></style> of <style=cIsHealing>maximum health</style>.", 
 
 	"ITEM_CRITGLASSES_NAME": "Lens-Maker's Glasses",
 	"ITEM_CRITGLASSES_PICKUP": "Chance to 'Critically Strike', dealing double damage.",
@@ -91,7 +92,7 @@
 
 	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
 	"ITEM_FALLBOOTS_PICKUP": "Increase jump height. Hold 'Interact' to slam down to the ground.",
-	"ITEM_FALLBOOTS_DESC": "Increase <style=cIsUtility>jump height</style>. Creates a <style=cIsDamage>10m</style> radius <style=cIsDamage>kinetic explosion</style> on hitting the ground, dealing <style=cIsDamage>2300%</style> base damage that scales up with <style=cIsDamage>speed</style>. Recharges in <style=cIsDamage>10</style> <style=cStack>(-50% per stack)</style> seconds.",
+	"ITEM_FALLBOOTS_DESC": "Increase <style=cIsUtility>jump height</style>. Creates a <style=cIsDamage>5m-100m</style> radius <style=cIsDamage>kinetic explosion</style> on hitting the ground, dealing <style=cIsDamage>1000%-10000%</style> base damage that scales up with <style=cIsDamage>speed</style>. Recharges in <style=cIsDamage>10</style> <style=cStack>(-50% per stack)</style> seconds.",
 	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
 
 	"ITEM_COOLDOWNONCRIT_NAME": "Wicked Ring",
@@ -99,8 +100,8 @@
 	"ITEM_COOLDOWNONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> reduces all your <style=cIsUtility>cooldowns</style> by <style=cIsUtility>1</style>.",
 
 	"ITEM_WARDONLEVEL_NAME": "Warbanner",
-	"ITEM_WARDONLEVEL_PICKUP": "Drop a Warbanner on leveling up, giving you great strength.",
-	"ITEM_WARDONLEVEL_DESC": "On <style=cIsUtility>level up</style> drop a banner that strengthens all allies within <style=cIsUtility>16m</style> <style=cStack>(+8m per stack)</style>. Raise <style=cIsDamage>attack</style> and <style=cIsUtility>movement speed</style> by <style=cIsDamage>30%</style>.",
+	"ITEM_WARDONLEVEL_PICKUP": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
+	"ITEM_WARDONLEVEL_DESC": "On <style=cIsUtility>level up</style> or starting the <style=cIsUtility>Teleporter event</style>, drop a banner that strengthens all allies within <style=cIsUtility>16m</style> <style=cStack>(+8m per stack)</style>. Raise <style=cIsDamage>attack</style> and <style=cIsUtility>movement speed</style> by <style=cIsDamage>30%</style>.",
 
 	"ITEM_WARCRYONMULTIKILL_NAME": "Berzerker's Pauldron",
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "Enter a frenzy after killing 3 enemies in quick succession.",
@@ -136,7 +137,7 @@
 	
 	"ITEM_MEDKIT_NAME": "Medkit",
 	"ITEM_MEDKIT_PICKUP": "Receive a delayed heal after taking damage.",
-	"ITEM_MEDKIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>25 <style=cStack>(+25 per stack)</style> health</style> 2 seconds after getting hurt.",
+	"ITEM_MEDKIT_DESC": "2 seconds after getting hurt, <style=cIsHealing>heal</style> for <style=cIsHealing>20</style> plus an additional <style=cIsHealing>5% <style=cStack>(+5% per stack)</style></style> of <style=cIsHealing>maximum health</style>.", 
 	"ITEM_MEDKIT_LORE": "\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nMED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nThe robot was speaking to a tall man, gaunt but strong. \"I'd love to, but we're running low on food.\" Even though his expression was hidden underneath his blue combat helmet, it was obvious the man was extremely tired. \"And everyone else is recovering from last night's attacks. Without the enforcers, we probably wouldn't have-\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nIt was apparent that MED-E only had a limited set of lines. However, the man continued to respond. \"I can't, MED-E. They're counting on me. You know that.\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nThis time the man did not humor a reply. Grabbing his shotgun, he turned away from the echoing robot. Weaving his way between countless sleeping bags and stretchers, he set out into the wilderness again. Everyone was counting on him.\r\n\r\n<style=cMono>\"Please stay indoors and rest.\" <\/style>\r\n",
 
 	"ITEM_EQUIPMENTMAGAZINE_NAME": "Fuel Cell",
@@ -151,11 +152,12 @@
 	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil",
 	"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
 	"ITEM_SHOCKNEARBY_DESC": "Fire out <style=cIsDamage>lightning</style> that hits <style=cIsDamage>3</style> <style=cStack>(+2 per stack)</style> enemies for <style=cIsDamage>200%</style> base damage every <style=cIsDamage>0.5s</style>. The Tesla Coil switches off every <style=cIsDamage>10 seconds</style>.",
+	"ITEM_SHOCKNEARBY_LORE": "<style=cMono>Tesla Presentation Software v1.14\r\nPowering on...\r\n10...\r\nIssuing welcome statement...\r\n9...</style>\r\nWelcome one and all!\r\n<style=cMono>8...</style>\r\nPlease take a seat.\r\n<style=cMono>7...</style>\r\nMake sure those behind you can see.\r\n<style=cMono>6...</style>\r\nThe presentation will start shortly.\r\n<style=cMono>5...</style>\r\nPlease obey the staff for your safety.\r\n<style=cMono>4...\r\nInitiating room mood lighting...\r\n3...</style>\r\nGet ready to behold...\r\n<style=cMono>2...</style>\r\nThe marvelous wonders...\r\n<style=cMono>1...</style>\r\nOf electricity!\r\n<style=cMono>Power anomaly detected...\r\nInitiating reboot procedure in 10...</style>\r\n",
 
 	"ITEM_IGNITEONKILL_NAME": "Gasoline",
 	"ITEM_IGNITEONKILL_PICKUP": "Killing enemies sets nearby enemies on fire.",
 	"ITEM_IGNITEONKILL_DESC": "Killing an enemy <style=cIsDamage>ignites</style> all enemies within <style=cIsDamage>12m</style> <style=cStack>(+4m per stack)</style>. Enemies <style=cIsDamage>burn</style> for <style=cIsDamage>150%</style> <style=cStack>(+75% per stack)</style> base damage.",
-	"ITEM_IGNITEONKILL_LORE" : "<style=cMono>\r\nAudio transcription complete from signal echoes. Assigning generic tokens.</style>\r\n\r\n[Fire crackling]\r\n\r\nMAN 1: D-do you think they're gonna come for us?\r\n\r\nMAN 2: They'll try. It's going to be a very long while.\r\n\r\nMAN 1: What? Why?\r\n\r\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours \u2013 FTL ships are very rare nowadays.\r\n\r\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\r\n\r\nMAN 2: We weren't on the route.\r\n\r\n[Fire pops]\r\n\r\nMAN 1: What?!\r\n\r\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren\u2019t. The ship never announced it was slowing down either, so that\u2019ll make triangulating our positions even harder.\r\n\r\nMAN 1: I-I don't get it. Who would take a UESC train off course? That's completely insane!\r\n\r\nMAN 2: I don\u2019t know \u2013 only the Captain does. There\u2019s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\r\n\r\n[Sizzling]\r\n\r\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\r\n\r\nMAN 1: I... I can't even think right now. I\u2019m not hungry.\r\n\r\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\r\n\r\nMAN 1: Sure. Okay. Okay. Um\u2026 do you think it's poisonous?\r\n\r\nMAN 2: Eat.\r\n\r\n<style=cMono>End of requested transcript. </style>\r\n",
+	"ITEM_IGNITEONKILL_LORE" : "<style=cMono>\r\nAudio transcription complete from signal echoes. Assigning generic tokens.</style>\r\n\r\n[Fire crackling]\r\n\r\nMAN 1: D-do you think they're gonna come for us?\r\n\r\nMAN 2: They'll try. It's going to be a very long while.\r\n\r\nMAN 1: What? Why?\r\n\r\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours \u2013 FTL ships are very rare nowadays.\r\n\r\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\r\n\r\nMAN 2: We weren't on the route.\r\n\r\n[Fire pops]\r\n\r\nMAN 1: What?!\r\n\r\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren\u2019t. The ship never announced it was slowing down either, so that\u2019ll make triangulating our positions even harder.\r\n\r\nMAN 1: I-I don't get it. Who would take a UES train off course? That's completely insane!\r\n\r\nMAN 2: I don\u2019t know \u2013 only the Captain does. There\u2019s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\r\n\r\n[Sizzling]\r\n\r\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\r\n\r\nMAN 1: I... I can't even think right now. I\u2019m not hungry.\r\n\r\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\r\n\r\nMAN 1: Sure. Okay. Okay. Um\u2026 do you think it's poisonous?\r\n\r\nMAN 2: Eat.\r\n\r\n<style=cMono>End of requested transcript. </style>\r\n",
 
 	"ITEM_BOUNCENEARBY_NAME": "Sentient Meat Hook",
 	"ITEM_BOUNCENEARBY_PICKUP": "Chance to hook all nearby enemies.",
@@ -170,6 +172,7 @@
 	"ITEM_BANDOLIER_NAME": "Bandolier",
 	"ITEM_BANDOLIER_PICKUP": "Chance on kill to drop an ammo pack that resets all skill cooldowns.",
 	"ITEM_BANDOLIER_DESC": "<style=cIsUtility>18%</style> <style=cStack>(+10% on stack)</style> chance on kill to drop an ammo pack that <style=cIsUtility>resets all skill cooldowns</style>.",
+	"ITEM_BANDOLIER_LORE": "Order: Bandolier\r\nTracking Number: 112*****\r\nEstimated Delivery: 04/19/2056\r\nShipping Method: Standard\r\nShipping Address: 3950 Sunsell Ln, Tri-City, Earth\r\nShipping Details:\r\n\r\nThank you for your participation in the auction! We\u2019ve included a short history on the item, as well as documents to verify its authenticity.\r\n\r\nThis is the famous bandolier worn by B. Grundy himself. He and his pals used to raise terror all over the map of the new territories. Their favorite activity was to tie up people they didn\u2019t like and drag them behind their horses \u2013 Grundy clearly had a sweet spot for the old days.\r\n\r\nThe sling carries an impressive assortment of ammunition - Grundy himself carried many different guns. It was rumored that they held out for 3 whole days and nights before their weapons ran dry.\r\n\r\n",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "Stun Grenade",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "Chance to stun on hit.",
@@ -198,6 +201,7 @@
 	"ITEM_TALISMAN_NAME": "Soulbound Catalyst",
 	"ITEM_TALISMAN_PICKUP": "Kills reduce equipment cooldown.",
 	"ITEM_TALISMAN_DESC": "<style=cIsDamage>Kills reduce</style> <style=cIsUtility>equipment cooldown</style> by <style=cIsUtility>4s</style> <style=cStack>(+2s per stack)</style>.",
+	"ITEM_TALISMAN_LORE": "Order: Soulbound Catalyst\r\nTracking Number: 890*****\r\nEstimated Delivery: 11/06/2056\r\nShipping Method: High Priority/Fragile\r\nShipping Address: 1414 Place, Fillmore, Venus\r\nShipping Details:\r\n\r\nIf you thought the ring was a rare find, wait until you get your hands on this!\r\n\r\nIt turns out the method the King used did not originate from his time period. His court discovered a ritual performed by a tribe from much further back. It, of course, dealt with sacrifice, but in substantial groups. This was supposed to concentrate the catalyzing properties of the item it was imbued into.\r\n\r\nPayment will be at least twice as much as our previous deal. We can discuss it later - another night.\r\n",
 
 	"ITEM_KNURL_NAME": "Titanic Knurl",
 	"ITEM_KNURL_PICKUP": "Boosts health and regeneration.",
@@ -238,13 +242,13 @@
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro and Runald's Bands",
 	"ITEM_ICERING_NAME": "Runald's Band",
-	"ITEM_ICERING_PICKUP": "Chance on hit to strike an enemy with a runic ice blast.",
-	"ITEM_ICERING_DESC": "<style=cIsDamage>8%</style> chance on hit to strike an enemy with a <style=cIsDamage>runic ice blast</style>, <style=cIsUtility>slowing</style> them by <style=cIsUtility>80%</style> and dealing <style=cIsDamage>250%</style> <style=cStack>(+125% per stack)</style> TOTAL damage.",
+	"ITEM_ICERING_PICKUP": "High damage hits also blasts enemies with runic ice. Recharges over time.",
+	"ITEM_ICERING_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also blasts enemies with a <style=cIsDamage>runic ice blast</style>, <style=cIsUtility>slowing</style> them by <style=cIsUtility>80%</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> and dealing <style=cIsDamage>250%</style> <style=cStack>(+250% per stack)</style> TOTAL damage. Recharges every <style=cIsUtility>10</style> seconds.",
 	"ITEM_ICERING_LORE": "\"Should memories be lost,\r\nShould oceans be clouded,\r\nWill you bring me fervor?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa\r\n",
 
 	"ITEM_FIRERING_NAME": "Kjaro's Band",
-	"ITEM_FIRERING_PICKUP": "Chance on hit to strike an enemy with a runic flame tornado.",
-	"ITEM_FIRERING_DESC": "<style=cIsDamage>8%</style> chance on hit to strike an enemy with a <style=cIsDamage>runic flame tornado</style>, dealing <style=cIsDamage>500%</style> <style=cStack>(+250% per stack)</style> TOTAL damage.",
+	"ITEM_FIRERING_PICKUP": "High damage hits also blasts enemies with a runic flame tornado. Recharges over time.",
+	"ITEM_FIRERING_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also blasts enemies with a <style=cIsDamage>runic flame tornado</style>, dealing <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage over time. Recharges every <style=cIsUtility>10</style> seconds.",
 	"ITEM_FIRERING_LORE": "\"Should passion die down,\r\nShould light be extinguished,\r\nWill you bring me patience?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa",
 	
 	"ITEM_SLOWONHIT_NAME": "Chronobauble",
@@ -289,7 +293,8 @@
 	
 	"ITEM_EXECUTELOWHEALTHELITE_NAME": "Old Guillotine",
 	"ITEM_EXECUTELOWHEALTHELITE_PICKUP": "Instantly kill low health Elite monsters.",
-	"ITEM_EXECUTELOWHEALTHELITE_DESC": "Instantly kill Elite monsters below <style=cIsHealth>20% <style=cStack>(+20% per stack)</style> health</style>.",
+	"ITEM_EXECUTELOWHEALTHELITE_DESC": "Instantly kill Elite monsters below <style=cIsHealth>13% <style=cStack>(+13% per stack)</style> health</style>.",
+	"ITEM_EXECUTELOWHEALTHELITE_LORE": "Order: Old Guillotine\r\nTracking Number: 782*****\r\nEstimated Delivery: 04\/29\/2056\r\nShipping Method: Standard\r\nShipping Address: Warehouse 36, Anklar, Primas V \r\nShipping Details:\r\n\r\nEveryone is still operating on adrenaline here. We finally overthrew our oppressors and have taken back Primas V! I know some of the overlords will attempt to buy their way onto a stealth transport, but that\u2019s going to be quite difficult due to their epic economic blunder.\r\n\r\nWe don\u2019t just want blood for all the injustices we\u2019ve suffered at their hands. We want to send a message to would-be sympathizers. This old guillotine will serve both as an execution method and a symbol to strike fear into their hearts wherever they might be hiding.\r\n\r\nPrimas V is alive!\r\n",
 
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_NAME": "War Horn",
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_PICKUP": "Activating your Equipment gives you a burst of attack speed.",
@@ -299,6 +304,7 @@
 	"ITEM_BARRIERONOVERHEAL_NAME": "Aegis",
 	"ITEM_BARRIERONOVERHEAL_PICKUP": "Healing past full grants you a temporary barrier.",
 	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>50% <style=cStack>(+50% per stack)</style></style> of the amount you <style=cIsHealing>healed</style>.",
+	"ITEM_BARRIERONOVERHEAL_LORE" : "Order: Artifact E-8EE572\r\nTracking Number: 490******\r\nEstimated Delivery: 08\/10\/2056\r\nShipping Method: Priority\r\nShipping Address: Titan Museum of History and Culture, Titan\r\n\r\nSorry about the delay, we've had a flood of orders come in from this site. But it was exactly where you said we should look - there was a sealed off room where you marked the excavation diagram. I finished translating the engraving too, so consider that a bonus for the time we took to get to it:\r\n\r\n\"I am the will to survive made manifest. To those who never lose hope, to they who try in the face of impossible odds, I offer not \r\nprotection, but the means to bring one's unconquerable spirit forth as the defender of their mortal lives.\"\r\n\r\nIt\u2019s so lightweight, we figure it must've been entirely decorative. That seems to line up with the text. In any case, I hope it makes a good exhibit! I'm a big fan of the museum, so it wouldn't hurt to give me a partner's discount next time I visit, right?\r\n",
 
 	"ITEM_TONICAFFLICTION_NAME": "Tonic Affliction",
 	"ITEM_TONICAFFLICTION_PICKUP": "<color=#FF7F7F>Reduce ALL stats when not under the effects of Spinel Tonic.</color>",
@@ -306,23 +312,27 @@
 	"ITEM_TITANGOLDDURINGTP_NAME": "Halcyon Seed",
 	"ITEM_TITANGOLDDURINGTP_PICKUP": "Summon Aurelionite during the Teleporter event.",
 	"ITEM_TITANGOLDDURINGTP_DESC": "Summon <style=cIsDamage>Aurelionite</style> during the teleporter event. It has <style=cIsDamage>100% <style=cStack>(+50% per stack)</style> damage</style> and <style=cIsHealing>100% <style=cStack>(+100% per stack)</style> health</style>.",
+	"ITEM_TITANGOLDDURINGTP_LORE": "Brother, what is this...? Why is it misshapen and weak? Was there an error in my design?\r\n\r\nGuardian. Come to me. Allow me to see your construction.\r\n\r\n...\r\n\r\nSo I see.\r\n\r\nThese are not the correct ratios.\r\n\r\nThis is no minor error, Brother. You have purposefully deviated from the design. For what purpose have you done this? You cannot weave a construct from such an abundance of soul. You know it is too unstable - that it is too unpredictable and too frail. I have told you this, and yet you have wasted the materials I have gathered - and exhausted your own strength to fabricate this miscreation.\r\n\r\nTo what benefit?\r\n\r\nAt its best, it can be no more than an inferior servant; it is deficient in the compounds that were to give it fortitude and strength. At its worst, it will betray us.\r\n\r\nYou have created the first being of this world which threatens us. We cannot keep it here. Attempting to destroy it will risk its retaliation... I will prepare one of the vaults for it to be sealed away, while it is still young and naive.\r\n\r\nWhat a foolish mistake you have made, brother.\r\n\r\nI expect you to return the design to me. I cannot allow you to build another construct with so much power - and with such little control. I will build the rest of our guardians; by my hand, they will be weak, but at least they will be loyal.\r\n\r\nGo home. I will deal with this creature. We can discuss a better project for you when I return.",
 
 	"ITEM_SPRINTWISP_NAME": "Little Disciple",
 	"ITEM_SPRINTWISP_PICKUP": "Fire tracking wisps while sprinting.",
-	"ITEM_SPRINTWISP_DESC" : "Fire a <style=cIsDamage>tracking wisp</style> for <style=cIsDamage>100% <style=cStack>(+100% per stack)</style> damage</style>. Fires every 0.5 seconds while sprinting.",
+	"ITEM_SPRINTWISP_DESC" : "Fire a <style=cIsDamage>tracking wisp</style> for <style=cIsDamage>300% <style=cStack>(+300% per stack)</style> damage</style>. Fires every <style=cIsUtility>1.6</style> seconds while sprinting. Fire rate increases with <style=cIsUtility>movement speed</style>.",
 	"ITEM_SPRINTWISP_LORE" : "HELLO, LITTLE ONE. HOW WAS YOUR ADVENTURE TODAY?\r\n\r\nOH\r\n\r\nYOUR FORM IS BROKEN, LITTLE ONE. WHAT TRICKERIES HAVE YOU GOTTEN YOURSELF INTO?\r\n\r\nOH\r\n\r\nDO YOU TIRE OF ADVENTURE? \r\n\r\nWOULD YOU LIKE TO HELP ME TEND TO THE GARDEN, MY LITTLE ONE?\r\n\r\nI UNDERSTAND. OH, YOUR FORM! DO NOT WORRY. COME CLOSER.\r\n\r\nHERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\r\n\r\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.\r\n\r\nI GIVE YOU NOTHING FOR SPIRIT.\r\n\r\nOH, DO NOT WORRY! WE WILL STILL GO ON ADVENTURES. THEY WILL BE QUIET ADVENTURES. \r\n\r\nCOME CLOSER - CLOSER NOW. \r\n\r\nCLOSER!\r\n\r\nNOW WATCH - WATCH CLOSELY. \r\n\r\nWATCH HOW I TEND TO OUR GARDEN.\r\n",
 
 	"ITEM_BARRIERONKILL_NAME" : "Topaz Brooch",
 	"ITEM_BARRIERONKILL_PICKUP" : "Gain a temporary barrier on kill.",
 	"ITEM_BARRIERONKILL_DESC" : "Gain a <style=cIsHealing>temporary barrier</style> on kill for <style=cIsHealing>15 health <style=cStack>(+15 per stack)</style></style>.",
+	"ITEM_BARRIERONKILL_LORE" : "Order: Topaz Brooch\r\nTracking Number: 442*****\r\nEstimated Delivery: 05\/05\/2056\r\nShipping Method: High Priority\r\nShipping Address: Locker #2, Parghos Resort, Venus\r\nShipping Details:\r\n\r\nThe locker combination is 33941. Inside the package, besides your standard equipment, you will find the brooch. The appearance of this item is meant to blend in at the party. Pin it to your body and the software inside will map your extents. Activation will briefly cover you in ultra-phasic shielding.\r\n\r\nWhen you have taken out the target, the shield will switch on to protect you from any immediate retaliation measures they have installed in the security system. If the time frame is not enough to make your escape, the shield can be... reactivated, but we\u2019d like to keep casualties to a minimum.\r\n\r\nGood luck.\r\n",
 	
 	"ITEM_ARMORREDUCTIONONHIT_NAME" : "Shattering Justice",
 	"ITEM_ARMORREDUCTIONONHIT_PICKUP" : "Reduce the armor of enemies after repeatedly striking them.",
 	"ITEM_ARMORREDUCTIONONHIT_DESC" : "After hitting an enemy <style=cIsDamage>5</style> times, reduce their <style=cIsDamage>armor</style> by <style=cIsDamage>60</style> for <style=cIsDamage>8</style><style=cStack> (+8 per stack)</style> seconds.",
+	"ITEM_ARMORREDUCTIONONHIT_LORE" : "Shattering Justice Owner\u2019s Manual\r\n\r\nExcerpt from section 2.13:\r\n... and if the target material doesn\u2019t cave under the immense weight just keep hitting it until it does. The patented technology inside the face of this tool doesn\u2019t just use brute force to break down its mark, it also utilizes a formulated nano toxin, released through internal mechanisms, that builds up through subsequent contact. In other words, each hit makes it easier to break.\r\n\r\nPlease refer back to section 1.8 for information on proper handling and the included anti-toxin gloves...\r\n",
 	
 	"ITEM_TPHEALINGNOVA_NAME" : "Lepton Daisy",
 	"ITEM_TPHEALINGNOVA_PICKUP" : "Periodically release a healing nova during the Teleporter event.",
 	"ITEM_TPHEALINGNOVA_DESC" : "Release a <style=cIsHealing>healing nova </style>during the Teleporter event, <style=cIsHealing>healing</style> all nearby allies for <style=cIsHealing>50%</style> of their maximum health. Occurs <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style> times.",
+	"ITEM_TPHEALINGNOVA_LORE" : "Order: Lepton Daisy\r\nTracking Number: 23******\r\nEstimated Delivery: 07\/23\/2056\r\nShipping Method: Standard\r\nShipping Address: Duck Lake, Orlandus, Earth \r\nShipping Details:\r\n\r\nDear Stalnia,\r\n\r\nI haven't been able to visit for a while, so I hope you and Libra are doing well. I heard that you're clearing the land there and want to spruce things up. I'm sending this flower I picked in the Carbon Fields of Electron Valley. The terraformers there told me that, over time, landscaping efforts were improved by the organic-band signals sent out by this plant. I've been helping them build a new world.\r\n\r\nJust make sure to put it up high enough that Mushka can't get to it. I'm not sure what effect it'll have on dogs...\r\n",
 	
 	"ITEM_NEARBYDAMAGEBONUS_NAME": "Focus Crystal",
 	"ITEM_NEARBYDAMAGEBONUS_PICKUP": "Deal bonus damage to nearby enemies.",
@@ -357,7 +367,7 @@
 	"ITEM_BONUSGOLDPACKONKILL_NAME" : "Ghor's Tome",
 	"ITEM_BONUSGOLDPACKONKILL_PICKUP" : "Chance on kill to drop a treasure.",
 	"ITEM_BONUSGOLDPACKONKILL_DESC": "<style=cIsUtility>4%</style> <style=cStack>(+4% on stack)</style> chance on kill to drop a treasure worth <style=cIsUtility>$25</style>. <style=cIsUtility>Scales over time.</style>",
-	"ITEM_BONUSGOLDPACKONKILL_LORE" : "Order: \u201CGhor\u2019s Tome\u201D\r\nTracking Number: 19******\r\nEstimated Delivery: 07\\07\\2056\\\r\nShipping Method: Priority\r\nShipping Address: 99th Floor, Crumbling Tower, Venus\r\nShipping Details:\r\n\r\nAncient secrets... transmutation... homunculi... alchemy. Nothing more than nonsense - pursuits of rightly intentioned but grossly misled minds. Or so I thought. This item's... unexpected physical properties are reason enough to stay my immediate dismissal.\r\n\r\nStrange fortune led this book to me, and stranger knowledge still fills the pages. Chilling, even. It concludes, in chapter eight, that even iron can become gold - but only through a ritual of intense bloodletting, a thought disturbing enough without considering the bountiful riches that accompanied the estate.\r\n\r\nThe takeaway, above all else, seems to be that you cannot get something from nothing; even the very paper of the tome turned to ash as I tried to make photocopies. Whatever was on the first two pages is lost forever. I need transcriptions of the rest by hand, and I know you take pride in your precision. \r\n\r\nAnd more importantly, Kosta, I trust you. Don't do anything that would draw attention to yourself. I will try to find the other volumes. This is knowledge too dangerous to lose.",
+	"ITEM_BONUSGOLDPACKONKILL_LORE" : "Order: \u201CGhor\u2019s Tome\u201D\r\nTracking Number: 19******\r\nEstimated Delivery: 07\/07\/2056\r\nShipping Method: Priority\r\nShipping Address: 99th Floor, Crumbling Tower, Venus\r\nShipping Details:\r\n\r\nAncient secrets... transmutation... homunculi... alchemy. Nothing more than nonsense - pursuits of rightly intentioned but grossly misled minds. Or so I thought. This item's... unexpected physical properties are reason enough to stay my immediate dismissal.\r\n\r\nStrange fortune led this book to me, and stranger knowledge still fills the pages. Chilling, even. It concludes, in chapter eight, that even iron can become gold - but only through a ritual of intense bloodletting, a thought disturbing enough without considering the bountiful riches that accompanied the estate.\r\n\r\nThe takeaway, above all else, seems to be that you cannot get something from nothing; even the very paper of the tome turned to ash as I tried to make photocopies. Whatever was on the first two pages is lost forever. I need transcriptions of the rest by hand, and I know you take pride in your precision. \r\n\r\nAnd more importantly, Kosta, I trust you. Don't do anything that would draw attention to yourself. I will try to find the other volumes. This is knowledge too dangerous to lose.",
 
 	"ITEM_LASERTURBINE_NAME" : "Resonance Disc",
 	"ITEM_LASERTURBINE_PICKUP" : "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
@@ -388,12 +398,12 @@
 
 	"ITEM_DEATHMARK_NAME" : "Death Mark",
 	"ITEM_DEATHMARK_PICKUP" : "Enemies with 4 or more debuffs are marked for death, taking bonus damage.",
-	"ITEM_DEATHMARK_DESC" : "Enemies with <style=cIsDamage>4</style> or more debuffs are <style=cIsDamage>marked for death</style>, increasing damage taken by <style=cIsDamage>50%</style> <style=cStack>(+50% per stack)</style> from all sources for <style=cIsUtility>7</style> seconds.",
+	"ITEM_DEATHMARK_DESC" : "Enemies with <style=cIsDamage>4</style> or more debuffs are <style=cIsDamage>marked for death</style>, increasing damage taken by <style=cIsDamage>50%</style> from all sources for <style=cIsUtility>7</style> <style=cStack>(+7 per stack)</style> seconds.",
 	"ITEM_DEATHMARK_LORE" : "Order: \u201CDeath Mark\u201D\r\nTracking Number: 66******\r\nEstimated Delivery: 02\\22\\2056\\\r\nShipping Method:  High Priority\r\nShipping Address: 421 Lane, Lab [72], Mars\r\nShipping Details:\r\n\r\nEveryone said that I was crazy to search for lost artifacts on Mars. Idiots. There hasn\u2019t been any proof of a previous civilization - but I\u2019ve always trusted my gut. This skull proves that I\u2019m right - that something did exist here before.\r\n\r\nThat smug professor at the university... always disparaging my research. I loved seeing the look on his face as I shook his hand. Idiot. Karma must have been working overtime - I heard he fell ill shortly after. I suppose my success was just too much for him.\r\n\r\n...In fact, everyone I\u2019ve shown seems to not be returning my calls. Are they avoiding me? Are they scared this news would shake up their academic communities? Too proud to admit I\u2019m right?\r\n\r\nI\u2019ll find someone who will give me the recognition I deserve. I\u2019ve worked too hard and done too much. If I don\u2019t keep going, I think I might just die.\r\n",
 
 	"ITEM_INTERSTELLARDESKPLANT_NAME" : "Interstellar Desk Plant",
 	"ITEM_INTERSTELLARDESKPLANT_PICKUP" : "Plant a healing fruit on kill.",
-	"ITEM_INTERSTELLARDESKPLANT_DESC" : "On kill, plant a <style=cIsHealing>healing</style> fruit seed that grows into a plant after <style=cIsUtility>5</style> seconds. \n\nThe plant <style=cIsHealing>heals</style> for <style=cIsHealing>5%</style> of <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>. Lasts <style=cIsUtility>10</style> seconds",
+	"ITEM_INTERSTELLARDESKPLANT_DESC" : "On kill, plant a <style=cIsHealing>healing</style> fruit seed that grows into a plant after <style=cIsUtility>5</style> seconds. \n\nThe plant <style=cIsHealing>heals</style> for <style=cIsHealing>10%</style> of <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>5m</style> <style=cStack>(+5.0m per stack)</style>. Lasts <style=cIsUtility>10</style> seconds.",
 	"ITEM_INTERSTELLARDESKPLANT_LORE" : "Order: \"Interstellar Plant Seed\"\r\nTracking Number: 44******\r\nEstimated Delivery: 08\/27\/2056\r\nShipping Method:  Standard\/Biological\r\nShipping Address: Giardina Dealership, Naples, Earth\r\nShipping Details:\r\n\r\nHello - yes, I\u2019d like one of those space plant seeds for the office. I think it would look so nice in here; it'd really brighten up the room, and it could really use it. Al at the Denver branch says he got one, and it's really made a difference. His sales are OFF the charts, and he's contributing all his success to this magic plant!\r\n\r\nI've also heard that it sorta gives off a glow that has medical benefits. That would be great for the pain I've been having in my ankle after that run. Might even help the attitude of some of my customers.\r\n",
 
 	"ITEM_ANCESTRALINCUBATOR_NAME" : "Ancestral Incubator",
@@ -405,8 +415,57 @@
 	"ITEM_FOCUSEDCONVERGENCE_PICKUP" : "Increase the speed of Teleporter charging... <color=#FF7F7F>BUT reduce the size of the zone</color>.",
 	"ITEM_FOCUSEDCONVERGENCE_DESC" : "Teleporters charge <style=cIsUtility>30% <style=cStack>(+30% per stack)</style> faster</style>, but the size of the Teleporter zone is <style=cIsHealth>50%</style> <style=cStack>(-50% per stack)</style> smaller. ",
 	"ITEM_FOCUSEDCONVERGENCE_LORE" : "Gravity concentrating... falling inward, condensing, hardening.\r\n\r\nA singularity shrinks to the point your mind inverts, reversing reality. Now return. \r\n\r\nDon\u2019t the matters of the physical world seem trivial now? Your tasks in this realm are simple and hastened, all in an attempt to get reversed. How many times can you make this trip before you are claimed by its process? \n\nDo not let it take you. Take it instead. Here.\r\n",
+
+	"ITEM_FIREBALLSONHIT_NAME" : "Molten Perforator",
+	"ITEM_FIREBALLSONHIT_PICKUP" : "Chance on hit to fire magma balls.",
+	"ITEM_FIREBALLSONHIT_DESC" : "<style=cIsDamage>10%</style> chance on hit to call forth <style=cIsDamage>3 magma balls</style> from an enemy, dealing <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> damage each.",
+	"ITEM_FIREBALLSONHIT_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Molten Perforator\r\nTechnician: Dema \"Dembones\" Brown\r\nTable Spec: Heatsink UB-2\r\nNotes:\r\n\r\n> Using UB-2 due to temperatures above safe levels.\r\n> Removing molten enamel and placing aside for substance analysis. It\u2019s solid, yet swimming.\r\n> Upon structural investigation, found cavities and internal chambers\r\n> Reduce lab temperatures by 10 degrees\r\n> Heat generating veins present - fire is being supplied to the tooth?\r\n> Removed my lab coat, very hot\r\n> Heat generation is still occurring in the severed object\r\n> Put some more ice in my drink WOW its hot\r\n> Timestamping for break\r\n",
+
+	"ITEM_BLEEDONHITANDEXPLODE_NAME" : "Shatterspleen",
+	"ITEM_BLEEDONHITANDEXPLODE_PICKUP" : "Critical strikes always bleed enemies. Bleeding enemies now explode.",
+	"ITEM_BLEEDONHITANDEXPLODE_DESC" : "<style=cIsDamage>Critical Strikes bleed</style> enemies for <style=cIsDamage>240%</style> base damage. <style=cIsDamage>Bleeding</style> enemies <style=cIsDamage>explode</style> on death for <style=cIsDamage>400%</style> <style=cStack>(+400% per stack)</style> damage, plus an additional <style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style> of their maximum health.", 
+	"ITEM_BLEEDONHITANDEXPLODE_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Shatterspleen\r\nTechnician:  Professor Mehri Daimera\r\nTable Spec: Spillproof BDC-3\r\nNotes:\r\n\r\n> This will be my third attempt at a dissection of an Imp organ\r\n> First attempt resulted in rupture\r\n> Second attempt resulted in rupture\r\n> Cutting into the outer layer produces copious amounts of fluid discharge\r\n> As the fluid flows, the rest of the organ, inexplicably, swells\r\n> Swelling will ultimately result in violent rupture\r\n> Made use of the stemming tools on the BDC-3 to successfully proceed without incident\r\n> Surprised to find sharp needle point objects (bones?) inside\r\n> Timestamping for break\r\n> Came back to leave some final notes\r\n> Third attempt aborted after I injured my hand\r\n> Eventually was able to stop my own bleeding. The organ seems to contain immense anticoagulant properties.\r\n",
+
+	"ITEM_SIPHONONLOWHEALTH_NAME" : "Mired Urn",
+	"ITEM_SIPHONONLOWHEALTH_PICKUP" : "Siphon health from nearby characters while in combat.",
+	"ITEM_SIPHONONLOWHEALTH_DESC" : "While in combat, the nearest 1<style=cStack>(+1 per stack)</style> characters to you within <style=cIsDamage>13m</style> will be 'tethered' to you, dealing <style=cIsDamage>100%</style> damage per second, applying <style=cIsDamage>tar</style>, and <style=cIsHealing>healing</style> you for <style=cIsHealing>100%</style> of the damage dealt.",
+	"ITEM_SIPHONONLOWHEALTH_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\nSubject: Mired Urn\r\nTechnician: J. Flint\r\nTable Spec: Full Enclosure AY-2 with ARMM Kit\r\nNotes:\r\n\r\n- The survey team went through a lot of trouble to bring this one back.\r\n- Fitz was the only one left standing, in fact said he felt great, and the rest are still in the recovery ward\r\n- Subject is what appears to be a clay vase\r\n- Could this be part of a camouflaging defense mechanism?\r\n- Inside the vase is a dark gooey substance\r\n- Goo can articulate into functioning appendages\r\n- Intelligence of subject indeterminable at this point\r\n- When operating the ARMM kit, goo attaches to all but one of them\r\n- Instability in the ARMM power system aborts the procedure\r\n",
+	
+	"ITEM_MONSTERSONSHRINEUSE_NAME" : "Defiant Gouge",
+	"ITEM_MONSTERSONSHRINEUSE_PICKUP" : "Using a Shrine summons enemies nearby.",
+	"ITEM_MONSTERSONSHRINEUSE_DESC" : "Using a Shrine summons <style=cIsHealth>enemies</style> nearby. <style=cIsUtility>Scales over time.</style>",
+
+	"ITEM_RANDOMDAMAGEZONE_NAME" : "Mercurial Rachis",
+	"ITEM_RANDOMDAMAGEZONE_PICKUP" : "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.",
+	"ITEM_RANDOMDAMAGEZONE_DESC" : "Creates a Ward of Power in a random location nearby that buffs both enemies and allies within <style=cIsUtility>16m</style> <style=cStack>(+50% per stack)</style>, causing them to deal <style=cIsDamage>+50%</style> damage.",
+
 	"ITEM_ARTIFACTKEY_NAME" : "Artifact Key",
 	"ITEM_ARTIFACTKEY_PICKUP" : "A stone shard with immense power.",
 	"ITEM_ARTIFACTKEY_DESC" : "A stone shard with immense power.",
+
+	"ITEM_CAPTAINDEFENSEMATRIX_NAME" : "Defensive Microbots",
+	"ITEM_CAPTAINDEFENSEMATRIX_PICKUP" : "Shoot down nearby projectiles. Recharge rate scales with attack speed.",
+	"ITEM_CAPTAINDEFENSEMATRIX_DESC" : "Shoot down <style=cIsDamage>1</style> <style=cStack>(+1 per stack)</style> projectiles within <style=cIsDamage>20m</style> every <style=cIsDamage>0.5 seconds</style>. <style=cIsUtility>Recharge rate scales with attack speed</style>.",
+	
+	"ITEM_SCRAPWHITE_NAME" : "Item Scrap, White",
+	"ITEM_SCRAPWHITE_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPWHITE_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+
+	"ITEM_SCRAPGREEN_NAME" : "Item Scrap, Green",
+	"ITEM_SCRAPGREEN_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPGREEN_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+
+	"ITEM_SCRAPRED_NAME" : "Item Scrap, Red",
+	"ITEM_SCRAPRED_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPRED_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+
+	"ITEM_SCRAPYELLOW_NAME" : "Item Scrap, Yellow",
+	"ITEM_SCRAPYELLOW_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPYELLOW_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+
+	"ITEM_LUNARBADLUCK_NAME" : "Purity",
+	"ITEM_LUNARBADLUCK_PICKUP" : "Reduce your skill cooldowns by 2 seconds. <color=#FF7F7F>You are unlucky.</color>",
+	"ITEM_LUNARBADLUCK_DESC": "All skill cooldowns are reduced by <style=cIsUtility>2</style> <style=cStack>(+1 per stack)</style> seconds. All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> times for an <style=cIsHealth>unfavorable outcome</style>.", 
+	"ITEM_LUNARBADLUCK_LORE" : "It looks like starseed, tanning in dirt.\r\nIt smells like hot stone, and tall grass.\r\nIt tastes like spiced fruit, sweet and hot.\r\nIt feels like solar winds, and solar chimes.\r\nIt sounds like two brothers, chasing glass frogs in the sun.\r\n",
 	}
 }

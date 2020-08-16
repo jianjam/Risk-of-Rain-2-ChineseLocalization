@@ -25,6 +25,8 @@
 		"STONEGATE_OPEN" : "<style=cWorldEvent>An ancient gate begins to shift..</style>",
 		"VULTURE_EGG_WARNING" : "<style=cWorldEvent>You hear a distant whirring..</style>",
 		"VULTURE_EGG_BEGIN" : "<style=cWorldEvent>The whirring grows loud.</style>",
+		"LUNAR_TELEPORTER_IDLE" : "<style=cWorldEvent>The Primordial Teleporter aligns with the planet..</style>",
+		"LUNAR_TELEPORTER_ACTIVE" : "<style=cWorldEvent>The Primordial Teleporter aligns with the moon..</style>",
 
 		"NEWT_UPGRADE_1": "Yes yes. That will grow both ways. Both ways.",
 		"NEWT_UPGRADE_2": "More growth. Good good good.",
@@ -50,6 +52,8 @@
 		"BAZAAR_SEER_SHIPGRAVEYARD" : "<style=cWorldEvent>You dream of wind.</style>",
 		"BAZAAR_SEER_GOLDSHORES" : "<style=cWorldEvent>You dream of wealth.</style>",
 		"BAZAAR_SEER_SKYMEADOW" : "<style=cWorldEvent>You dream of serenity.</style>",
+		"BAZAAR_SEER_ROOTJUNGLE" : "<style=cWorldEvent>You dream of violent growth.</style>",
+		"BAZAAR_SEER_MOON" : "<style=cWorldEvent>You dream of glass and dirt.</style>",
 
 
 		"NEWT_ANNOY_1": "Again again. Everytime.",
@@ -68,6 +72,7 @@
 		"FAMILY_LEMURIAN" : "<style=cWorldEvent>[WARNING] The ground's temperature begins to rise..</style>",
 		"FAMILY_PARENT" : "<style=cWorldEvent>[WARNING] The earth shifts and changes..</style>",
 		"FAMILY_MUSHRUM" : "<style=cWorldEvent>[WARNING] The ground grows sickly..</style>",
+		"FAMILY_LUNAR" : "<style=cWorldEvent>[WARNING] The bulwark begin to falter..</style>",
 		"PLAYER_DEATH_QUOTE_0_2P" : "You are dead.",
 		"PLAYER_DEATH_QUOTE_0" : "{0} is dead.",
 		"PLAYER_DEATH_QUOTE_1_2P" : "You embrace the void.",

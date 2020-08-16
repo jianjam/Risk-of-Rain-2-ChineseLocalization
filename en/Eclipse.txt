@@ -1,0 +1,25 @@
+{
+    "strings":
+    {
+       "ECLIPSE_GAMEMODE_NAME" : "Eclipse",
+	   "ECLIPSE_GAMEMODE_DESCRIPTION" : "<style=cIsUtility>Eclipse</style> is a gamemode that adds stacking challenge modifiers to your run.\n\nEach time you <style=cIsUtility>beat the game</style>, your Eclipse level <style=cIsUtility>permanently increases</style> with that Survivor, up to a maximum of <style=cIsUtility>8</style> times.",
+	   "ECLIPSE_GAMEMODE_START" : "Start Eclipse",
+
+	   "ECLIPSE_1_NAME" : "Eclipse (1)",
+	   "ECLIPSE_2_NAME" : "Eclipse (2)",
+	   "ECLIPSE_3_NAME" : "Eclipse (3)",
+	   "ECLIPSE_4_NAME" : "Eclipse (4)",
+	   "ECLIPSE_5_NAME" : "Eclipse (5)",
+	   "ECLIPSE_6_NAME" : "Eclipse (6)",
+	   "ECLIPSE_7_NAME" : "Eclipse (7)",
+	   "ECLIPSE_8_NAME" : "Eclipse (8)",
+	   "ECLIPSE_1_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style></style>",
+	   "ECLIPSE_2_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style></style>",
+	   "ECLIPSE_3_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style></style>",
+	   "ECLIPSE_4_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style>\n<mspace=0.5em>(4)</mspace> Enemy Speed: <style=cIsHealth>+40%</style></style>",
+	   "ECLIPSE_5_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style>\n<mspace=0.5em>(4)</mspace> Enemy Speed: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Ally Healing: <style=cIsHealth>-50%</style></style>",
+	   "ECLIPSE_6_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style>\n<mspace=0.5em>(4)</mspace> Enemy Speed: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Ally Healing: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style></style>",
+	   "ECLIPSE_7_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style>\n<mspace=0.5em>(4)</mspace> Enemy Speed: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Ally Healing: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> Enemy Cooldowns: <style=cIsHealth>-50%</style></style>",
+       "ECLIPSE_8_DESCRIPTION" : "\"You only celebrate in the light... because I allow it.\" \n\nStarts at baseline Monsoon difficulty. <style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style> \n<mspace=0.5em>(4)</mspace> Enemy Speed: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Ally Healing: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Enemy Gold Drops: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Enemy Cooldowns: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Allies recieve <style=cIsHealth>permanent damage</style></style>"
+	}
+}
