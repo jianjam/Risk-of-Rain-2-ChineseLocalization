@@ -1,0 +1,6 @@
+{
+"strings":
+{	
+"DEFAULT_FONT": "TmpFonts/Noto/NotoSans-Regular SDF(ROOT Extended ASCII + Turkish)",
+}
+}
