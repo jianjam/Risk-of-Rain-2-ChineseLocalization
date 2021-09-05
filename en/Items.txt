@@ -8,6 +8,7 @@
 	"ITEM_CLOVER_NAME": "57 Leaf Clover",
 	"ITEM_CLOVER_PICKUP": "Luck is on your side.",
 	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style>times for a <style=cIsUtility>favorable outcome</style>.", 
+	"ITEM_CLOVER_LORE": "It was a massacre. The orbital probes had incinerated both the battalion and the enemy\u2013 as well as the entire plateau. There was no life left to be found - except for one lone soldier.\r\n\r\nThe soldier trudged through the scorched plains, numbly looking for any survivors.\r\n\r\nBut he found none.\r\n\r\nThe soldier tried to find water \u2013 he had only just noticed how thirsty he was, and how much his head hurt. How much his heart hurt.\r\n\r\nBut he found none.\r\n\r\nThe soldier tried to remember, why he was out on this terrible mission, and why he had to say goodbye to so many.\r\n\r\nBut he found none.\r\n\r\nThe soldier tried to find anything \u2013 anything that could justify why he was alive. Some semblance of meaning \u2013 or hope.\r\n\r\nAnd he found one.\r\n\r\nA small leaf, peeking out from a pile of ash. He gently plucked the clover out of the ground \u2013 somehow, it survived hours of orbital bombardments. \r\n\r\nWith clover in hand, the soldier began the long trek to report back to his superiors. Was this divine intervention? Was there some meaning \u2013 some reason as to why both him and this little clover survived? \r\n\r\nOr were they just lucky?\r\n",
 
 	"ITEM_SYRINGE_NAME": "Soldier's Syringe",
 	"ITEM_SYRINGE_PICKUP": "Increases attack speed.",
@@ -22,10 +23,12 @@
 	"ITEM_BEHEMOTH_NAME": "Brilliant Behemoth",
 	"ITEM_BEHEMOTH_PICKUP": "All your attacks explode!",
 	"ITEM_BEHEMOTH_DESC": "All your <style=cIsDamage>attacks explode</style> in a <style=cIsDamage>4m </style> <style=cStack>(+1.5m per stack)</style> radius for a bonus <style=cIsDamage>60%</style> TOTAL damage to nearby enemies.", 
+	"ITEM_BEHEMOTH_LORE": "\u201CLasers have their speed. Swords have their edge. Gases have their reach. \r\n\r\nBut let me tell you... Nothing, and I mean NOTHING, is as timeless as gunpowder.  Just a pinch - jammed into a tight enough socket - and KABOOM! You got yourself not just a powerful weapon, but something that\u2019ll leave a lasting sense of fear in your enemies. I mean, nobody wants to be blown up, right?\u201D\r\n\r\n- Autobiography of Jans Czar, Modern King of Weaponry\r\n",
 
 	"ITEM_MISSILE_NAME": "AtG Missile Mk. 1",
 	"ITEM_MISSILE_PICKUP": "Chance to fire a missile.",
 	"ITEM_MISSILE_DESC": "<style=cIsDamage>10%</style> chance to fire a missile that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage.", 
+	"ITEM_MISSILE_LORE": "Fixing a spare bayonet onto his shotgun, he glanced at the horizon. The thundering of footsteps big and small was growing louder and louder \u2013 they were nearly upon him. He went over his kit one last time.\r\n\r\nFive bayonets. Twenty three packs of incendiary explosives. Fifteen magazines of armor-piercing ammunition. Thirty three sticky bombs. Four tear-gas grenades, and so on.\r\n\r\nAnd his favorite \u2013 two shoulder-mounted missile launchers, loaded with six AtG Viper Missiles. Heat seeking, detonation power of 15 pounds of TNT per missile. Light-weight, and the best part \u2013 automatic firing mechanism. He initially favored a more analog approach to his weapons, but the thing had grown on him.\r\n\r\nTurning to face the oncoming mob, he loaded his shotgun. The adrenaline started pumping.\r\n\r\n\u201CBring it on.\u201D\r\n",
 
 	"ITEM_EXPLODEONDEATH_NAME": "Will-o'-the-wisp",
 	"ITEM_EXPLODEONDEATH_PICKUP": "Detonate enemies on kill.",
@@ -40,42 +43,52 @@
 	"ITEM_TOOTH_NAME": "Monster Tooth",
 	"ITEM_TOOTH_PICKUP": "Drop a healing orb on kill.",
 	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8</style> plus an additional <style=cIsHealing>2% <style=cStack>(+2% per stack)</style></style> of <style=cIsHealing>maximum health</style>.", 
+	"ITEM_TOOTH_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM ROOM 5041C OF UES [Redacted] --\/\/<\/style>\r\n\r\n\u201CHey, nice duds! Where\u2019d you grab those?\u201D\r\n\r\n\u201COh, this old thing? I\u2019ve been making it, actually.\u201D\r\n\r\n\u201CMaking it?\u201D\r\n\r\n\u201CYeah, well, I found the first tooth in one of the chests. But every time we go out on patrol, we typically run into more of those aliens. Once we take care of \u2018em, I try to pick myself out a souvenir. Y\u2019know, to add to my collection.\u201D\r\n\r\n\u201CWow, uh\u2026 Is that like, allowed? I feel like that\u2019s not allowed.\u201D\r\n\r\n\u201CEh, what the captain doesn\u2019t know won\u2019t hurt him. Besides, it IS cool, right?\u201D\r\n\r\n\u201CI guess so. I\u2019ll be honest man, that\u2019s creepy as hell\u2026 but hey, do you have any more string? I might start one of my own.\u201D",
 
 	"ITEM_CRITGLASSES_NAME": "Lens-Maker's Glasses",
 	"ITEM_CRITGLASSES_PICKUP": "Chance to 'Critically Strike', dealing double damage.",
-	"ITEM_CRITGLASSES_DESC": "Your attacks have a <style=cIsDamage>10%</style> <style=cStack>(+10% per stack)</style> chance to '<style=cIsDamage>Critically Strike</style>', dealing <style=cIsDamage>double damage</style>.", 
+	"ITEM_CRITGLASSES_DESC": "Your attacks have a <style=cIsDamage>10%</style> <style=cStack>(+10% per stack)</style> chance to '<style=cIsDamage>Critically Strike</style>', dealing <style=cIsDamage>double damage</style>.",
+	"ITEM_CRITGLASSES_LORE": "\u2026What I didn\u2019t see was that the golem was aiming its laser at my back. I managed to barely dodge it - just by pure luck - but the blast knocked me to the ground. My glasses flew off my face and I was on my back, stunned, barely able to make sense of myself\u2026\r\n\r\nAnd then... well, I can\u2019t really explain what happened next. Adrenaline, some kind of divine intervention, I dunno. But I reached out, and managed to grab my glasses, raise \u2018em up to my eyes so I could see, and BAM! Fired the last of my bullets.\r\n\r\nAnd, well... I guess I managed to hit something vital in its head. Exploded in red stone and glass. It stopped moving after that. \r\n\r\nIf it wasn\u2019t for that shot, I wouldn\u2019t be here telling this story.\u201D\r\n\r\n-Signal echoes, UES Contact Light\r\n",
 
 	"ITEM_HOOF_NAME": "Paul's Goat Hoof",
 	"ITEM_HOOF_PICKUP": "Move faster.",
 	"ITEM_HOOF_DESC": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>14%</style> <style=cStack>(+14% per stack)</style>.",
+	"ITEM_HOOF_LORE": "Order: Paul\u2019s Goat Hoof\r\nTracking Number: 187*****\r\nEstimated Delivery: 03\/27\/2056\r\nShipping Method:  Standard\r\nShipping Address: 2663rd Fields, Redmond, Venus\r\nShipping Details:\r\n\r\nA hoof from one of my many goats; I noticed one day that one of my goats had an abnormally large foot. Thinking it was cancerous, I went to the doctors and lo-and-behold - it was. My goat died shortly after.\r\n",
 
 	"ITEM_FEATHER_NAME": "Hopoo Feather",
 	"ITEM_FEATHER_PICKUP": "Gain an extra jump.",
 	"ITEM_FEATHER_DESC": "Gain <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> maximum <style=cIsUtility>jump count</style>.", 
+	"ITEM_FEATHER_LORE": "\u201C...Europan laws have cracked down heavily on poaching, with the intent to help the reemergence of the hopoo. Since then, the Greebokks Foundation has helped support hopoo conservation groups, substantially growing their population beyond the initial three that were recorded in recent years.\u201D\r\n\r\n- Europan Wildlife Guide\r\n",
  
 	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
 	"ITEM_CHAINLIGHTNING_PICKUP": "...and his music was electric.",
 	"ITEM_CHAINLIGHTNING_DESC": "<style=cIsDamage>25%</style> chance to fire <style=cIsDamage>chain lightning</style> for <style=cIsDamage>80%</style> TOTAL damage on up to <style=cIsDamage>3 <style=cStack>(+2 per stack)</style></style> targets within <style=cIsDamage>20m</style> <style=cStack>(+2m per stack)</style>.",
+	"ITEM_CHAINLIGHTNING_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM RALLYPOINT [Redacted] --\/\/<\/style>\r\n\r\nThe planet was unforgiving, taking more and more with each passing day. Lives and limbs were lost, and the medical tent grew increasingly busy.\r\n\r\nJans was unfortunate enough to walk right into a group of Lemurians during a routine check around the rallypoint perimeter. He was lucky enough to escape with his life, but the Lemurians wounded his leg before backup arrived. \r\n\r\nJans leaned back in his cot. He strummed the strings on his ukulele \u2013 which he had picked up from an earlier expedition \u2013 as he contemplated his thoughts. Nothing too complex, but just a simple tune that he had picked up back when he took lessons as a child. Unbeknownst to him, one by one, he had gathered himself an audience. The gentle melodies of Jans\u2019 ukulele brought a rare comfort to the pained and labored patients, and for the first time since admittance, they felt like they could smile.\r\n\r\nLife in the medical tent was never something anybody could look forward to. Death, irreversible injuries, and a choking atmosphere surrounded them. But for a brief moment\u2026 the lives of those patients became that much brighter. Jans stopped, surveying the crowd intently watching him. \r\n\r\nHe laughed, readying himself for an encore. Maybe things wouldn\u2019t be so bad after all.\r\n",
 
 	"ITEM_SEED_NAME": "Leeching Seed",
 	"ITEM_SEED_PICKUP": "Dealing damage heals you.",
 	"ITEM_SEED_DESC": "Dealing damage <style=cIsHealing>heals</style> you for <style=cIsHealing>1 <style=cStack>(+1 per stack)</style> health</style>.", 
+	"ITEM_SEED_LORE": "It was a crisp evening - and things were looking up. The botanist began walking towards the Plant Biology Complex to check on several alien plants that had been recovered from the week before.\r\n\r\nAnother worker was already in the complex, busy at work.\r\n\r\n\u201CHey.\u201D \u201COh, hello!\u201D The worker greeted her enthusiastically. He was carrying several bags of fertilizer, and she gave him a quizzical look. \u201CYou need any help with those?\u201D She said, gathering her clipboard for her check.\r\n\r\n\u201COh no, I\u2019m alright. It\u2019s a good workout, actually,\u201D he said. As they walked, the botanist couldn\u2019t help but wonder what kind of job would require THAT much fertilizer.\r\n\r\nAs the door to the greenhouse whirred open, she got her answer \u2013 roots scaling the height of the greenhouse and snaking along the ceiling, even invading the containers of other specimens. \u201CWhat the hell!?\u201D She cried, her jaw slack. And then she noticed the other plants. \r\n\r\nEvery other plant in the greenhouse had withered \u2013 with an incriminating root leading back to the overgrowth that the worker was now feeding fertilizer. The botanist was speechless. \u201CWhat happened...? What... what is that...?\u201D She stammered. The worker turned to her and grinned.\r\n\r\n\u201COne of the species we got in the last expedition. He demands a lot of nutrients - it took me so long to get him to even sprout. I was wracking my brain, trying every trick in the book. And every other specimen seemed to be growing fine, so I figured, hey, why not share some of that? And look!\u201D\r\n\r\nSpreading his arms, the worker marveled at the gallery of dead plants. Dropping her clipboard, the botanist\u2019s stomach sank. Things were no longer looking up.\r\n",
 
 	"ITEM_ICICLE_NAME": "Frost Relic",
 	"ITEM_ICICLE_PICKUP": "Killing enemies surrounds you with an ice storm.",
-	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with an <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage per second</style>. The storm <style=cIsDamage>grows with every kill</style>, increasing its radius by <style=cIsDamage>1m</style>. Stacks up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack)</style>.", 
+	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with an <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>1200% damage per second</style> and <style=cIsUtility>slows</style> enemies by <style=cIsUtility>80%</style> for <style=cIsUtility>1.5s</style>. The storm <style=cIsDamage>grows with every kill</style>, increasing its radius by <style=cIsDamage>2m</style>. Stacks up to <style=cIsDamage>18m</style> <style=cStack>(+12m per stack)</style>.", 
+	"ITEM_ICICLE_LORE": "\u201CSven Volz discovered the specimen that holds the record of Galaxy\u2019s Largest Snowflake: a whopping 0.5 meters in diameter, with an average temperature of -52 degrees. However \u2013 much to the despair of novelty snowflake enthusiasts everywhere \u2013 this gargantuan snowflake was lost in transit aboard the UES Contact Light, which disappeared in uncharted territory. One can only hope that it is preserved and frosty as ever, where ever it may be.\u201D\r\n- Academy Galactic Records 2056\r\n",
 
 	"ITEM_GHOSTONKILL_NAME": "Happiest Mask",
 	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
 	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>7%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>1500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack)</style>.", 
+	"ITEM_GHOSTONKILL_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM RALLYPOINT DELTA --\/\/<\/style>\r\n\r\n\u201CSir, the ghosts are back.\u201D\r\n\r\nThe man sighed. After a routine expedition, one of the crew members \u2013 a simple soldier - had recovered an artifact thought to have been aboard the Contact Light \u2013 a simple mask, adorned with a painfully happy grin. \r\n\r\n\u201CI\u2019ll take care of it.\u201D The man trudged down the hall towards the barracks. The Lemurians he had killed earlier that day walked down the hall by him, barely earning a second glance from the man. This had become so commonplace that most of the crew members in this block had grown accustomed to having a ghostly room-mate.\r\n\r\nBut enough was enough. Stepping through the ghost of an Imp, the man slammed the door open. The lights were off, and in the corner sat the soldier.\r\n\r\n\u201CAlright, we\u2019ve had enough fun playing with the dead. Fork it over.\u201D\r\n\r\nNo response. The man grunted and hoisted the soldier to his feet, giving him a few rough shakes. \u201CHey, can you hear me!? I said hand over the mask! I\u2019m tired of waking up next to Beetles, so give it a rest already--\u201D\r\n\r\nThe soldier\u2019s limp body moved. Slowly, the soldier raised his finger \u2013 pointing directly at the man.\r\n\r\n\u201CWhat are you...?\u201D With a sense of dread, the man turned and saw the Lemurians he had killed earlier step into the room. Their mouths began to glow with an otherworldly glow.\r\n\r\nThe man cursed under his breath as he loaded his shotgun. \u201CThis planet, I tell you...\u201D",
 
 	"ITEM_MUSHROOM_NAME": "Bustling Fungus",
-	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
-	"ITEM_MUSHROOM_DESC": "After standing still for <style=cIsHealing>2</style> seconds, create a zone that <style=cIsHealing>heals</style> for <style=cIsHealing>4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.", 
+	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 1 second.",
+	"ITEM_MUSHROOM_DESC": "After standing still for <style=cIsHealing>1</style> second, create a zone that <style=cIsHealing>heals</style> for <style=cIsHealing>4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.", 
+	"ITEM_MUSHROOM_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\u201CYou have a problem.\u201D\r\n\r\n\u201CWhat? How? These are good for me, they\u2026\u201D\r\n\r\n\u201CYeah, they help promote cell repair, carbon neutral, blah blah blah\u2026 I\u2019ve heard that spiel a thousand times already. Whether they\u2019re good for you or not, you can\u2019t just have a diet consisting only of them. It\u2019s basic dietary science!\u201D\r\n\r\n\u201CSo what?\u201D\r\n\r\n\u201CSo what? Eating only mushrooms isn\u2019t healthy, just like eating only meat or vegetables isn\u2019t healthy!\u201D\r\n\r\n\u201COh, so you\u2019re attacking vegetarians, now?\u201D\r\n\r\n\u201CWh- No! I just mean--\u201D\r\n\r\n\u201CWell, when you\u2019re a bit more tolerant of my lifestyle, I\u2019d be glad to continue this conversation with you. Until then, I\u2019d suggest you open your heart and appetite to a more\u2026 fungal\u2026 palette.\u201D \r\n",
 
 	"ITEM_CROWBAR_NAME": "Crowbar",
-	"ITEM_CROWBAR_PICKUP": "Deal more damage to healthy enemies.",
-	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
+	"ITEM_CROWBAR_PICKUP": "Deal bonus damage to enemies above 90% health.",
+	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>+75%</style> <style=cStack>(+75% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
+	"ITEM_CROWBAR_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM CARGO BAY 5 OF UES [Redacted] --\/\/<\/style>\r\n\r\n\u201CHey, toss me a crowbar?\u201D\r\n\r\nJesse walked over to the toolbox and rummaged around. Plucking a crowbar from the container, she went over to James.\r\n\r\n\u201CThanks,\u201D he grunted, attempting to pry the chest open. Jesse sat herself on the table next to James, idly watching him work. \u201CI swear, this had to be the one chest that CAN\u2019T be paid open... Crash must have... broken the circuitry inside.\u201D James mumbled to himself.\r\n\r\n\u201CYeah.\u201D Jesse looked around, her eyes falling on a palette of chests that had been recovered from the recent expeditions. Sighing, she hopped to her feet. \u201CI\u2019m heading to the mess hall. Want anything?\u201D \r\n\r\n\u201CYeah, how about a better crowbar? This thing is only a second edition.\u201D James stretched, tossing the crowbar over his shoulder. Patting the still unopened chest, he chuckled. \u201CIt\u2019s good, but to be honest\u2026 it\u2019s getting a little old.\u201D\r\n\r\nJesse laughed.\r\n",
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "Predatory Instincts",
 	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'Critical Strikes' increase attack speed. Stacks 3 times.",
@@ -84,15 +97,17 @@
 
 	"ITEM_BLEEDONHIT_NAME": "Tri-Tip Dagger",
 	"ITEM_BLEEDONHIT_PICKUP": "Chance to bleed enemies on hit.",
-	"ITEM_BLEEDONHIT_DESC": "<style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsDamage>bleed</style> an enemy for <style=cIsDamage>240%</style> base damage.",
+	"ITEM_BLEEDONHIT_DESC": "<style=cIsDamage>10%</style> <style=cStack>(+10% per stack)</style> chance to <style=cIsDamage>bleed</style> an enemy for <style=cIsDamage>240%</style> base damage.",
+	"ITEM_BLEEDONHIT_LORE": "<style=cMono>\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... done.\r\n$ Resolving... done.\r\n$ Combing for relevant data... done.\r\nComplete!\r\n<\/style>\r\n\r\nThe following is an audio transcript from the trial of D. Cooper, wanted for 5 counts of serial manslaughter.\r\n\r\n\u201CMr. Cooper, do you recognize this item?\u201D\r\n\r\n\u201CI do.\u201D\r\n\r\n\u201CIs it true that you used this weapon on your victims?\u201D\r\n\r\n\u201CYes.\u201D\r\n\r\n\u201CAnd, Mr. Cooper, is it true that... that you would use this dagger to expose the healed wounds of your victims? In an attempt to spill yet more innocent blood from them?\u201D\r\n\r\n\u201COh yes. Was my favorite part.\u201D\r\n\r\n\u201CYour favorite part, you say. Ladies and gentlemen of the jury, I think you all can see that Mr. Cooper is a truly deranged man - who took the lives of countless innocent people. However, if you are not fully convinced, I have one more piece of evidence to provide for the jury\u2019s consideration. Your honor, if I may prepare an audio recording of Mr. Cooper?\u201D\r\n\r\n\u201CProceed.\u201D\r\n\r\n\u201CThank you, your honor. Now, please play back the recording.\u201D\r\n\r\nThe remainder of this court transcript has been sealed.\r\nReason: i think im gonna be sick\r\n",
 
 	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Red Whip",
 	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "Move fast out of combat.",
 	"ITEM_SPRINTOUTOFCOMBAT_DESC": "Leaving combat boosts your <style=cIsUtility>movement speed</style> by <style=cIsUtility>30%</style> <style=cStack>(+30% per stack)</style>.",
+	"ITEM_SPRINTOUTOFCOMBAT_LORE": "\u201C...going to 594 South River, Io. Check. One Whip, Red, Priority shipping. Going to... to, um... Oh, wow...\u201D\r\n\r\n-Signal echoes, UES Contact Light\r\n",
 
 	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
 	"ITEM_FALLBOOTS_PICKUP": "Increase jump height. Hold 'Interact' to slam down to the ground.",
-	"ITEM_FALLBOOTS_DESC": "Increase <style=cIsUtility>jump height</style>. Creates a <style=cIsDamage>5m-100m</style> radius <style=cIsDamage>kinetic explosion</style> on hitting the ground, dealing <style=cIsDamage>1000%-10000%</style> base damage that scales up with <style=cIsDamage>speed</style>. Recharges in <style=cIsDamage>10</style> <style=cStack>(-50% per stack)</style> seconds.",
+	"ITEM_FALLBOOTS_DESC": "Increase <style=cIsUtility>jump height</style>. Creates a <style=cIsDamage>5m-100m</style> radius <style=cIsDamage>kinetic explosion</style> on hitting the ground, dealing <style=cIsDamage>1000%-10000%</style> base damage that scales up with <style=cIsDamage>fall distance</style>. Recharges in <style=cIsDamage>10</style> <style=cStack>(-50% per stack)</style> seconds.",
 	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
 
 	"ITEM_COOLDOWNONCRIT_NAME": "Wicked Ring",
@@ -102,23 +117,27 @@
 	"ITEM_WARDONLEVEL_NAME": "Warbanner",
 	"ITEM_WARDONLEVEL_PICKUP": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
 	"ITEM_WARDONLEVEL_DESC": "On <style=cIsUtility>level up</style> or starting the <style=cIsUtility>Teleporter event</style>, drop a banner that strengthens all allies within <style=cIsUtility>16m</style> <style=cStack>(+8m per stack)</style>. Raise <style=cIsDamage>attack</style> and <style=cIsUtility>movement speed</style> by <style=cIsDamage>30%</style>.",
+	"ITEM_WARDONLEVEL_LORE": "Heavy losses were expected \u2013 after all, the invaders were as cunning as they were deadly. \r\n\r\nThe dust had at last settled. The Golems had returned to the earth, and the Lemurians had returned to their tunnels. It was a long and grueling battle, but they had won. The invaders had been purged.\r\n\r\nThe only proof of their last stand was a single banner, fluttering in the wind, flying over a mountain of corpses.\r\n",
 
 	"ITEM_WARCRYONMULTIKILL_NAME": "Berzerker's Pauldron",
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "Enter a frenzy after killing 3 enemies in quick succession.",
 	"ITEM_WARCRYONMULTIKILL_DESC": "<style=cIsDamage>Killing 3 enemies</style> within <style=cIsDamage>1</style> second sends you into a <style=cIsDamage>frenzy</style> for <style=cIsDamage>6s</style> <style=cStack>(+4s per stack)</style>. Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>.",
+	"ITEM_WARCRYONMULTIKILL_LORE": "Order: Antique Pauldron\r\nTracking Number: 58***********\r\nEstimated Delivery: 04\/05\/2056\r\nShipping Method:  Priority\r\nShipping Address: Jungle VII, Museum of 2019, Earth\r\nShipping Details: \r\n\r\nAnother antique for the collection. This bad boy was found on the battlefield where much of the War was fought. The excavation site was littered with bones, all surrounding the remains of one rebel soldier, who was carrying this artifact. According to hearsay and rumors, rebel soldiers wearing pauldrons much like this one would enter trances on the battlefield. Time would slow down, and all they could see was the enemy.\r\n\r\nOf course, it\u2019s just speculation, but\u2026 There were a lot of bodies surrounding this thing\u2019s old owner. Be careful, OK?\r\n",
 
 	"ITEM_PHASING_NAME": "Old War Stealthkit",
-	"ITEM_PHASING_PICKUP": "Turn invisible on taking heavy damage.",
-	"ITEM_PHASING_DESC": "Chance on taking damage to gain <style=cIsUtility>40% movement speed</style> and <style=cIsUtility>invisibility</style> for <style=cIsUtility>3s</style> <style=cStack>(+1.5s per stack)</style>. Chance increases the more damage you take.",
+	"ITEM_PHASING_PICKUP": "Turn invisible at low health.",
+	"ITEM_PHASING_DESC": "Falling below <style=cIsHealth>25% health</style> causes you to gain <style=cIsUtility>40% movement speed</style> and <style=cIsUtility>invisibility</style> for <style=cIsUtility>5s</style>. Recharges every <style=cIsUtility>30 seconds</style> <style=cStack>(-50% per stack)</style>.",
 	"ITEM_PHASING_LORE": "Order:  Misc. OW Artifacts (47)\r\nTracking Number: 01******\r\nEstimated Delivery: 08\/13\/2056\r\nShipping Method: Priority\r\nShipping Address: National Old War Museum, New Orleans, Earth\r\nShipping Details:\r\n\r\nWe've managed to round up all the local Old War artifacts that we could find. A lot of interesting things here: rifles, rations, pamphlets. We even found a prototype stealthkit in fantastic condition; that could be a great centerpiece for your exhibit.\r\n\r\nHowever, a slight issue: in transit, the truck hit a pothole and jostled all the ship. It seemed to have actually activated the stealth drive - some strange short-circuit - and our team can't actually confirm the location of the stealthkit. It should be in one of the boxes - we will be expecting the commission to include the stealthkit.\r\n",
 	
 	"ITEM_HEALONCRIT_NAME": "Harvester's Scythe",
 	"ITEM_HEALONCRIT_PICKUP": "'Critical Strikes' heal you.",
 	"ITEM_HEALONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> <style=cIsHealing>heal</style> for <style=cIsHealing>8</style> <style=cStack>(+4 per stack)</style> <style=cIsHealing>health</style>.",
+	"ITEM_HEALONCRIT_LORE": "\u201CI\u2019m not going nowhere. What I do is important, and no plague is going to stop me from getting that done. City folk are all up in a tizzy over this and that, scared that ya\u2019ll will pass without doing some crazy goals you set for yourself. \r\n\r\nBut me, I\u2019m not afraid of death. Suffering is just another part of life, and like labor, I can do it myself. To death, I say: I don\u2019t need your damn help.\u201D\r\n\r\n- Unnamed Farmer, Tragedy of Mercury: A History\r\n",
 
 	"ITEM_HEALWHILESAFE_NAME": "Cautious Slug",
 	"ITEM_HEALWHILESAFE_PICKUP": "Rapidly heal outside of danger.",
-	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+4 hp/s</style> <style=cStack>(+4 hp/s per stack)</style>while outside of combat.",
+	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+3 hp/s</style> <style=cStack>(+3 hp/s per stack)</style>while outside of combat.",
+	"ITEM_HEALWHILESAFE_LORE": "\u201COne of the most crucial things to remember about having an animal companion is that your relationship is built on trust. Though humans are perceptive, we tend to be blinded by what we see \u2013 and we ignore the dangers that lurk beyond our vision. Animals, and other xenobiology, can sense things we can\u2019t. \r\n\r\nSo always remember: if your companion warns you of danger in the dark, you had better well listen.\u201D\r\n\r\n- Caring for your Pets, Volume III\r\n",
 
 	"ITEM_JUMPBOOST_NAME": "Wax Quail",
 	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
@@ -146,8 +165,9 @@
 	"ITEM_EQUIPMENTMAGAZINE_LORE" : "\"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later.\"\n-Brief History of Interplanetary Advances, Vol.2\n",
 
 	"ITEM_INFUSION_NAME": "Infusion",
-	"ITEM_INFUSION_PICKUP": "Killing an enemy permanently increases your health, up to 100.",
+	"ITEM_INFUSION_PICKUP": "Killing an enemy permanently increases your maximum health, up to 100.",
 	"ITEM_INFUSION_DESC": "Killing an enemy increases your <style=cIsHealing>health permanently</style> by <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style>, up to a <style=cIsHealing>maximum</style> of <style=cIsHealing>100 <style=cStack>(+100 per stack)</style> health</style>.",
+	"ITEM_INFUSION_LORE" : "Order: Infusion\r\nTracking Number: 768******\r\nEstimated Delivery: 02\/8\/2056\r\nShipping Method: Priority\/Biological\r\nShipping Address: Rage Valley, Fleet Hanger, Mars\r\n\r\nContains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters. Simply hook up to a dialysis machine along with the necessary equipment and swap out your blood for genetically superior ones! \r\n\r\nYou can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!\r\n",
 
 	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil",
 	"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
@@ -156,7 +176,7 @@
 
 	"ITEM_IGNITEONKILL_NAME": "Gasoline",
 	"ITEM_IGNITEONKILL_PICKUP": "Killing enemies sets nearby enemies on fire.",
-	"ITEM_IGNITEONKILL_DESC": "Killing an enemy <style=cIsDamage>ignites</style> all enemies within <style=cIsDamage>12m</style> <style=cStack>(+4m per stack)</style>. Enemies <style=cIsDamage>burn</style> for <style=cIsDamage>150%</style> <style=cStack>(+75% per stack)</style> base damage.",
+	"ITEM_IGNITEONKILL_DESC": "Killing an enemy <style=cIsDamage>ignites</style> all enemies within <style=cIsDamage>12m</style> <style=cStack>(+4m per stack)</style> for <style=cIsDamage>150%</style> base damage. Additionally, enemies <style=cIsDamage>burn</style> for <style=cIsDamage>150%</style> <style=cStack>(+75% per stack)</style> base damage.",
 	"ITEM_IGNITEONKILL_LORE" : "<style=cMono>\r\nAudio transcription complete from signal echoes. Assigning generic tokens.</style>\r\n\r\n[Fire crackling]\r\n\r\nMAN 1: D-do you think they're gonna come for us?\r\n\r\nMAN 2: They'll try. It's going to be a very long while.\r\n\r\nMAN 1: What? Why?\r\n\r\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours \u2013 FTL ships are very rare nowadays.\r\n\r\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\r\n\r\nMAN 2: We weren't on the route.\r\n\r\n[Fire pops]\r\n\r\nMAN 1: What?!\r\n\r\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren\u2019t. The ship never announced it was slowing down either, so that\u2019ll make triangulating our positions even harder.\r\n\r\nMAN 1: I-I don't get it. Who would take a UES train off course? That's completely insane!\r\n\r\nMAN 2: I don\u2019t know \u2013 only the Captain does. There\u2019s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\r\n\r\n[Sizzling]\r\n\r\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\r\n\r\nMAN 1: I... I can't even think right now. I\u2019m not hungry.\r\n\r\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\r\n\r\nMAN 1: Sure. Okay. Okay. Um\u2026 do you think it's poisonous?\r\n\r\nMAN 2: Eat.\r\n\r\n<style=cMono>End of requested transcript. </style>\r\n",
 
 	"ITEM_BOUNCENEARBY_NAME": "Sentient Meat Hook",
@@ -177,6 +197,7 @@
 	"ITEM_STUNCHANCEONHIT_NAME": "Stun Grenade",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "Chance to stun on hit.",
 	"ITEM_STUNCHANCEONHIT_DESC": "<style=cIsUtility>5%</style> <style=cStack>(+5% on stack)</style> chance on hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 seconds</style>.",
+	"ITEM_STUNCHANCEONHIT_LORE": "<style=cMono>\r\n\/\/--AUTO-TRANSCRIPTION FROM CARGO BAY 2 OF UES [Redacted] --\/\/<\/style>\r\n\u201CInventory duty. I swear, this must be the most boring position ever...\u201D Two crewmates stood in the cargo bay, doing a routine check on the items gathered from the Contact Light\u2019s wreckage. \u201CSome of us are out there having adventures and fighting aliens, and I\u2019M stuck in here counting dusty knick-knacks. What a bummer.\u201D The other crewmate idly tapped at their device as their colleague rummaged through a container of recovered items.\r\n\r\n\u201CCan\u2019t agree there. The Contact Light had millions of items in transit... It\u2019s like a collage of people\u2019s interests from all across the galaxy.\u201D The other crew member scoffed. \u201COh yeah? That\u2019s really inspiring. Say, keep telling those stories, maybe it\u2019ll make this go by quicker.\u201D\r\n\r\n\u201CYou just need to look at this from a different angle. There\u2019s so much cool stuff in here! Like, for example...\u201D The worker took something out of a container \u2013 glancing over at their colleague, the other worker stiffened.\r\n\r\n\u201CWhat the\u2014is that a grenade!?\u201D \r\n\r\nThe worker laughed, tossing the dusty and dirty grenade from hand to hand. \u201CYeah. Don\u2019t worry, thing was damaged in the crash. See? Completely harmless.\u201D Holding the grenade up, a large dent was visible in its hull. \u201CMan, I wonder what kind of model this is... I was always super interested in like, weaponry and stuff. Hm... looks to be a flashbang... old model, they don\u2019t make these things anymore.\u201D \r\n\r\nThe other worker was not so thrilled. \u201CI still don\u2019t think you should play with that. That\u2019s not a toy.\u201D Squinting, the other worker realized in horror that the defunct grenade had no pin. \u201CD-DUDE! Put that thing down, there\u2019s no pin!\u201D\r\n\r\n\u201CHuh? Oh, come on! Stop being such a buzzkill! This thing is busted beyond repair. It can\u2019t even detonate, not even if I were to say... bang it against this table. Watch, I\u2019ll show you.\u201D\r\n\r\nThey were both admitted to the medical bay shortly after.\r\n",
 
 	"ITEM_LUNARDAGGER_NAME": "Shaped Glass",
 	"ITEM_LUNARDAGGER_PICKUP": "Double your damage... <color=#FF7F7F>BUT halve your health.</color>\n",
@@ -206,6 +227,7 @@
 	"ITEM_KNURL_NAME": "Titanic Knurl",
 	"ITEM_KNURL_PICKUP": "Boosts health and regeneration.",
 	"ITEM_KNURL_DESC": "<style=cIsHealing>Increase maximum health</style> by <style=cIsHealing>40</style> <style=cStack>(+40 per stack)</style> and <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+1.6 hp/s<style=cStack>(+1.6 hp/s per stack)</style>.",
+	"ITEM_KNURL_LORE": "<style=cMono>Lab Dissection Analysis File<\/style>\r\n\r\nSubject: Titanic Knurl\r\nTechnician: C. Foreman\r\nTable Spec: Mineral Analysis BFC-5\r\nNotes: \r\n\r\n> From initial inspection, Knurl seems to be comprised of non-metallic substances. No marks are left when Knurl is rubbed against test surface.\r\n> We inspect hardness of Knurl. We managed to chip some of the Knurl away, showing us that the Knurl was tough but granular \u2013 individual fragments could be removed with little effort.\r\n> The fragment is moving. It appears to be trying to rejoin the mass.\r\n> Out of curiosity, I let it move freely. It slides along the table, up the knurl, and deposits itself back to its original position. The seam lines fade and the knurl is back as it had been minutes ago.\r\n> I test for magnetic properties in the rock. None are found.\r\n> Knurl\u2019s regenerative properties are documented, but are unexplainable at this moment.\r\n> Knurl is slowly moving off the table as I write this.\r\n",
 
 	"ITEM_BEETLEGLAND_NAME": "Queen's Gland",
 	"ITEM_BEETLEGLAND_PICKUP": "Recruit a Beetle Guard.",
@@ -214,12 +236,13 @@
 
 	"ITEM_SPRINTBONUS_NAME": "Energy Drink",
 	"ITEM_SPRINTBONUS_PICKUP": "Sprint faster.",
-	"ITEM_SPRINTBONUS_DESC": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>30%</style> <style=cStack>(+20% per stack)</style>.",
+	"ITEM_SPRINTBONUS_DESC": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>25%</style> <style=cStack>(+25% per stack)</style>.",
 	"ITEM_SPRINTBONUS_LORE" : "Order: NR-G Sports Soda (400)\r\nTracking Number: 49******\r\nEstimated Delivery: 03\/12\/2056\r\nShipping Method:  Standard\r\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\r\nShipping Details:\r\n\r\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \r\n\r\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\r\n\r\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?\r\n",
 	
 	"ITEM_SECONDARYSKILLMAGAZINE_NAME": "Backup Magazine",
 	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "Add an extra charge of your Secondary skill.",
 	"ITEM_SECONDARYSKILLMAGAZINE_DESC": "Add <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> charge of your <style=cIsUtility>Secondary skill</style>.",
+	"ITEM_SECONDARYSKILLMAGAZINE_LORE": "Order: Ammo Magazine, Standard Ammunition (45mm Rounds)\r\nTracking Number: 05***********\r\nEstimated Delivery: 10\/05\/2056\r\nShipping Method:  Priority\r\nShipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet\r\nShipping Details: \r\n- Billed to: Captain [REDACTED]\r\n- Note from Sender:  You going on a hunting trip or something? I\u2019ve never seen anyone order this much ammo before.\r\n",
 	
 	"ITEM_STICKYBOMB_NAME": "Sticky Bomb",
 	"ITEM_STICKYBOMB_PICKUP": "Chance on hit to attach a bomb to enemies.",
@@ -227,13 +250,14 @@
 	"ITEM_STICKYBOMB_LORE" : "In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\r\n\r\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\r\n\r\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\r\n\r\n\"What! We need these \u2013 this planet is trying to kill us! \"\r\n\r\n\"You\u2019re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\r\n\r\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\r\n\r\n\"\u2026What materials?\"\r\n\r\n\"Huh?\"\r\n\r\n\"What materials did you put in? We barely had anything.\"\r\n\r\n\"I just put in everything.\"\r\n",
 
 	"ITEM_TREASURECACHE_NAME": "Rusted Key",
-	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains treasure.",
-	"ITEM_TREASURECACHE_DESC": "A <style=cIsUtility>hidden cache</style> containing an item will appear in a random location <style=cIsUtility>on each stage</style>. <style=cStack>(Increases rarity of the item per stack)</style>.",
+	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains a powerful item.",
+	"ITEM_TREASURECACHE_DESC": "A <style=cIsUtility>hidden cache</style> containing an item (<style=cIsHealing>80%</style>/<style=cIsHealth>20%</style>) will appear in a random location <style=cIsUtility>on each stage</style>. Opening the cache <style=cIsUtility>consumes</style> this item.",
 	"ITEM_TREASURECACHE_LORE" : "Order: Key\r\nTracking Number: 12******\r\nEstimated Delivery: 01\/21\/2056\r\nShipping Method: Standard\r\nShipping Address: |||||||, Druid Hills, Earth\r\nShipping Details:\r\n\r\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\r\n\r\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.\r\n",
-	
+
 	"ITEM_BOSSDAMAGEBONUS_NAME": "Armor-Piercing Rounds",
 	"ITEM_BOSSDAMAGEBONUS_PICKUP": "Deal extra damage to bosses.",
 	"ITEM_BOSSDAMAGEBONUS_DESC": "Deal an additional <style=cIsDamage>20%</style> damage <style=cStack>(+20% per stack)</style> to bosses.",
+	"ITEM_BOSSDAMAGEBONUS_LORE": "Order: Armor-Piercing Rounds, 50mm\r\nTracking Number: 15***********\r\nEstimated Delivery: 3\/07\/2056\r\nShipping Method:  Standard\r\nShipping Address: Fort Margaret, Jonesworth System\r\nShipping Details: \r\n\r\nAlright, just to clarify, these rounds aren\u2019t faulty. Heck, I\u2019d say they\u2019re better than the standard, but... that\u2019s kind of the problem. I don\u2019t know if it was a new shipment of materials, or a problem with the assembly line, but these rounds are supposed to pierce armor. Not pierce through the armor, five feet of reinforced concrete, a few warehouses, and an armored truck. \r\n\r\nCould you guys look into this so we don\u2019t like, violate any Geneva Conventions or anything?\r\n",
 	
 	"ITEM_SPRINTARMOR_NAME": "Rose Buckler",
 	"ITEM_SPRINTARMOR_PICKUP": "Reduce incoming damage while sprinting.",
@@ -259,6 +283,7 @@
 	"ITEM_EXTRALIFE_NAME": "Dio's Best Friend",
 	"ITEM_EXTRALIFE_PICKUP": "Cheat death. Consumed on use.",
 	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
+	"ITEM_EXTRALIFE_LORE": "Hey Dio,\r\n\r\nWow, you have gotten older since the last time I wrote! How old are you now \u2013 10? And so much grumpier, too. I\u2019ve never seen a cat so grumpy. What do you have to be grumpy about?\r\n\r\nDespite the fact that you are the pickiest eater I know \u2013 and love to meow all throughout the night, every night \u2013 it still makes me happy to hear you bounding down the stairs every time I come home. I like when I wake up and I see you sleeping across from me. I like when you sit at the dining table, like you\u2019re going to eat with us too. I like how you hit the power button every time you walk across my laptop. I like how shamelessly needy you are.\r\n\r\nPlease live a long life \u2013 I\u2019m needy too, and I\u2019d like that a lot.\r\n\r\nLove,\r\nDuncan\r\n\r\nPS would it kill you to purr for mama every now and then?\r\n",
 	
 	"ITEM_EXTRALIFECONSUMED_NAME": "Dio's Best Friend (Consumed)",
 	"ITEM_EXTRALIFECONSUMED_PICKUP": "A spent item with no remaining power.",
@@ -272,6 +297,7 @@
 	"ITEM_HEADHUNTER_NAME": "Wake of Vultures",
 	"ITEM_HEADHUNTER_PICKUP": "Temporarily steal the power of slain elites.",
 	"ITEM_HEADHUNTER_DESC": "Gain the <style=cIsDamage>power</style> of any killed elite monster for <style=cIsDamage>8s</style> <style=cStack>(+5s per stack)</style>.",
+	"ITEM_HEADHUNTER_LORE": "Order: Unique Leather Belt\r\nTracking Number: 40***********\r\nEstimated Delivery: 10\/23\/2056\r\nShipping Method:  High Priority \/ Biological\r\nShipping Address: Auckland, New Zealand, Earth\r\nShipping Details: \r\n\r\n\u201CThe mind rules over its body from a fortress of bone, learning of the world around it through fleshy portals. The heart is just an extension of the body, which finds its root in your head.\u201D \r\n\r\nSomebody said this, I can\u2019t remember who. Anyway, make sure to take great care of it. It\u2019s incredibly rare.\r\n",
 	
 	"ITEM_KILLELITEFRENZY_NAME": "Brainstalks",
 	"ITEM_KILLELITEFRENZY_PICKUP": "Skills have NO cooldowns for a short period after killing an elite.",
@@ -285,11 +311,13 @@
 
 	"ITEM_REPEATHEAL_NAME": "Corpsebloom",
 	"ITEM_REPEATHEAL_PICKUP": "Double your healing... <color=#FF7F7F>\BUT it's applied over time.</color>\n",
-	"ITEM_REPEATHEAL_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> (reduced by 50% per stack) of your <style=cIsHealing>health per second</style>.",	
+	"ITEM_REPEATHEAL_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> <style=cStack>(-50% per stack)</style> of your <style=cIsHealing>health per second</style>.",	
+	"ITEM_REPEATHEAL_LORE": "========================================\r\n====   MyBabel Machine Translator   ====\r\n====     [Version 12.45.1.009 ]   ======\r\n========================================\r\nTraining\u2026 <100000000 cycles>\r\nTraining\u2026 <253421 cycles>\r\nComplete!\r\nDisplay result? Y\/N\r\nY\r\n========================================\r\n\r\nThe body is received and placed in a special containment unit. Proper care must be taken to ensure most efficient growth conditions.\r\n\r\nThe seeds are planted in the body.\r\n\r\nOne day passes.\r\n\r\nFlesh softens and stretches. Youth returns to the face. Bones harden.\r\n\r\nAnother day passes.\r\n\r\nDead skin falls away from the body, and muscles gain strength. Hair resumes its original luster.\r\n\r\nAnother day passes.\r\n\r\nThe flowers have fully bloomed and the body is as good as new.\r\n\r\nNo signs of life, but not necessary.\r\n",
 	
 	"ITEM_AUTOCASTEQUIPMENT_NAME": "Gesture of the Drowned",
 	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>\BUT it automatically activates.</color>",
 	"ITEM_AUTOCASTEQUIPMENT_DESC": "<style=cIsUtility>Reduce Equipment cooldown</style> by <style=cIsUtility>50%</style> <style=cStack>(+15% per stack)</style>. Forces your Equipment to <style=cIsUtility>activate</style> whenever it is off <style=cIsUtility>cooldown</style>.",
+	"ITEM_AUTOCASTEQUIPMENT_LORE": "Fossils. Remnants. How cruel. \r\n\r\nThis moon once housed life. Life that you may have held dear, had the timing been right. But our timing was wrong. We were born much too late.\r\n\r\nNow, it is just calcium to me \u2013 and irrelevant to you. Isn\u2019t that right?",
 	
 	"ITEM_EXECUTELOWHEALTHELITE_NAME": "Old Guillotine",
 	"ITEM_EXECUTELOWHEALTHELITE_PICKUP": "Instantly kill low health Elite monsters.",
@@ -336,7 +364,8 @@
 	
 	"ITEM_NEARBYDAMAGEBONUS_NAME": "Focus Crystal",
 	"ITEM_NEARBYDAMAGEBONUS_PICKUP": "Deal bonus damage to nearby enemies.",
-	"ITEM_NEARBYDAMAGEBONUS_DESC": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style>.",
+	"ITEM_NEARBYDAMAGEBONUS_DESC": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style>.",
+	"ITEM_NEARBYDAMAGEBONUS_LORE": "Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]\r\nTracking Number: 12***********\r\nEstimated Delivery: 05\/23\/2056\r\nShipping Method:  Standard\r\nShipping Address: Geofferson Principality, Highward, Titan\r\nShipping Details: \r\n\r\nHope they don\u2019t up the price for this thing. I haven\u2019t had troubles with UES before, but I\u2019ve never had to ship a crystal this far before. Let me know if the package is marked as \u201Cheavy\u201D when you get it.\r\n",
 	
 	"ITEM_LUNARSKILLREPLACEMENTS_NAME" : "Heresy Set",
 	"ITEM_LUNARUTILITYREPLACEMENT_NAME": "Strides of Heresy",
@@ -351,18 +380,22 @@
 	"ITEM_THORNS_NAME" : "Razorwire",
 	"ITEM_THORNS_PICKUP" : "Retaliate in a burst of razors on taking damage.",
 	"ITEM_THORNS_DESC" : "Getting hit causes you to explode in a burst of razors, dealing <style=cIsDamage>160% damage</style>. Hits up to <style=cIsDamage>5</style> <style=cStack>(+2 per stack)</style> targets in a <style=cIsDamage>25m</style> <style=cStack>(+10m per stack)</style> radius",
+	"ITEM_THORNS_LORE": "Order: Custom-made Barbed Wire, 200m\r\nTracking Number: 05***********\r\nEstimated Delivery: 02\/01\/2056\r\nShipping Method:  Priority\r\nShipping Address: PO Box 23-5B, Fort Blondershire, Colony of Man\r\nShipping Details: \r\n\r\nYou were right to come to me for this PREMIUM barbed wire. The other retail models won\u2019t get the job done like I do. Just cutting up invaders isn\u2019t enough \u2013 no sir - I built in a secret defense mechanism!\r\n\r\nBy cramming as many razors, exacto knives, and any other blade I could find into this thing, this beauty is a powder keg just WAITING to burst! This is my greatest work yet. \r\n\r\nIf I don\u2019t get good reviews, expect to hear from my lawyers!\r\n",
 	
-	"ITEM_REGENONKILL_NAME" : "Fresh Meat",
-	"ITEM_REGENONKILL_PICKUP" : "Regenerate health after killing an enemy.",
-	"ITEM_REGENONKILL_DESC": "Increases<style=cIsHealing> base health regeneration</style> by <style=cIsHealing>+2 hp/s</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> after killing an enemy.",
+	"ITEM_FLATHEALTH_NAME" : "Bison Steak",
+	"ITEM_FLATHEALTH_PICKUP" : "Gain 25 max health.",
+	"ITEM_FLATHEALTH_DESC": "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>25</style> <style=cStack>(+25 per stack)</style>.",
+	"ITEM_FLATHEALTH_LORE": "Order: Assorted Saturnian Bison Steak, 10lbs\r\nTracking Number: 31***********\r\nEstimated Delivery: 11\/02\/2056\r\nShipping Method:  Standard\r\nShipping Address: Sloppy Joe\u2019s Deli and Catering, Manhattan, New York\r\nShipping Details: \r\n\r\nFOR: JOSEPH ******\r\nCC#: **** **** * ***\r\nACCT#: 102215\r\nQuality Saturnian Bison Meat [10lbs]\r\nTreated with special antibiotics to ensure exceptional growth, shelf life, and texture.\r\n",
 	
 	"ITEM_PEARL_NAME" : "Pearl",
 	"ITEM_PEARL_PICKUP" : "Increase your maximum health.",
 	"ITEM_PEARL_DESC" : "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10%</style> <style=cStack>(+10% per stack)</style>.",
+	"ITEM_PEARL_LORE": "His influence is dark.\r\n\r\nI do not blame you for your curiosity\u2026 but cleanse yourself of it immediately. It will ruin you \u2013 and all you care about.\r\n",
 
 	"ITEM_SHINYPEARL_NAME" : "Irradiant Pearl",
 	"ITEM_SHINYPEARL_PICKUP" : "Increase ALL of your stats.",
 	"ITEM_SHINYPEARL_DESC" : "Increases <style=cIsUtility>ALL stats</style> by <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>.",
+	"ITEM_SHINYPEARL_LORE": "Oh, that is\u2026 strange. That is unlike the other pearls.\r\n\r\nDo not be mistaken \u2013 his influence is still dark. Despite how beautiful your pearl is\u2026 it is not from a place of kindness. It cannot be.\r\n",
 
 	"ITEM_BONUSGOLDPACKONKILL_NAME" : "Ghor's Tome",
 	"ITEM_BONUSGOLDPACKONKILL_PICKUP" : "Chance on kill to drop a treasure.",
@@ -371,7 +404,8 @@
 
 	"ITEM_LASERTURBINE_NAME" : "Resonance Disc",
 	"ITEM_LASERTURBINE_PICKUP" : "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
-	"ITEM_LASERTURBINE_DESC" : "Killing enemies charges the Resonance Disc. The disc launches itself toward a target for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>, piercing all enemies it doesn't kill, and then explodes for <style=cIsDamage>1000%</style> base damage <style=cStack>(+1000% per stack)</style>. Returns to the user, striking all enemies along the way for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>.",
+	"ITEM_LASERTURBINE_DESC" : "Killing <style=cIsDamage>4</style> enemies in <style=cIsUtility>7 seconds</style> charges the Resonance Disc. The disc launches itself toward a target for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>, piercing all enemies it doesn't kill, and then explodes for <style=cIsDamage>1000%</style> base damage <style=cStack>(+1000% per stack)</style>. Returns to the user, striking all enemies along the way for <style=cIsDamage>300%</style> base damage <style=cStack>(+300% per stack)</style>.",
+	"ITEM_LASERTURBINE_LORE": "Order: Turbine Configuration Wizard Disc\r\nTracking Number: 64***********\r\nEstimated Delivery: 08\/23\/2056\r\nShipping Method:  High Priority\r\nShipping Address: 73421, Calorum St., Saturn\r\nShipping Details: \r\n\r\nOops, so sorry! I forgot to include the installation wizard with your new turbine. Thanks so much for letting me know. Who knows what could have happened if you didn\u2019t configure the turbine prior to installation? Always make sure to run the diagnostics on this disc every few weeks \u2013 it\u2019ll help with the turbine\u2019s longevity.\r\n",
 	
 	"ITEM_LUNARPRIMARYREPLACEMENT_NAME": "Visions of Heresy",
 	"ITEM_LUNARPRIMARYREPLACEMENT_PICKUP": "Replace your Primary Skill with 'Hungering Gaze'.",
@@ -381,10 +415,12 @@
 	"ITEM_NOVAONLOWHEALTH_NAME" : "Genesis Loop",
 	"ITEM_NOVAONLOWHEALTH_PICKUP" : "Fire an electric nova at low health.",
 	"ITEM_NOVAONLOWHEALTH_DESC" : "Falling below <style=cIsHealth>25% health</style> causes you to explode, dealing <style=cIsDamage>6000% base damage</style>. Recharges every <style=cIsUtility>30 seconds</style> <style=cStack>(-50% per stack)</style>.",
+	"ITEM_NOVAONLOWHEALTH_LORE": "<style=cMono>Lab Dissection Analysis File<\/style>\r\n\r\nSubject: Genesis Loop\r\nTechnician: Eleanor Veirs\r\nTable Spec: Dissection 5B4 with Ele-Maintenance Kit\r\nNotes: \r\n\r\n> Genesis Loop is highly conductive organ, contains conductive filaments stretching from one end to the other\r\n> Both sides of loop have organelles at end; one has positive charge, one has negative charge\r\n> Sticking ends of loop together generates voltage\r\n> Connected loop and fed organ 50 volts\r\n> Hair stood up on end, touching loop resulting in numbness in fingers\r\n> Upping voltage to 100 volts\r\n> Shooting arcs from organ, loop shudders and glows bright, dissonant humming is heard\r\n> Upping voltage to 200 volts\r\n> Bright flash, a loud crack as loop releases a blast that knocks me back\r\n> Lights go out\r\n> Dissection Table hardware damaged by voltage\r\n> I hope I don\u2019t get in trouble for this\r\n",
 	
 	"ITEM_LUNARTRINKET_NAME" : "Beads of Fealty",
 	"ITEM_LUNARTRINKET_PICKUP" : "Seems to do nothing... <color=#FF7F7F>but...</color>\n",
 	"ITEM_LUNARTRINKET_DESC" : "Seems to do nothing... <color=#FF7F7F>but...</color>\n",
+	"ITEM_LUNARTRINKET_LORE": "The master of this world is a benevolent protector. Our savior. Despite the natures of its various inhabitants, he has made a peaceful place here. \r\n\r\nPeace comes at a cost, of course. Some things are strictly forbidden. Above all, there is one item that cannot be tolerated \u2013 to possess it is to surely perish: a strange, heavy, and deeply entrancing set of beads that seem to speak with whoever holds them. \r\n\r\nTo discover them among one\u2019s community is to create a dark, rippling panic. It is not long after they are found that Providence, the mighty protector, appears in a thunderous instant to pursue their owner and solemnly take a life he swore to defend.\r\n\r\nIt is no physical property of the beads themselves which provoke such a drastic response - but instead, what they represent. They are a symbol, and to carry them is a dark promise to undo the world \u2013 to cast to oblivion all people who find their final place here, all in exchange for a doomed return to ruinous way. The elusive, sinister intelligence with whom these beads represent a pact seems known only to the bearer - and to Providence himself.\r\n\r\nOne thing, however, is known to anyone who has borne witness to these beads: a cruel, cackling laughter that erupts as blood and coins of favor are spilled, abruptly silenced as the beads are destroyed. Where they come from isn\u2019t known, but should you encounter these beads you must leave them far, far behind. \r\n\r\nNever look back.",
 
 	"ITEM_REPULSIONARMORPLATE_NAME" : "Repulsion Armor Plate",
 	"ITEM_REPULSIONARMORPLATE_PICKUP" : "Receive flat damage reduction from all attacks.",
@@ -419,7 +455,12 @@
 	"ITEM_FIREBALLSONHIT_NAME" : "Molten Perforator",
 	"ITEM_FIREBALLSONHIT_PICKUP" : "Chance on hit to fire magma balls.",
 	"ITEM_FIREBALLSONHIT_DESC" : "<style=cIsDamage>10%</style> chance on hit to call forth <style=cIsDamage>3 magma balls</style> from an enemy, dealing <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> damage each.",
-	"ITEM_FIREBALLSONHIT_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Molten Perforator\r\nTechnician: Dema \"Dembones\" Brown\r\nTable Spec: Heatsink UB-2\r\nNotes:\r\n\r\n> Using UB-2 due to temperatures above safe levels.\r\n> Removing molten enamel and placing aside for substance analysis. It\u2019s solid, yet swimming.\r\n> Upon structural investigation, found cavities and internal chambers\r\n> Reduce lab temperatures by 10 degrees\r\n> Heat generating veins present - fire is being supplied to the tooth?\r\n> Removed my lab coat, very hot\r\n> Heat generation is still occurring in the severed object\r\n> Put some more ice in my drink WOW its hot\r\n> Timestamping for break\r\n",
+	"ITEM_FIREBALLSONHIT_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Molten Perforator\r\nTechnician: Dema \"Dembones\" Brown\r\nTable Spec: Heatsink UB-2\r\nNotes:\r\n\r\n> Using UB-2 due to temperatures above safe levels.\r\n> Removing molten enamel and placing aside for substance analysis. It\u2019s solid, yet swimming.\r\n> Upon structural investigation, found cavities and internal chambers\r\n> Reduce lab temperatures by 10 degrees\r\n> Heat generating veins present - fire is being supplied to the tooth?\r\n> Removed my lab coat, very hot\r\n> Heat generation is still occurring in the severed object\r\n> Put some more ice in my drink WOW it's hot\r\n> Timestamping for break\r\n",
+
+	"ITEM_LIGHTNINGSTRIKEONHIT_NAME" : "Charged Perforator",
+	"ITEM_LIGHTNINGSTRIKEONHIT_PICKUP" : "Chance on hit to call down a lightning strike.",
+	"ITEM_LIGHTNINGSTRIKEONHIT_DESC" : "<style=cIsDamage>10%</style> chance on hit to down a lightning strike, dealing <style=cIsDamage>500%</style> <style=cStack>(+500% per stack)</style> damage.",
+	"ITEM_LIGHTNINGSTRIKEONHIT_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Charged Perforator\r\nTechnician: Dema \"Dembones\" Brown\r\nTable Spec: GEC-4\r\nNotes:\r\n\r\n> Using GEC-4 due to electricity above safe levels.\r\n> Removing charged enamel and placing aside for substance analysis. It\u2019s solid, yet swimming.\r\n> Upon structural investigation, found cavities and internal batteries\r\n> Reduce lab electricity by 10 kilowatts\r\n> Electron generating veins present - charge is being supplied to the tooth?\r\n> Removed my lab coat, very staticky\r\n> Electron generation is still occurring in the severed object\r\n> Put some more ice in my drink WOW it's electric\r\n> Timestamping for dance break\r\n",
 
 	"ITEM_BLEEDONHITANDEXPLODE_NAME" : "Shatterspleen",
 	"ITEM_BLEEDONHITANDEXPLODE_PICKUP" : "Critical strikes always bleed enemies. Bleeding enemies now explode.",
@@ -427,45 +468,77 @@
 	"ITEM_BLEEDONHITANDEXPLODE_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\n\r\nSubject: Shatterspleen\r\nTechnician:  Professor Mehri Daimera\r\nTable Spec: Spillproof BDC-3\r\nNotes:\r\n\r\n> This will be my third attempt at a dissection of an Imp organ\r\n> First attempt resulted in rupture\r\n> Second attempt resulted in rupture\r\n> Cutting into the outer layer produces copious amounts of fluid discharge\r\n> As the fluid flows, the rest of the organ, inexplicably, swells\r\n> Swelling will ultimately result in violent rupture\r\n> Made use of the stemming tools on the BDC-3 to successfully proceed without incident\r\n> Surprised to find sharp needle point objects (bones?) inside\r\n> Timestamping for break\r\n> Came back to leave some final notes\r\n> Third attempt aborted after I injured my hand\r\n> Eventually was able to stop my own bleeding. The organ seems to contain immense anticoagulant properties.\r\n",
 
 	"ITEM_SIPHONONLOWHEALTH_NAME" : "Mired Urn",
-	"ITEM_SIPHONONLOWHEALTH_PICKUP" : "Siphon health from nearby characters while in combat.",
-	"ITEM_SIPHONONLOWHEALTH_DESC" : "While in combat, the nearest 1<style=cStack>(+1 per stack)</style> characters to you within <style=cIsDamage>13m</style> will be 'tethered' to you, dealing <style=cIsDamage>100%</style> damage per second, applying <style=cIsDamage>tar</style>, and <style=cIsHealing>healing</style> you for <style=cIsHealing>100%</style> of the damage dealt.",
+	"ITEM_SIPHONONLOWHEALTH_PICKUP" : "Siphon health from nearby enemies while in combat.",
+	"ITEM_SIPHONONLOWHEALTH_DESC" : "While in combat, the nearest 1<style=cStack>(+1 per stack)</style> enemies to you within <style=cIsDamage>13m</style> will be 'tethered' to you, dealing <style=cIsDamage>100%</style> damage per second, applying <style=cIsDamage>tar</style>, and <style=cIsHealing>healing</style> you for <style=cIsHealing>100%</style> of the damage dealt.",
 	"ITEM_SIPHONONLOWHEALTH_LORE" : "<style=cMono>Lab Dissection Analysis File</style>\r\nSubject: Mired Urn\r\nTechnician: J. Flint\r\nTable Spec: Full Enclosure AY-2 with ARMM Kit\r\nNotes:\r\n\r\n- The survey team went through a lot of trouble to bring this one back.\r\n- Fitz was the only one left standing, in fact said he felt great, and the rest are still in the recovery ward\r\n- Subject is what appears to be a clay vase\r\n- Could this be part of a camouflaging defense mechanism?\r\n- Inside the vase is a dark gooey substance\r\n- Goo can articulate into functioning appendages\r\n- Intelligence of subject indeterminable at this point\r\n- When operating the ARMM kit, goo attaches to all but one of them\r\n- Instability in the ARMM power system aborts the procedure\r\n",
 	
 	"ITEM_MONSTERSONSHRINEUSE_NAME" : "Defiant Gouge",
 	"ITEM_MONSTERSONSHRINEUSE_PICKUP" : "Using a Shrine summons enemies nearby.",
 	"ITEM_MONSTERSONSHRINEUSE_DESC" : "Using a Shrine summons <style=cIsHealth>enemies</style> nearby. <style=cIsUtility>Scales over time.</style>",
+	"ITEM_MONSTERSONSHRINEUSE_LORE" : "Excerpt from the folk tale \u201CHymn of Aphocles\u201D:\r\n\r\n\u201C...The statue had been carved to the artist\u2019s creative vision. Beautiful and powerful, its mighty marble visage shone as radiantly as the moon. However, the common folk did not share the artist\u2019s vision. Declaring the statue imperfect, a single laborer took up his gouge and defiled the work, shaping it to his own selfish ideas of beauty.\r\n\r\nAdmiring his own work, the laborer confidently claimed that he had increased the beauty of the art tenfold. However, the artist did not hear these words. The artist felt only rage, rage at the laborer who had defiled his masterpiece, and rage at the common folk who lauded the laborer as a hero.\r\n\r\nAnd just as the laborer did not recognize the beauty of the untouched statue, so too did the laborer fail to recognize the shards of marble constricting around his leg.\u201D\r\n",
 
 	"ITEM_RANDOMDAMAGEZONE_NAME" : "Mercurial Rachis",
 	"ITEM_RANDOMDAMAGEZONE_PICKUP" : "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.",
 	"ITEM_RANDOMDAMAGEZONE_DESC" : "Creates a Ward of Power in a random location nearby that buffs both enemies and allies within <style=cIsUtility>16m</style> <style=cStack>(+50% per stack)</style>, causing them to deal <style=cIsDamage>+50%</style> damage.",
+	"ITEM_RANDOMDAMAGEZONE_LORE" : "\u201CThe original information super-highway: the spine. A strait-laced path from the body to the brain, it is responsible for ensuring the survival of all life. However, its limitations involve being localized to its parent body. What if - just like the development of the inter-computer wireless network - one\u2019s nervous system could communicate with another? What if the spine traced a path not just from body to mind, but a path that intersects between other bodies and minds?\u201D\r\n\r\n- Notes of Job Michaels, Serial Killer and Mad Scientist\r\n",
 
 	"ITEM_ARTIFACTKEY_NAME" : "Artifact Key",
 	"ITEM_ARTIFACTKEY_PICKUP" : "A stone shard with immense power.",
 	"ITEM_ARTIFACTKEY_DESC" : "A stone shard with immense power.",
+	"ITEM_ARTIFACTKEY_LORE": "The key is incredibly simple. A stone crescent, with little discernable detail to the naked eye. But if one looks closer, with a sight beyond sight, they may notice the patterns inscribed on the key\u2019s being. The patterns tell many things:\r\n\r\nThe key\u2019s function: to unlock a lost trove of abandoned treasure.\r\n\r\nThe key\u2019s creators: two brothers, one composed of ambition and the other compassion.\r\n\r\nThe key\u2019s hopes: infused into the key, deep within its core, is a memory of better times, and the hope that one day, perhaps things could be better again.\r\n\r\nThe key\u2019s reality: the bitter realization that such a reality exists only in the past.\r\n",
 
 	"ITEM_CAPTAINDEFENSEMATRIX_NAME" : "Defensive Microbots",
 	"ITEM_CAPTAINDEFENSEMATRIX_PICKUP" : "Shoot down nearby projectiles. Recharge rate scales with attack speed.",
 	"ITEM_CAPTAINDEFENSEMATRIX_DESC" : "Shoot down <style=cIsDamage>1</style> <style=cStack>(+1 per stack)</style> projectiles within <style=cIsDamage>20m</style> every <style=cIsDamage>0.5 seconds</style>. <style=cIsUtility>Recharge rate scales with attack speed</style>.",
+	"ITEM_CAPTAINDEFENSEMATRIX_LORE": "\u201CCaptain, look out!\u201D \r\n\r\nA voice cried from the old man\u2019s periphery. But he knew he was in no danger \u2013 with a chirp, his companion microbots activated and fired, disintegrating the fireball. Just as it did every time. \r\n\r\nQuickly spinning on his heel, the old man fired his shotgun, decapitating the Lemurian with a swift and pronounced BOOM.\r\n\r\n\u201CI\u2019d worry more about your own safety than mine, private.\u201D\r\n",
 	
 	"ITEM_SCRAPWHITE_NAME" : "Item Scrap, White",
 	"ITEM_SCRAPWHITE_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
 	"ITEM_SCRAPWHITE_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPWHITE_LORE": "\u201CWhile officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don\u2019t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.\u201D\r\n\r\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing\r\n",
 
 	"ITEM_SCRAPGREEN_NAME" : "Item Scrap, Green",
 	"ITEM_SCRAPGREEN_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
 	"ITEM_SCRAPGREEN_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPGREEN_LORE": "\u201CWhile officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don\u2019t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.\u201D\r\n\r\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing\r\n",
 
 	"ITEM_SCRAPRED_NAME" : "Item Scrap, Red",
 	"ITEM_SCRAPRED_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
 	"ITEM_SCRAPRED_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPRED_LORE": "\u201CWhile officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don\u2019t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.\u201D\r\n\r\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing\r\n",
 
 	"ITEM_SCRAPYELLOW_NAME" : "Item Scrap, Yellow",
 	"ITEM_SCRAPYELLOW_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
 	"ITEM_SCRAPYELLOW_DESC" : "Does nothing. Prioritized when used with 3D Printers.",
+	"ITEM_SCRAPYELLOW_LORE": "\u201CWhile officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don\u2019t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.\u201D\r\n\r\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing\r\n",
 
 	"ITEM_LUNARBADLUCK_NAME" : "Purity",
 	"ITEM_LUNARBADLUCK_PICKUP" : "Reduce your skill cooldowns by 2 seconds. <color=#FF7F7F>You are unlucky.</color>",
 	"ITEM_LUNARBADLUCK_DESC": "All skill cooldowns are reduced by <style=cIsUtility>2</style> <style=cStack>(+1 per stack)</style> seconds. All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> times for an <style=cIsHealth>unfavorable outcome</style>.", 
 	"ITEM_LUNARBADLUCK_LORE" : "It looks like starseed, tanning in dirt.\r\nIt smells like hot stone, and tall grass.\r\nIt tastes like spiced fruit, sweet and hot.\r\nIt feels like solar winds, and solar chimes.\r\nIt sounds like two brothers, chasing glass frogs in the sun.\r\n",
+	
+	"ITEM_LUNARSECONDARYREPLACEMENT_NAME": "Hooks of Heresy",
+	"ITEM_LUNARSECONDARYREPLACEMENT_PICKUP": "Replace your Secondary Skill with 'Slicing Maelstrom'.",
+	"ITEM_LUNARSECONDARYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Secondary Skill </style> with <style=cIsUtility>Slicing Maelstrom</style>.  \n\nCharge up a projectile that deals <style=cIsDamage>175% damage per second</style> to nearby enemies, exploding after <style=cIsUtility>3</style> seconds to deal <style=cIsDamage>700% damage</style> and <style=cIsDamage>root</style> enemies for <style=cIsUtility>3</style> <style=cStack>(+3 per stack)</style> seconds. Recharges after 5 <style=cStack>(+5 per stack)</style> seconds.", 
+	"ITEM_LUNARSECONDARYREPLACEMENT_LORE" : "\u201C\u2026her arms were warped into terrible blades, so she may no longer find joy in study or tooling\u2026\u201D\r\n\r\n-The Evisceration of Kur-skan the Heretic, IV\r\n",
+
+	"ITEM_SKULLCOUNTER_NAME": "Skull Token",
+	"ITEM_SKULLCOUNTER_PICKUP": "Proof of a specific kind of kill. Has no direct effect of its own.",
+	"ITEM_SKULLCOUNTER_DESC": "Proof of a specific kind of kill. Has no direct effect of its own.",
+    
+    "ITEM_ROBOBALLBUDDY_NAME": "Empathy Cores",
+    "ITEM_ROBOBALLBUDDY_PICKUP": "Recruit a pair of Solus Probes that gain power with more allies.",
+    "ITEM_ROBOBALLBUDDY_DESC": "Every 30 seconds, <style=cIsUtility>summon two Solus Probes</style> that gain <style=cIsDamage>+100%</style> <style=cStack>(+100% per stack)</style> damage per <style=cIsUtility>ally on your team</style>.",
+	"ITEM_ROBOBALLBUDDY_LORE" : "13006; PROBE CORE INSTANCE REQUEST RECOGNIZED\r\n13006; PROBE CORE INSTANCE OVERVIEW FOR STORED MODELS:\r\n;SER ID> 04534098130\r\n;INST> MINING PROBE INSTANCES\r\n;HIGHLIGHTS\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY BOLD AND GREEN AND LONELY\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY COLD AND RED AND LONELY\r\n\r\n13010; DOCKING CORES\r\n13011; DEPLOYED\r\n",
+
+	"ITEM_PARENTEGG_NAME" : "Planula",
+	"ITEM_PARENTEGG_PICKUP": "Receive flat healing when attacked.",
+	"ITEM_PARENTEGG_DESC": "Heal from <style=cIsDamage>incoming damage</style> for <style=cIsHealing>15<style=cStack> (+15 per stack)</style></style>.",
+	"ITEM_PARENTEGG_LORE": "\"Yes \u2013 the egg. The grandparent incubates the eggs.\"\r\n\r\n\"And the child?\"\r\n\r\n\"The child lays the egg.\"\r\n\r\n\"And the egg becomes the\u2026?\"\r\n\r\n\"The parent.\"\r\n\r\n\"Okay. And the parent does what?\"\r\n\r\n\"Takes care of children \u2013 and the grandparent.\"\r\n\r\n\"And the grandparent is the youngest?\"\r\n\r\n\"Younger than the child, yes. But not the youngest.\"\r\n\r\n\"Who is the youngest?\"\r\n\r\n\"The parent.\"\r\n\r\n\"\u2026\"\r\n",
+	
+	"ITEM_LUNARSPECIALREPLACEMENT_NAME" : "Essence of Heresy",
+	"ITEM_LUNARSPECIALREPLACEMENT_PICKUP" : "Replace your Special Skill with 'Ruin'.",
+	"ITEM_LUNARSPECIALREPLACEMENT_DESC": "<style=cIsUtility>Replace your Special Skill</style> with <style=cIsUtility>Ruin</style>.  \n\nDealing damage adds a stack of <style=cIsDamage>Ruin</style> for 10 <style=cStack>(+10 per stack)</style> seconds. Activating the skill <style=cIsDamage>detonates</style> all Ruin stacks at unlimited range, dealing <style=cIsDamage>300% damage</style> plus <style=cIsDamage>120% damage per stack of Ruin</style>. Recharges after 8 <style=cStack>(+8 per stack)</style> seconds.",
+	"ITEM_LUNARSPECIALREPLACEMENT_LORE" : "\u201C\u2026and her heart, too wicked and full of hate, was left where she once stood \u2013 at the site of her betrayal.\u201D\r\n\r\n-The Evisceration of Kur-skan the Heretic, VI\r\n",
 	}
 }

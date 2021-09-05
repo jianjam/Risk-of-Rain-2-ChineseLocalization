@@ -44,6 +44,7 @@
 		"UNLOCKABLE_LOG_LUNARWISP" : "Monster Log: Lunar Chimera",
 		"UNLOCKABLE_LOG_LUNARGOLEM" : "Monster Log: Lunar Chimera",
 		"UNLOCKABLE_LOG_BROTHER" : "Monster Log: Mithrix",
+		"UNLOCKABLE_LOG_LUNAREXPLODER" : "Monster Log: Lunar Chimera",
 
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",

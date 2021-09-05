@@ -11,6 +11,7 @@
 	"DIFFICULTY_BAR_7": "I SEE YOU",
 	"DIFFICULTY_BAR_8": "I'M COMING FOR YOU",
 	"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
-	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage\n</style> {0}",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Lv.</style> {0}",
 	}
 }

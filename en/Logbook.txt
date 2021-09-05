@@ -11,16 +11,21 @@
 	"LOGBOOK_CATEGORY_STAGE" : "Environment",
 	"LOGBOOK_CATEGORY_SURVIVOR" : "Survivor",
 	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
+	"LOGBOOK_CATEGORY_STATS": "Profile Stats",
+	"LOGBOOK_CATEGORY_MORGUE": "Run History",
 
 	"LOGBOOK_UNLOCK_ITEM_LOG" : "Find this item in the world to unlock this log entry.",
 	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "Defeat this monster for a chance to unlock this log entry.",
 	"LOGBOOK_UNLOCK_ITEM_STAGE" : "Find and repair a Radar Tower in the stage to unlock this log entry.",
-	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "Play the game with this survivor to unlock this log entry.",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "Beat the game with this survivor to unlock this log entry.",
 	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "This log entry has an unknown unlock condition.",
 
 	"LOGBOOK_HOVER_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
-	"LOGBOOK_ZOOMINOUT" : "Zoom Out/In",
+	"LOGBOOK_ZOOMINOUT" : "Navigate",
 	"LOGBOOK_ROTATE" : "Rotate",
 	"LOGBOOK_PAN" : "Pan",
+
+	"LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_TITLE_FORMAT": "{0}",
+	"LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Class: {0}</nobr>\n<nobr>Mode: {1}</nobr>\n<nobr>Ending: {2}</nobr>"
 	}
 }

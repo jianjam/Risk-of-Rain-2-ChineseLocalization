@@ -1,29 +1,55 @@
 {
-    "strings":
-    {
-        "CUTSCENE_INTRO_FLAVOR_1" : "UES 'Safe Travels' ",
-        "CUTSCENE_INTRO_FLAVOR_2" : "Last known coordinates of the UES 'Contact Light'",
-        "CUTSCENE_INTRO_SUBTITLE_1" : "We're here, Captain. The distress beacon came from this exact coordinate.",
-        "CUTSCENE_INTRO_SUBTITLE_2" : "This planet... it isn't on any star maps we know. This area isn't even on route... ",
-        "CUTSCENE_INTRO_SUBTITLE_3" : "Any visuals on the Contact Light?",
-        "CUTSCENE_INTRO_SUBTITLE_4" : "No sir... just debris.",
-        "CUTSCENE_INTRO_SUBTITLE_5" : "Any signs of survivors?",
-        "CUTSCENE_INTRO_SUBTITLE_6" : "....No sir. Bioscanner is dark.",
-        "CUTSCENE_INTRO_SUBTITLE_7" : "Sir... the distress beacon. It mentioned... it mentioned a lot.",
-        "CUTSCENE_INTRO_SUBTITLE_8" : "Monsters, and fighting, and...",
-        "CUTSCENE_INTRO_SUBTITLE_9" : "...Sir... do you think we're ready?",
-        "CUTSCENE_INTRO_SUBTITLE_10" : "Sir?",
+	"strings": {
+		"CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels' ",
+		"CUTSCENE_INTRO_FLAVOR_2": "Last known coordinates of the UES 'Contact Light'",
+		"CUTSCENE_INTRO_SUBTITLE_1": "We're here, Captain. The distress beacon came from this exact coordinate.",
+		"CUTSCENE_INTRO_SUBTITLE_2": "This planet... it isn't on any star maps we know. This area isn't even on route... ",
+		"CUTSCENE_INTRO_SUBTITLE_3": "Any visuals on the Contact Light?",
+		"CUTSCENE_INTRO_SUBTITLE_4": "No sir... just debris.",
+		"CUTSCENE_INTRO_SUBTITLE_5": "Any signs of survivors?",
+		"CUTSCENE_INTRO_SUBTITLE_6": "....No sir. Bioscanner is dark.",
+		"CUTSCENE_INTRO_SUBTITLE_7": "Sir... the distress beacon. It mentioned... it mentioned a lot.",
+		"CUTSCENE_INTRO_SUBTITLE_8": "Monsters, and fighting, and...",
+		"CUTSCENE_INTRO_SUBTITLE_9": "...Sir... do you think we're ready?",
+		"CUTSCENE_INTRO_SUBTITLE_10": "Sir?",
 
-		"GENERIC_OUTRO_FLAVOR" : "..and so it left, hopeful for meaning.",
-		"COMMANDO_OUTRO_FLAVOR" : "..and so he left, with everything but his humanity.",
-		"HUNTRESS_OUTRO_FLAVOR" : "..and so she left, her soul still remaining on the planet.",
-		"ENGI_OUTRO_FLAVOR" : "..and so he left, more steel and circuit than man.",
-		"TREEBOT_OUTRO_FLAVOR" : "..and so it left, ready to grow into something more.",
-		"CROCO_OUTRO_FLAVOR" : "..and so it left, with delusions of freedom.",
-		"LOADER_OUTRO_FLAVOR" : "..and so she left, heart still racing.",
-		"MERC_OUTRO_FLAVOR" : "..and so he left, with terrible power in shaking hands.",
-		"CAPTAIN_OUTRO_FLAVOR" : "..and so he left, with a new tale to tell.",
-		"TOOLBOT_OUTRO_FLAVOR" : "..and so it left, ready to recharge.",
-		"MAGE_OUTRO_FLAVOR" : "..and so she left, in love with a new passion: to explore.",
-    }
+		"GENERIC_OUTRO_FLAVOR": "..and so it left, hopeful for meaning.",
+		"GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, so close to escape.",
+
+		"COMMANDO_OUTRO_FLAVOR": "..and so he left, with new orders and new questions.",
+		"COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, another number among the missing.",
+
+		"HUNTRESS_OUTRO_FLAVOR": "..and so she left, yearning for her next great hunt.",
+		"HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, never to collect again.",
+
+		"ENGI_OUTRO_FLAVOR": "..and so he left, with newfound inspirations.",
+		"ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, unable to explain what his eyes had seen.",
+
+		"TREEBOT_OUTRO_FLAVOR": "..and so it left, ready to grow into something more.",
+		"TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, still remaining as one.",
+
+		"CROCO_OUTRO_FLAVOR": "..and so it left, with delusions of freedom.",
+		"CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, taken for the final time.",
+
+		"LOADER_OUTRO_FLAVOR": "..and so she left, heart still racing.",
+		"LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, her momentum halted forever.",
+
+		"MERC_OUTRO_FLAVOR": "..and so he left, with dreams of good food and a peaceful night.",
+		"MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, reduced to fable.",
+
+		"CAPTAIN_OUTRO_FLAVOR": "..and so he left, with a new tale to tell.",
+		"CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so he vanished, free from a lifetime of paperwork.",
+
+		"TOOLBOT_OUTRO_FLAVOR": "..and so it left, ready to recharge.",
+		"TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so it vanished, inactive forever.",
+
+		"MAGE_OUTRO_FLAVOR": "..and so she left, in love with a new passion: to explore.",
+		"MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, her place forever vacant.",
+
+		"BANDIT2_OUTRO_FLAVOR": "..and so he left, grateful for his luck.",
+		"BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "..and so he vanished, full of regret.",
+
+		"HERETIC_OUTRO_FLAVOR": "..and so they left, bitterly avenged and deeply lost.",
+		"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so they vanished, two stories ending as one.",
+	}
 }

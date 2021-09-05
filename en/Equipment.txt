@@ -4,10 +4,12 @@
 	"EQUIPMENT_COMMANDMISSILE_NAME": "Disposable Missile Launcher",
 	"EQUIPMENT_COMMANDMISSILE_PICKUP": "Fire a swarm of missiles.",
 	"EQUIPMENT_COMMANDMISSILE_DESC": "Fire a swarm of <style=cIsDamage>12</style> missiles that deal <style=cIsDamage>12x300% damage</style>.",
+	"EQUIPMENT_COMMANDMISSILE_LORE": "\u201CConsumers were shocked when a beloved game company released its latest cardboard assembly kit: a missile launcher.\u201D\r\n\r\n- The Saturn Reporter\r\n",
 
 	"EQUIPMENT_FRUIT_NAME": "Foreign Fruit",
 	"EQUIPMENT_FRUIT_PICKUP": "Heal on use.",
 	"EQUIPMENT_FRUIT_DESC": "Instantly heal for <style=cIsHealing>50% of your maximum health</style>.",
+	"EQUIPMENT_FRUIT_LORE": "\u201CThe Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.\u201D\r\n\r\n- Dietary Sciences Digest\r\n",
 
 	"EQUIPMENT_METEOR_NAME": "Glowing Meteorite",
 	"EQUIPMENT_METEOR_PICKUP": "Rain meteors from the sky, <color=#FF7F7F>hurting both enemies and allies.</color>",
@@ -21,6 +23,7 @@
 	"EQUIPMENT_BLACKHOLE_NAME": "Primordial Cube",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "Fire a black hole that draws enemies in.",
 	"EQUIPMENT_BLACKHOLE_DESC": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds",
+	"EQUIPMENT_BLACKHOLE_LORE": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
 
 	"EQUIPMENT_GHOSTGUN_NAME": "Reaper's Remorse",
 	"EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",
@@ -49,6 +52,7 @@
 	"EQUIPMENT_LIGHTNING_NAME": "Royal Capacitor",
     "EQUIPMENT_LIGHTNING_PICKUP": "Call down a lightning strike on a targeted monster.",
     "EQUIPMENT_LIGHTNING_DESC": "Call down a lightning strike on a targeted monster, dealing <style=cIsDamage>3000% damage</style> and <style=cIsDamage>stunning</style> nearby monsters.",
+	"EQUIPMENT_LIGHTNING_LORE": "Order: ZAP2-K \u201CRoyal\u201D Capacitor\r\nTracking Number: 145***************\r\nEstimated Delivery: 04\/30\/2056\r\nShipping Method:  Standard\r\nShipping Address: Power Plant 005, Route 10, Venus\r\nShipping Details: \r\n\r\nHere\u2019s a replacement for your damaged equipment. Crazy how gang activity is starting up again \u2013 even crazier that they\u2019d steal a capacitor from you guys. Anyway, you guys know the drill \u2013 make sure routinely discharge the capacitor\u2019s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
 
 	"EQUIPMENT_GOLDGAT_NAME": "The Crowdfunder",
     "EQUIPMENT_GOLDGAT_PICKUP": "Toggle to fire. Costs gold per bullet.",
@@ -84,6 +88,10 @@
     "EQUIPMENT_AFFIXHAUNTED_PICKUP": "Become an aspect of incorporeality.",
     "EQUIPMENT_AFFIXHAUNTED_DESC": "",
 
+	"EQUIPMENT_AFFIXLUNAR_NAME": "Shared Design",
+    "EQUIPMENT_AFFIXLUNAR_PICKUP": "Become an aspect of perfection.",
+    "EQUIPMENT_AFFIXLUNAR_DESC": "",
+
 	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire Tincture",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "Burn everything nearby... <color=#FF7F7F>including you and allies.</color>\n",
 	"EQUIPMENT_BURNNEARBY_DESC" : "Ignite ALL characters within 8m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies.",
@@ -96,19 +104,23 @@
 	"EQUIPMENT_SCANNER_NAME": "Radar Scanner",
 	"EQUIPMENT_SCANNER_PICKUP": "Reveal all nearby interactables.",
 	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>Reveal</style> all interactables within 500m for <style=cIsUtility>10 seconds</style>.",
-	
+	"EQUIPMENT_SCANNER_LORE": "Order: Radar Communications Array\r\nTracking Number: 02****************\r\nEstimated Delivery: 01\/14\/2056\r\nShipping Method:  Standard\r\nShipping Address: PO Box 25-B, Fort G.B., Mercury\r\nShipping Details: \r\n\r\nYou\u2019re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves \u2013 maybe it\u2019ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!\r\n",
+
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "Effigy of Grief",
 	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "Drop a permanent effigy that cripples ALL characters inside. Can place up to 5..",
 	"EQUIPMENT_CRIPPLEWARD_DESC" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>. Can place up to <style=cIsUtility>5</style>.",
+	"EQUIPMENT_CRIPPLEWARD_LORE": "\u201CThis relic tells a story... But it is not a fairy tale. It\u2019s a tragedy. A story of betrayal, regret, and sorrow. A story of two.\u201D\r\n\r\n\u201CUh\u2026 okay\u2026? How the hell do you know that?\u201D\r\n",
 
 	"EQUIPMENT_GATEWAY_NAME" : "Eccentric Vase",
 	"EQUIPMENT_GATEWAY_PICKUP" : "Create a quantum tunnel between two locations.",
 	"EQUIPMENT_GATEWAY_DESC" : "Create a <style=cIsUtility>quantum tunnel</style> of up to <style=cIsUtility>1000m</style> in length. Lasts 30 seconds.",
-	
+	"EQUIPMENT_GATEWAY_LORE": "\u201COne of Robins\u2019 most loved acts was the pitcher skit. \r\n\r\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn\u2019t seem to get any fuller \u2013 as if the soil was disappearing infinitely. \r\n\r\nRobins would inspect the vase, looking at it up and down, but there weren\u2019t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head \u2013 upon which all of the soil poured in would land directly on his face.\u201D\r\n\r\n- Biography of Charles Robins\r\n",
+
 	"EQUIPMENT_TONIC_NAME" : "Spinel Tonic",
 	"EQUIPMENT_TONIC_PICKUP" : "Gain a massive boost to ALL stats. <color=#FF7F7F>Chance to gain an affliction that reduces ALL stats.</color>",
 	"EQUIPMENT_TONIC_DESC" : "Drink the Tonic, gaining a boost for 20 seconds. Increases <style=cIsDamage>damage</style> by <style=cIsDamage>+100%</style>. Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>+70%</style>. Increases <style=cIsDamage>armor</style> by <style=cIsDamage>+20</style>. Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>+50%</style>. Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>+300%</style>. Increases <style=cIsUtility>movespeed</style> by <style=cIsUtility>+30%</style>.\n\nWhen the Tonic wears off, you have a <style=cIsHealth>20%</style> chance to gain a <style=cIsHealth>Tonic Affliction, reducing all of your stats</style> by <style=cIsHealth>-5%</style> <style=cStack>(-5% per stack)</style>.",
-	
+	"EQUIPMENT_TONIC_LORE": "\u201CReality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.\u201D\r\n\r\n- Sigibold the Drunken\r\n",
+
 	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Fuel Array",
 	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Looks like it could power something. <color=#FF7F7F>EXTREMELY unstable...</color>",
 
@@ -120,7 +132,8 @@
 	"EQUIPMENT_FIREBALLDASH_NAME" : "Volcanic Egg",
 	"EQUIPMENT_FIREBALLDASH_PICKUP" : "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
 	"EQUIPMENT_FIREBALLDASH_DESC" : "Turn into a <style=cIsDamage>draconic fireball</style> for <style=cIsDamage>5</style> seconds. Deal <style=cIsDamage>500% damage</style> on impact. Detonates at the end for <style=cIsDamage>800% damage</style>.",
-	
+	"EQUIPMENT_FIREBALLDASH_LORE": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.",
+
 	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
 	"EQUIPMENT_GAINARMOR_PICKUP" : "Gain massive armor for 5 seconds.",
 	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",

@@ -141,12 +141,18 @@
 		
 		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Gotcha!",
 		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "As MUL-T, land the killing blow on an Imp Overlord with the Preon Accumulator.",
+
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_NAME": "MUL-T: Seventh Day",
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_DESCRIPTION": "As MUL-T, clear the Void Fields on Stage 7 or later.",
 		
 		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Mercenary: Demon of the Skies",
 		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "As Mercenary, don't touch the ground for 30 seconds.",
 		
 		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Mercenary: Ethereal",
 		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "As Mercenary, complete a Prismatic Trial without falling below 100% health.",
+
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_NAME": "Mercenary: Flash of Blades",
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_DESCRIPTION": "As Mercenary, use 20 abilities in 10 seconds.",
 		
 		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Huntress: Piercing Wind",
 		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "As Huntress, start and finish either Rallypoint Delta or Scorched Acres without falling below 100% health.",
@@ -177,9 +183,15 @@
 		
 		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Dunked",
 		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Clay Dunestrider on Abandoned Aqueduct by throwing it into a pit.",
+
+		"ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Full of Life",
+		"ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "As REX, heal for 1000 health at once.",
 		
 		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Loader: Swing By",
 		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "As Loader, reach and proceed through the Celestial Portal in 25 minutes or less.",
+
+		"ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Loader: The Thunderdome",
+		"ACHIEVEMENT_LOADERKILLLOADERS_DESCRIPTION": "As Loader, kill three other Loaders in the Bulwark's Ambry.",
 		
 		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Commando: Incorruptible",
 		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "As Commando, clear 20 stages in a single run without picking up any Lunar items.",
@@ -213,6 +225,9 @@
 
 		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Captain: Mastery",
 		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "As Captain, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandit: Mastery",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "As Bandit, beat the game or obliterate on Monsoon.",
 
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
@@ -315,6 +330,18 @@
 
 		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_NAME": "Captain: Wanderlust",
 		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_DESCRIPTION": "As Captain, visit 10 different environments in a single run.",
+
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_NAME": "Captain: Smushed",
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_DESCRIPTION": "As Captain, kill the final boss using a Supply Beacon",
+
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_NAME": "Bandit: Classic Man",
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_DESCRIPTION": "As Bandit, successfully use 'Lights Out' to reset your cooldowns 15 times in a row.",
+
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_NAME": "Bandit: B&E",
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_DESCRIPTION": "As Bandit, kill the final boss with 'Lights Out'.",
+
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandit: Sadist",
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "As Bandit, kill a monster with 20 stacks of Hemorrhage.",
 
 		"ACHIEVEMENT__NAME": "",
 		"ACHIEVEMENT__DESCRIPTION": "",

@@ -10,6 +10,9 @@
 
 	"BARREL1_NAME": "Barrel",
 	"BARREL1_CONTEXT": "Open barrel",
+
+	"DUMMYINTERACTION_NAME": "???",
+	"DUMMYINTERACTION_CONTEXT": "???",
 	
 	"LOCKBOX_NAME": "Rusty Lockbox",
 	"LOCKBOX_CONTEXT": "Open Rusty Lockbox",
@@ -62,6 +65,9 @@
 
 	"LUNAR_TERMINAL_NAME" : "Lunar Bud",
 	"LUNAR_TERMINAL_CONTEXT" : "Open Lunar Bud",
+
+	"LUNAR_REROLL_NAME" : "Slab",
+	"LUNAR_REROLL_CONTEXT" : "Refresh Shop",
 
 	"BAZAAR_UPGRADE_LUNAR_NAME" : "Slab",
 	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "Permanently upgrade Item Shop",
@@ -151,6 +157,18 @@
 	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
 	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
 
+	"MOON_BATTERY_SOUL_NAME" : "Pillar of Soul",
+	"MOON_BATTERY_SOUL_CONTEXT" : "Activate Pillar",
+
+	"MOON_BATTERY_BLOOD_NAME" : "Pillar of Blood",
+	"MOON_BATTERY_BLOOD_CONTEXT" : "Activate Pillar",
+
+	"MOON_BATTERY_DESIGN_NAME" : "Pillar of Design",
+	"MOON_BATTERY_DESIGN_CONTEXT" : "Activate Pillar",
+
+	"MOON_BATTERY_MASS_NAME" : "Pillar of Mass",
+	"MOON_BATTERY_MASS_CONTEXT" : "Activate Pillar",
+
 	"LOCKEDMAGE_NAME" : "Survivor",
 	"LOCKEDMAGE_CONTEXT" : "Free the survivor",
 		
@@ -206,11 +224,12 @@
 	"COST_MONEY_FORMAT": "${0}",
 	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
 	"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
-	"COST_ITEM_FORMAT": "{0} Items",
+	"COST_ITEM_FORMAT": "{0} Item(s)",
 	"COST_LUNAR_FORMAT": "{0} Lunar",
 	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
 	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
+	"COST_TREASURECACHEITEM_FORMAT": "{0} Rusted Key",
 	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
 
 	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
@@ -233,5 +252,8 @@
 
 	"DROPSHIP_NAME" : "UES Dropship",
 	"DROPSHIP_CONTEXT" : "Escape",
+
+	"MOON_ELEVATOR_NAME" : "Platform",
+	"MOON_ELEVATOR_CONTEXT" : "Activate platform",
 	}
 }
