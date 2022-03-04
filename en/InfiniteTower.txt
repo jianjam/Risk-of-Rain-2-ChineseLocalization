@@ -1,0 +1,72 @@
+{
+    "strings":
+    {
+        "INFINITETOWER_GAMEMODE_NAME" : "Simulacrum",
+        "INFINITETOWER_GAMEMODE_DESCRIPTION" : "<style=cWorldEvent>Simulacrum</style> is an arcade gamemode that sends an infinite number of difficult waves of monsters against players.\n\nThis is a replication.\nThis is a replication.\nThis is a replication.",
+        "INFINITETOWER_GAMEMODE_START" : "Execute",
+        "INFINITE_TOWER_ENEMIES_REMAINING": "Enemies Remaining: ",
+        "INFINITE_TOWER_ENEMY_COUNTER" : "{0}",
+        "INFINITE_TOWER_TIME_REMAINING": "<style=cSub>Next Wave: </style>",
+        "INFINITE_TOWER_TIME_COUNTER" : "{0}",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_EASY" : "> Highest Wave (Drizzle): <style=cIsHealing>{0}</style>",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_NORMAL" : "> Highest Wave (Normal): <style=cIsHealing>{0}</style>",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_HARD" : "> Highest Wave (Monsoon): <style=cIsHealing>{0}</style>",
+        "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDEASY": "Wave",
+        "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDNORMAL": "Wave",
+        "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDHARD": "Wave",
+        "STATNAME_HIGHESTINFINITETOWERWAVEREACHED": "Wave",      
+        "INFINITETOWER_WAVE_BEGIN" : "<style=cWorldEvent>[WARNING] Replicating combat test..</style>",
+        "INFINITETOWER_WAVE_BEGIN_BOSS" : "<style=cWorldEvent>[WARNING] Replicating <b>advanced</b> combat test..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_BOMB" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Spite</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_COMMAND" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Command</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_GLASS" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Glass</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_MIXENEMY" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Dissonance</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_SINGLEMONSTERTYPE" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Kin</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WEAKASSKNEES" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Frailty</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WISPONDEATH" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Soul</style> augment..</style>",
+        "PORTAL_INFINITETOWER_OPEN" : "<style=cWorldEvent>Replication complete.  Advance to next simulation.</style>",
+
+        "INFINITETOWER_WAVE_COUNTER" : "Wave {0}",
+        "INFINITETOWER_WAVE_DESCRIPTION_DEFAULT" : "Defeat all enemies.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS" : "Wave {0} - Boss",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS" : "Enemies are stronger and more numerous.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_LUNAR" : "Wave {0} - Boss Augment of the Moon",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_LUNAR" : "Enemies are stronger, more numerous, and guaranteed to be Lunar.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_VOID" : "Wave {0} - Boss Augment of the Void",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_VOID" : "Enemies are stronger, more numerous, and guaranteed to be Void.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_SCAV" : "Wave {0} - Boss Augment of the Scavenger",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV" : "Defeat the Scavenger for a special reward.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOSS_BROTHER" : "Wave {0} - Boss Augment of Mithrix",
+        "INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER" : "Defeat Mithrix for a special reward.",
+
+        "INFINITETOWER_WAVE_COUNTER_BOMB" : "Wave {0} - Augment of Spite",
+        "INFINITETOWER_WAVE_COUNTER_COMMAND" : "Wave {0} - Augment of Command",
+        "INFINITETOWER_WAVE_COUNTER_GLASS" : "Wave {0} - Augment of Glass",
+        "INFINITETOWER_WAVE_COUNTER_MIXENEMY" : "Wave {0} - Augment of Dissonance",
+        "INFINITETOWER_WAVE_COUNTER_SINGLEMONSTERTYPE" : "Wave {0} - Augment of Kin",
+        "INFINITETOWER_WAVE_COUNTER_WEAKASSKNEES" : "Wave {0} - Augment of Frailty",
+        "INFINITETOWER_WAVE_COUNTER_WISPONDEATH" : "Wave {0} - Augment of Soul",
+
+        "MAP_INFINITETOWER_TITLE" : "The Simulacrum",
+        "MAP_INFINITETOWER_SUBTITLE" : "Threat Simulation",
+	    "INFINITETOWER_ADD_ITEM" : "<style=cWorldEvent>[WARNING] {1} has been integrated into the Simulacrum...!</style>",
+
+        "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION" : "Activate the Focus",
+        "INFINITETOWER_OBJECTIVE_ACTIVE" : "Survive..",
+        "INFINITETOWER_OBJECTIVE_TRAVEL" : "Follow the Focus",
+        "INFINITETOWER_OBJECTIVE_PORTAL" : "Enter the Portal",
+
+	    "INFINITE_TOWER_SAFE_WARD_NAME" : "Assessment Focus",
+	    "INFINITE_TOWER_SAFE_WARD_CONTEXT" : "Begin Assessment",
+
+        "PORTAL_INFINITETOWER_NAME" : "Infinite Portal",
+	    "PORTAL_INFINITETOWER_CONTEXT": "Enter Infinite Portal",
+
+        "INFINITETOWER_SUDDEN_DEATH" : "The Focus begins to falter..",
+	}
+}

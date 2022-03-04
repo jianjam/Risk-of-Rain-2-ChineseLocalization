@@ -37,5 +37,11 @@
 
 		"RULE_DESCRIPTION_FORMAT" : "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
 		"RULE_EDIT_FORMAT" : "<mark=#{2}><b>[ Edit {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+
+		"RULE_HEADER_EXPANSIONS": "Expansions",
+		"RULE_HEADER_EXPANSIONS_EDIT": "Enable and disable Expansions.",
+		"RULE_HEADER_EXPANSIONS_SUBTITLE": "Game expansions that will be used for this run.",
+		"RULE_EXPANSION_ON_DESCRIPTION" : "Enables this game expansion.",
+		"RULE_EXPANSION_OFF_DESCRIPTION" : "Disables this game expansion."
 	}
 }

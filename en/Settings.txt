@@ -184,11 +184,15 @@
 		"OPTION_INTRO_SKIP": "Skip Startup Intro",
 		"OPTION_INTRO_SKIP_DESCRIPTION": "Skips the intro cutscene that plays on startup.",
 
+		"OPTION_EOS_CROSSPLAY_TOGGLE": "Toggle Epic Games/Steam Cross-play",
+
 		"OPTION_REBIND_DIALOG_TITLE": "Rebind Control...",
 		"OPTION_REBIND_DIALOG_DESCRIPTION": "Press the button you wish to assign for {0}. \n{1:0} second(s) remaining.",
 		
 		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Rebinding cancelled.",
 		
 		"SETTINGS_PROFILE_NAME_FORMAT": "Settings - <style=cUserSetting>{0}</style>",
+
+		"OPTION_AUTOREVERT_DIALOG_TITLE" : "Keep Changes?",
 	}
 }

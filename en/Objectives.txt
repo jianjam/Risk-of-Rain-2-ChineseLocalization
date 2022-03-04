@@ -27,5 +27,11 @@
 		"OBJECTIVE_MOON_CHARGE_DROPSHIP_OOB": "Defend the <style=cHumanObjective>Rescue Ship!</style>({0}%)",
 		"OBJECTIVE_MOON_DROPSHIP_WAIT_FOR_ALLIES": "Escape!",
 		"OBJECTIVE_FRACTION_PROGRESS_FORMAT": "{0} ({1}/{2})",
+		"OBJECTIVE_VOID_BATTERY_MISSION": "Activate <style=cIsVoid>Deep Void Signals</style> ({0}/{1})",
+		"OBJECTIVE_VOID_DEEP_PORTAL": "Enter the <style=cIsVoid>Deep Void</style>",
+		"OBJECTIVE_VOID_OUTRO_PORTAL": "Exit the <style=cIsVoid>Deep Void</style>",
+		"OBJECTIVE_VOIDCAMP": "Clear the <style=cIsVoid>Void Seed</style>.\n{0} monster(s) remaining",
+		"OBJECTIVE_VOID_BATTERY" : "Charge the <style=cIsVoid>Deep Void Signals</style> ({0}%)",
+		"OBJECTIVE_VOID_BATTERY_OOB": "Enter the <style=cIsVoid>Deep Void Signal's radius!</style> ({0}%)",
 	}
 }

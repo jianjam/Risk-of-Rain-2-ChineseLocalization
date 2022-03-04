@@ -16,6 +16,9 @@
 	
 	"LOCKBOX_NAME": "Rusty Lockbox",
 	"LOCKBOX_CONTEXT": "Open Rusty Lockbox",
+
+	"LOCKBOXVOID_NAME": "Encrusted Lockbox",
+	"LOCKBOXVOID_CONTEXT": "Open Encrusted Lockbox",
 	
 	"EQUIPMENTBARREL_NAME": "Equipment Barrel",
 	"EQUIPMENTBARREL_CONTEXT": "Open equipment barrel",
@@ -122,6 +125,13 @@
 	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Let the challenge of the Mountain... begin!</style>",
 	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Your bravery is rewarded!</style>",
 
+	"VOID_SUPPRESSOR_NAME": "Void Eradicator",
+	"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
+	"VOID_SUPPRESSOR_USE_MESSAGE_2P": "<style=cShrine>You eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_USE_MESSAGE": "<style=cShrine>{0} eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_FAKE_NAME": "Newt Altar?",
+	"VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Newt Altar?",
+
 	"SHRINE_RESTACK_NAME": "Shrine of Order",
 	"SHRINE_RESTACK_CONTEXT": "Offer to Shrine of Order",
 	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... sequenced.</color>",
@@ -168,6 +178,9 @@
 
 	"MOON_BATTERY_MASS_NAME" : "Pillar of Mass",
 	"MOON_BATTERY_MASS_CONTEXT" : "Activate Pillar",
+
+	"VENDING_MACHINE_NAME" : "UESCola Vending Machine",
+	"VENDING_MACHINE_CONTEXT" : "Purchase Refreshing Beverage",
 
 	"LOCKEDMAGE_NAME" : "Survivor",
 	"LOCKEDMAGE_CONTEXT" : "Free the survivor",
@@ -230,6 +243,7 @@
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
 	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
 	"COST_TREASURECACHEITEM_FORMAT": "{0} Rusted Key",
+	"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Encrusted Key",
 	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
 
 	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
@@ -255,5 +269,54 @@
 
 	"MOON_ELEVATOR_NAME" : "Platform",
 	"MOON_ELEVATOR_CONTEXT" : "Activate platform",
+
+	"VOIDLOCKBOX_NAME": "Encrusted Cache",
+	"VOIDLOCKBOX_CONTEXT": "Open Encrusted Cache",
+
+	"VOID_CHEST_NAME" : "Void Cradle",
+	"VOID_CHEST_CONTEXT" : "Open Void Cradle",
+
+	"VOID_TRIPLE_NAME" : "Void Potential",
+	"VOID_TRIPLE_CONTEXT" : "Release Void Potential",
+
+	"OPTION_PICKUP_INTERACTION_PROMPT" : "Collapse Void Potential",
+	"OPTION_PICKUP_UNKNOWN_NAME" : "Void Potential",
+	"OPTION_PICKUP_HEADER" : "Collapsing Potential Vectors...",
+
+	"PICKUP_VOID_COIN": "Void Marker",
+	"VOID_COIN_PICKUP_CONTEXT": "Pick up Void Marker",
+	"COST_VOIDCOIN_FORMAT":" <sprite name=\"VoidCoin\" tint=1>{0}",
+
+	"PORTAL_VOID_NAME" : "Void Portal",
+	"PORTAL_VOID_CONTEXT": "Enter Void Portal",
+
+	"VOIDCOINBARREL_NAME": "Stalk",
+	"VOIDCOINBARREL_CONTEXT": "Crack this sucker open!",
+
+	"FROG_NAME": "Frog",
+	"FROG_CONTEXT": "Pet the frog",
+
+	"DEEPVOIDBATTERY_NAME" : "Deep Void Signal",
+	"DEEPVOIDBATTERY_CONTEXT" : "Activate Deep Void Signal",
+
+	"PORTAL_DEEPVOID_NAME" : "Deep Void Portal",
+	"PORTAL_DEEPVOID_CONTEXT": "Enter Deep Void Portal",
+
+	"PORTAL_VOIDOUTRO_NAME" : "Portal?",
+	"PORTAL_VOIDOUTRO_CONTEXT": "Leave",
+
+	"VOIDCAMPCENTER_NAME" : "Void Seed",
+	"VOIDCAMPCENTER_CONTEXT": "Deactivate",
+
+	"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT":"Emerge",
+
+	"CATEGORYCHEST2_HEALING_NAME": "Large Chest - Healing",
+	"CATEGORYCHEST2_HEALING_CONTEXT": "Open Large Chest - Healing",
+
+	"CATEGORYCHEST2_DAMAGE_NAME": "Large Chest - Damage",
+	"CATEGORYCHEST2_DAMAGE_CONTEXT": "Open Large Chest - Damage",
+
+	"CATEGORYCHEST2_UTILITY_NAME": "Large Chest - Utility",
+	"CATEGORYCHEST2_UTILITY_CONTEXT": "Open Large Chest - Utility",
 	}
 }

@@ -22,7 +22,7 @@
 		"HOSTGAMEPANEL_ALLOW_RULE_VOTING": "Allow Rule Voting",
 		"HOSTGAMEPANEL_ALLOW_RULE_VOTING_DESCRIPTION": "Whether or not players are allowed to vote for Difficulty, Artifacts, and more while in character selection.",
 
-		"HOSTGAMEPANEL_LOBBY_TYPE": "Lobby Visiblity",
+		"HOSTGAMEPANEL_LOBBY_TYPE": "Lobby Visibility",
 		"HOSTGAMEPANEL_LOBBY_TYPE_DESCRIPTION": "Whether or not the game is Public, Private, or Friends Only.\n\nMust be set to Public to be displayed for other users.",
 
 		"HOSTGAMEPANEL_ADVERTISE_TO_MASTER_SERVER": "Visible to Master Server",

@@ -1,4 +1,4 @@
-{
+﻿{
 	"strings": {
 		"CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels' ",
 		"CUTSCENE_INTRO_FLAVOR_2": "Last known coordinates of the UES 'Contact Light'",
@@ -51,5 +51,11 @@
 
 		"HERETIC_OUTRO_FLAVOR": "..and so they left, bitterly avenged and deeply lost.",
 		"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so they vanished, two stories ending as one.",
+
+		"RAILGUNNER_OUTRO_FLAVOR": "..and so she left, ready to take her shot.",
+		"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..and so she vanished, out of sight.",
+
+		"VOIDSURVIVOR_OUTRO_FLAVOR": "『..and s?o it c??omes】... 「fo?r al?l of us.』",
+		"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR":  "『..a?nd so it v?ani??shed』, 「a wh?isper in the d??arkness』",
 	}
 }

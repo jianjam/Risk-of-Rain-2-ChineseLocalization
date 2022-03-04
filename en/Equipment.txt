@@ -22,7 +22,7 @@
 
 	"EQUIPMENT_BLACKHOLE_NAME": "Primordial Cube",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "Fire a black hole that draws enemies in.",
-	"EQUIPMENT_BLACKHOLE_DESC": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds",
+	"EQUIPMENT_BLACKHOLE_DESC": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds.",
 	"EQUIPMENT_BLACKHOLE_LORE": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
 
 	"EQUIPMENT_GHOSTGUN_NAME": "Reaper's Remorse",
@@ -61,7 +61,7 @@
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "Gnarled Woodsprite",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal over time. Activate to send to an ally.",
-	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health</style>.",
+	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals a friendly target for <style=cIsHealing>10% of their maximum health</style> instantly, then <style=cIsHealing>1.5% of your maximum health</style> every second. \n\nActivating the equipment assigns a new target, or yourself if there are no targets available.",
 	"EQUIPMENT_PASSIVEHEALING_LORE":"Order: Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n",
 	
 	"EQUIPMENT_AFFIXRED_NAME": "Ifrit's Distinction",
@@ -92,10 +92,18 @@
     "EQUIPMENT_AFFIXLUNAR_PICKUP": "Become an aspect of perfection.",
     "EQUIPMENT_AFFIXLUNAR_DESC": "",
 
+	"EQUIPMENT_AFFIXEARTH_NAME": "His Reassurance",
+    "EQUIPMENT_AFFIXEARTH_PICKUP": "Become an aspect of earth.",
+    "EQUIPMENT_AFFIXEARTH_DESC": "",
+
+	"EQUIPMENT_AFFIXSECRETSPEED_NAME": "Beyond the Limits",
+    "EQUIPMENT_AFFIXSECRETSPEED_PICKUP": "Become an aspect of speed.",
+    "EQUIPMENT_AFFIXSECRETSPEED_DESC": "",
+
 	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire Tincture",
-	"EQUIPMENT_BURNNEARBY_PICKUP" : "Burn everything nearby... <color=#FF7F7F>including you and allies.</color>\n",
-	"EQUIPMENT_BURNNEARBY_DESC" : "Ignite ALL characters within 8m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies.",
-	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom.  \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
+	"EQUIPMENT_BURNNEARBY_PICKUP" : "Ignite everything nearby... <color=#FF7F7F>including you and allies.</color>\n",
+	"EQUIPMENT_BURNNEARBY_DESC" : "<style=cIsDamage>Ignite</style> ALL characters within 15m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies.",
+	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom. \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
 
 	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
 	"EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
@@ -137,7 +145,7 @@
 	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
 	"EQUIPMENT_GAINARMOR_PICKUP" : "Gain massive armor for 5 seconds.",
 	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",
-	"EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones, who, just moments ago were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
+	"EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones who, just moments ago, were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
 
 	"EQUIPMENT_SAWMERANG_NAME": "Sawmerang",
 	"EQUIPMENT_SAWMERANG_PICKUP": "Throw a fan of buzzing saws that come back to you.",
@@ -163,5 +171,45 @@
 	"EQUIPMENT_DEATHPROJECTILE_PICKUP": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
 	"EQUIPMENT_DEATHPROJECTILE_DESC": "Throw a cursed doll out that <style=cIsDamage>triggers</style> any <style=cIsDamage>On-Kill</style> effects you have every <style=cIsUtility>1</style> second for <style=cIsUtility>8</style> seconds.",
 	"EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
+	
+	"EQUIPMENT_MOLOTOV_NAME": "Molotov (6-Pack)",
+	"EQUIPMENT_MOLOTOV_PICKUP": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
+	"EQUIPMENT_MOLOTOV_DESC": "Throw <style=cIsDamage>6</style> molotov cocktails that <style=cIsDamage>ignites</style> enemies for <style=cIsDamage>500% base damage</style>. Each molotov leaves a burning area for <style=cIsDamage>200% damage per second</style>.",
+	"EQUIPMENT_MOLOTOV_LORE": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand.",
+
+	"EQUIPMENT_IRRADIATINGLASER_NAME": "Overloading Excavator",
+	"EQUIPMENT_IRRADIATINGLASER_PICKUP": "Fire a laser that irradiates the target, causing damage to nearby enemies.",
+	"EQUIPMENT_IRRADIATINGLASER_DESC": "Fire a laser that irradiates targets for <style=cIsUtility>8</style> seconds, causing <style=cIsDamage>3x100%</style> damage to nearby enemies every <style=cIsDamage>8</style> seconds.",
+	"EQUIPMENT_IRRADIATINGLASER_LORE": "Used to excavate the planet of precious minerals, these devices were discontinued when it was discovered that they have a 95% chance to cause radiating poisoning on a full charge.",
+
+	"EQUIPMENT_LUNARPORTALONUSE_NAME" : "Elegy of Extinction",
+	"EQUIPMENT_LUNARPORTALONUSE_PICKUP" : "Prepare a <style=cIsLunar>Lunar Portal</style> on use.",
+	"EQUIPMENT_LUNARPORTALONUSE_DESC" : "Prepare a <style=cIsLunar>Lunar Portal</style> to be created at the teleportation site, rendering the stone idol useless.",
+	"EQUIPMENT_LUNARPORTALONUSE_LORE" : "This is a placeholder. write something sad here :(",
+
+	"EQUIPMENT_VENDINGMACHINE_NAME" : "Remote Caffeinator",
+	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "Request a healing soda machine.",
+	"EQUIPMENT_VENDINGMACHINE_DESC" : "Request an <style=cIsDamage>Eclipse Zero Vending Machine</style> from the <style=cIsDamage>UES Safe Travels</style>. Delivery guaranteed in <style=cIsUtility>5 seconds</style>, dealing <style=cIsDamage>2000% damage</style>. <style=cIsHealing>Heal</style> up to 3 targets for <style=cIsHealing>25% of their maximum health</style>.",
+	"EQUIPMENT_VENDINGMACHINE_LORE" : "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic Quencher</style>",
+
+	"EQUIPMENT_GUMMYCLONE_NAME" : "Goobo Jr.",
+	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Create a clone of you for 30 seconds.",
+	"EQUIPMENT_GUMMYCLONE_DESC" : "Spawn a gummy clone that has <style=cIsDamage>700% damage</style> and <style=cIsHealing>700% health</style>. Expires in <style=cIsUtility>30</style> seconds.",
+	"EQUIPMENT_GUMMYCLONE_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your ‘science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
+
+	"EQUIPMENT_BOSSHUNTER_NAME" : "Trophy Hunter's Tricorn",
+	"EQUIPMENT_BOSSHUNTER_PICKUP" : "Execute a large monster and claim its <style=cIsDamage>trophy</style>. Consumed on use.",
+	"EQUIPMENT_BOSSHUNTER_DESC" : "<style=cIsDamage>Execute</style> any enemy capable of spawning a <style=cIsDamage>unique reward</style>, and it will drop that <style=cIsDamage>item</style>. Equipment is <style=cIsUtility>consumed</style> on use.",
+	"EQUIPMENT_BOSSHUNTER_LORE" : "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\"",
+
+	"EQUIPMENT_BOSSHUNTERCONSUMED_NAME" : "Trophy Hunter's Tricorn (Consumed)",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP" : "Looks kinda cool, but that's about it.",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_DESC" : "Looks kinda cool, but that's about it.",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "Ahoy!",
+
+	"EQUIPMENT_MULTISHOPCARD_NAME": "Executive Card",
+	"EQUIPMENT_MULTISHOPCARD_PICKUP": "Gain 10% cash back on all purchases. Multishops remain open.",
+	"EQUIPMENT_MULTISHOPCARD_DESC": "Whenever you make a gold purchase, get <style=cIsUtility>10%</style> of the spent gold back. If the purchase is a <style=cIsUtility>multishop</style> terminal, the other terminals will <style=cIsUtility>remain open</style>.",
+	"EQUIPMENT_MULTISHOPCARD_LORE" : "<style=cMono>\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n<style=cMono>\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/<\/style>",
 	}
 }

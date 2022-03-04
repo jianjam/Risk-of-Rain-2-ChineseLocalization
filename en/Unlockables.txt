@@ -46,6 +46,19 @@
 		"UNLOCKABLE_LOG_BROTHER" : "Monster Log: Mithrix",
 		"UNLOCKABLE_LOG_LUNAREXPLODER" : "Monster Log: Lunar Chimera",
 
+		"UNLOCKABLE_LOG_VOIDBARNACLE" : "Monster Log: Void Barnacle",
+		"UNLOCKABLE_LOG_VOIDJAILER" : "Monster Log: Void Jailer",
+		"UNLOCKABLE_LOG_ACIDLARVA" : "Monster Log: Larva",
+		"UNLOCKABLE_LOG_FLYINGVERMIN" : "Monster Log: Blind Pest",
+		"UNLOCKABLE_LOG_VERMIN" : "Monster Log: Blind Vermin",
+		"UNLOCKABLE_LOG_CLAYGRENADIER" : "Monster Log: Clay Apothecary",
+		"UNLOCKABLE_LOG_GUP" : "Monster Log: Gup",
+		"UNLOCKABLE_LOG_MINORCONSTRUCT" : "Monster Log: Alpha Construct",
+		"UNLOCKABLE_LOG_MAJORCONSTRUCT" : "Monster Log: Xi Construct",
+		"UNLOCKABLE_LOG_VOIDMEGACRAB" : "Monster Log: Void Devastator",
+		"UNLOCKABLE_LOG_VOIDRAIDCRAB" : "Monster Log: Voidling",
+		"UNLOCKABLE_LOG_VOIDINFESTOR" : "Monster Log: Void Infestor",
+
 		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
 		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
 		"UNLOCKABLE_LOG_STAGES_GOLEMPLAINS": "Environment Log: Titanic Plains",
@@ -64,5 +77,11 @@
 		"UNLOCKABLE_LOG_STAGES_SKYMEADOW" : "Environment Log: Sky Meadow",
 		"UNLOCKABLE_LOG_STAGES_ARTIFACTWORLD" : "Environment Log: Bulwark's Ambry",
 		"UNLOCKABLE_LOG_STAGES_MOON" : "Environment Log: Commencement",
+
+		"UNLOCKABLE_LOG_STAGES_ANCIENTLOFT" : "Environment Log: Aphelian Sanctuary",
+		"UNLOCKABLE_LOG_STAGES_SNOWYFOREST" : "Environment Log: Snowy Forest",
+		"UNLOCKABLE_LOG_STAGES_SULFURPOOLS" : "Environment Log: Sulfur Pools",
+		"UNLOCKABLE_LOG_STAGES_VOIDSTAGE" : "Environment Log: Void Locus",
+		"UNLOCKABLE_LOG_STAGES_VOIDRAID" : "Environment Log: The Planetarium",
 	}
 }

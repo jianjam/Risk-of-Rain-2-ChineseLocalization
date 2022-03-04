@@ -1,4 +1,4 @@
-{
+﻿{
 	"strings":
 	{
 		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} achieved <color=#BDE151>{1}</color></color>",
@@ -229,6 +229,12 @@
 		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandit: Mastery",
 		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "As Bandit, beat the game or obliterate on Monsoon.",
 
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Railgunner: Mastery",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "As Railgunner, beat the game or obliterate on Monsoon.",
+
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「V??oid Fiend』: Mastery",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "As 「V??oid Fiend』, beat the game or obliterate on Monsoon.",
+
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
 		
@@ -320,10 +326,13 @@
 		"ACHIEVEMENT_DIE20TIMES_DESCRIPTION": "Die 20 times.",
 
 		"ACHIEVEMENT_COMPLETEMAINENDING_NAME": "Washed Away",
-		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Beat the game.",
+		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Escape the moon.",
+
+		"ACHIEVEMENT_COMPLETEVOIDENDING_NAME": "Dragged Below",
+		"ACHIEVEMENT_COMPLETEVOIDENDING_DESCRIPTION": "Escape the Planetarium or complete wave 50 in Simulacrum.",
 
 		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_NAME": "The Calm",
-		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Beat the game on Monsoon difficulty.",
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Escape the moon on Monsoon difficulty.",
 
 		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_NAME": "Captain: Worth Every Penny",
 		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_DESCRIPTION": "As Captain, repair and recruit a TC-280 Prototype.",
@@ -342,6 +351,15 @@
 
 		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandit: Sadist",
 		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "As Bandit, kill a monster with 20 stacks of Hemorrhage.",
+
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Railgunner: Annihiliator",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "As Railgunner, deal 1,000,000 damage in one shot.",
+
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Railgunner: Marksman",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "As Railgunner, fire 30 consecutive sniper shots without missing a Weak Point.",
+
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Railgunner: Trickshot",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "As Railgunner, get 3 kills with a single Supercharge shot while airborne.",
 
 		"ACHIEVEMENT__NAME": "",
 		"ACHIEVEMENT__DESCRIPTION": "",

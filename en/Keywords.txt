@@ -14,5 +14,9 @@
         "KEYWORD_SHOCKING" : "<style=cKeywordName>Shocking</style><style=cSub>Interrupts enemies and stuns them. The stun is removed if the target takes more than <style=cIsHealth>10%</style> of their maximum health in damage.",
 		"KEYWORD_SLAYER" : "<style=cKeywordName>Slayer</style><style=cSub>Deals up to <style=cIsDamage>3x</style> damage against low health enemies.</style>",
 	    "KEYWORD_SUPERBLEED" : "<style=cKeywordName>Hemorrhage</style><style=cSub>Deal <style=cIsDamage>2000%</style> base damage over 15s. <i>Hemorrhage can stack.</i></style>",
-	}
+		"KEYWORD_IGNITE" : "<style=cKeywordName>Ignite</style><style=cSub>Deal an additional <style=cIsDamage>+50%</style> total damage over time.",
+	    "KEYWORD_WEAKPOINT" : "<style=cKeywordName>Weak Point</style><style=cSub>Sections of enemies are identified as containing <style=cIsDamage>Weak Points</style>. Hitting a <style=cIsDamage>Weak Point</style> guarantees a <style=cIsDamage>Critical Strike</style>.",
+        "KEYWORD_ACTIVERELOAD" : "<style=cKeywordName>Active Reload</style><style=cSub>Reload your railgun after firing. A <style=cIsDamage>perfect reload</style> deals an additional <style=cIsDamage>+500% base damage</style> on your next shot.",
+        "KEYWORD_VOIDCORRUPTION" : "<style=cKeywordName>Corruption</style><style=cSub>Gain Corruption by recieving damage, dealing Critical Strikes, or holding Void Items. Reduce Corruption by healing.</style>",
+    }
 }

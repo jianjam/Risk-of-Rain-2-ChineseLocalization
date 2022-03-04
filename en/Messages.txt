@@ -54,6 +54,11 @@
 		"BAZAAR_SEER_SKYMEADOW" : "<style=cWorldEvent>You dream of serenity.</style>",
 		"BAZAAR_SEER_ROOTJUNGLE" : "<style=cWorldEvent>You dream of violent growth.</style>",
 		"BAZAAR_SEER_MOON" : "<style=cWorldEvent>You dream of glass and dirt.</style>",
+		"BAZAAR_SEER_ANCIENTLOFT" : "<style=cWorldEvent>You dream of clarity.</style>",
+		"BAZAAR_SEER_SNOWYFOREST" : "<style=cWorldEvent>You dream of fire and ice.</style>",
+		"BAZAAR_SEER_SULFURPOOLS" : "<style=cWorldEvent>You dream of brimstone.</style>",
+		"BAZAAR_SEER_VOIDSTAGE" : "<style=cWorldEvent>You dream of potential.</style>",
+
 
 
 		"NEWT_ANNOY_1": "Again again. Everytime.",
@@ -73,6 +78,11 @@
 		"FAMILY_PARENT" : "<style=cWorldEvent>[WARNING] The earth shifts and changes..</style>",
 		"FAMILY_MUSHRUM" : "<style=cWorldEvent>[WARNING] The ground grows sickly..</style>",
 		"FAMILY_LUNAR" : "<style=cWorldEvent>[WARNING] The bulwark begin to falter..</style>",
+		"FAMILY_ACIDLARVA" : "<style=cWorldEvent>[WARNING] The air smells foul..</style>",
+		"FAMILY_GUP" : "<style=cWorldEvent>[WARNING] The air smells of sweet strawberries..</style>",
+		"FAMILY_CONSTRUCT" : "<style=cWorldEvent>[WARNING] You have tripped an ancient alarm..</style>",
+		"FAMILY_VOID" : "<style=cWorldEvent>[WARNING] The Void has become curious..</style>",
+
 		"PLAYER_DEATH_QUOTE_0_2P" : "You are dead.",
 		"PLAYER_DEATH_QUOTE_0" : "{0} is dead.",
 		"PLAYER_DEATH_QUOTE_1_2P" : "You embrace the void.",
@@ -173,5 +183,19 @@
 
 		"PLAYER_DEATH_QUOTE_FALLDAMAGE_5_2P": "You lost a fight with gravity.",
 		"PLAYER_DEATH_QUOTE_FALLDAMAGE_5": "{0} lost a fight with gravity.",
+
+		"MUSHROOM_VOID_UPGRADE_2P" : "<style=cEvent>Benthic Bloom upgraded your {1}{2}</color> to {3}{4}</color>",
+		"MUSHROOM_VOID_UPGRADE" : "<style=cEvent>Benthic Bloom upgraded {0}'s {1}{2}</color> to {3}{4}</color>",
+
+		"PORTAL_VOID_WILL_OPEN":"<style=cWorldEvent>A purple orb appears..</style>",
+		"PORTAL_VOID_OPEN" : "<style=cWorldEvent>A purple portal appears..</style>",
+
+		"PORTAL_DEEPVOID_WILL_OPEN":"<style=cWorldEvent>A darkly purple orb appears..</style>",
+		"PORTAL_DEEPVOID_OPEN" : "<style=cWorldEvent>A darkly purple portal appears..</style>",
+
+		"PET_FROG" : "{0} pet the frog.",
+		"PET_FROG_2P" : "You pet the frog.",
+
+		"VOIDCAMP_COMPLETE" : "<style=cWorldEvent>The Void Seed collapses.</style>",
 	}
 }
