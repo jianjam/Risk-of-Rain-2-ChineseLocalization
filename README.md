@@ -30,18 +30,18 @@
 </details>
 
 
-### 2021.9
-时隔一年又更新啦，最近游戏荒，又拿起来玩了一下ror2，距离上次登录已经好几个月了。进入一看官方汉化不习惯，于是把老项目重拾起来了。没花大心思润色。(・∀・)#
+### 2022.3
+DLC更新啦，修改了几个官方的翻译，和一些错误翻译，还没完全解锁DLC内存，有些文本没法复查对不对(・∀・)#。
 
 
 
 ---
 **使用方式**：
-    下载对应文件替换游戏目录里同名文件 ==>[output-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/output-chinese_prc.json)       可使用右键-另存为
+    使用ZH_CN文件夹对应文件替换游戏目录里同名文件 ==>[output-chinese_prc.json](https://raw.githubusercontent.com/jianjam/Risk-of-Rain-2-ChineseLocalization/master/ZH_CN/output-chinese_prc.json)   主要文本文件，可使用右键-另存为下载（注意下载后的文件后缀名）
 
-路径：
+游戏内文本路径：
 
-    Risk of Rain 2\Risk of Rain 2_Data\Language\zh-CN\ 
+    Risk of Rain 2\Risk of Rain 2_Data\StreamingAssets\Language\zh-CN\
 
 #
 #### 建议备份官方源文件（移动到其他文件夹或者修改文件名方式）
