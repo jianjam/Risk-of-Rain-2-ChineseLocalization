@@ -179,7 +179,7 @@
 	"MOON_BATTERY_MASS_NAME" : "Pillar of Mass",
 	"MOON_BATTERY_MASS_CONTEXT" : "Activate Pillar",
 
-	"VENDING_MACHINE_NAME" : "UESCola Vending Machine",
+	"VENDING_MACHINE_NAME" : "Eclipse Zero Vending Machine",
 	"VENDING_MACHINE_CONTEXT" : "Purchase Refreshing Beverage",
 
 	"LOCKEDMAGE_NAME" : "Survivor",

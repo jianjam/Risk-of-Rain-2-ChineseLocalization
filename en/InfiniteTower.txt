@@ -24,6 +24,7 @@
         "INFINITETOWER_WAVE_BEGIN_ARTIFACT_SINGLEMONSTERTYPE" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Kin</style> augment..</style>",
         "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WEAKASSKNEES" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Frailty</style> augment..</style>",
         "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WISPONDEATH" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Soul</style> augment..</style>",
+        "INFINITETOWER_WAVE_BEGIN_ARTIFACT_ENIGMA" : "<style=cWorldEvent>[WARNING] Replicating combat test with <style=cArtifact>Enigma</style> augment..</style>",
         "PORTAL_INFINITETOWER_OPEN" : "<style=cWorldEvent>Replication complete.  Advance to next simulation.</style>",
 
         "INFINITETOWER_WAVE_COUNTER" : "Wave {0}",
@@ -51,6 +52,7 @@
         "INFINITETOWER_WAVE_COUNTER_SINGLEMONSTERTYPE" : "Wave {0} - Augment of Kin",
         "INFINITETOWER_WAVE_COUNTER_WEAKASSKNEES" : "Wave {0} - Augment of Frailty",
         "INFINITETOWER_WAVE_COUNTER_WISPONDEATH" : "Wave {0} - Augment of Soul",
+        "INFINITETOWER_WAVE_COUNTER_ENIGMA" : "Wave {0} - Augment of Enigma",
 
         "MAP_INFINITETOWER_TITLE" : "The Simulacrum",
         "MAP_INFINITETOWER_SUBTITLE" : "Threat Simulation",

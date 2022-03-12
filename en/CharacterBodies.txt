@@ -336,7 +336,7 @@
 	"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Corruption Upgrade】</style><style=cSub>Transform into a 2000% damage short-range beam.</style>",
 
 	"VOIDSURVIVOR_SECONDARY_NAME": "『Floo?d」",
-	"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Fire a plasma missile for <style=cIsDamage>600% damage</style>. Fully charge it for an explosive plasma ball instead, dealing <style=cIsDamage>1100% damage</style>.",
+	"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Fire a plasma bolt for <style=cIsDamage>600% damage</style>. Fully charge it for an explosive plasma ball instead, dealing <style=cIsDamage>1100% damage</style>.",
 	"VOIDSURVIVOR_SECONDARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Corruption Upgrade】</style><style=cSub>Transform into a 1100% damage arcing bomb with 2x the radius.</style>",
 
 	"VOIDSURVIVOR_UTILITY_NAME": "「?Tr?espass】",
