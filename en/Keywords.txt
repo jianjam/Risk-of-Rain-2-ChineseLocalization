@@ -17,6 +17,6 @@
 		"KEYWORD_IGNITE" : "<style=cKeywordName>Ignite</style><style=cSub>Deal an additional <style=cIsDamage>+50%</style> total damage over time.",
 	    "KEYWORD_WEAKPOINT" : "<style=cKeywordName>Weak Point</style><style=cSub>Sections of enemies are identified as containing <style=cIsDamage>Weak Points</style>. Hitting a <style=cIsDamage>Weak Point</style> guarantees a <style=cIsDamage>Critical Strike</style>.",
         "KEYWORD_ACTIVERELOAD" : "<style=cKeywordName>Active Reload</style><style=cSub>Reload your railgun after firing. A <style=cIsDamage>perfect reload</style> deals an additional <style=cIsDamage>+500% base damage</style> on your next shot.",
-        "KEYWORD_VOIDCORRUPTION" : "<style=cKeywordName>Corruption</style><style=cSub>Gain Corruption by recieving damage, dealing Critical Strikes, or holding Void Items. Reduce Corruption by healing.</style>",
+        "KEYWORD_VOIDCORRUPTION" : "<style=cKeywordName>Corruption</style><style=cSub>Gain Corruption by receiving damage, dealing Critical Strikes, or holding Void Items. Reduce Corruption by healing.</style>",
     }
 }

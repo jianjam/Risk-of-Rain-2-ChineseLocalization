@@ -134,7 +134,7 @@
 
 	"EQUIPMENT_CLEANSE_NAME" : "Blast Shower",
 	"EQUIPMENT_CLEANSE_PICKUP" : "Cleanse all negative effects.",
-	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsUtility>Cleanse</style> all negative effects. Includes debuffs, damage over time, and nearby projectiles.",
+	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsUtility>Cleanse</style> all negative effects. Includes debuffs, damage over time, stuns, freezes, and nearby projectiles.",
 	"EQUIPMENT_CLEANSE_LORE" : "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
 
 	"EQUIPMENT_FIREBALLDASH_NAME" : "Volcanic Egg",
@@ -194,7 +194,7 @@
 
 	"EQUIPMENT_GUMMYCLONE_NAME" : "Goobo Jr.",
 	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Create a clone of you for 30 seconds.",
-	"EQUIPMENT_GUMMYCLONE_DESC" : "Spawn a gummy clone that has <style=cIsDamage>700% damage</style> and <style=cIsHealing>700% health</style>. Expires in <style=cIsUtility>30</style> seconds.",
+	"EQUIPMENT_GUMMYCLONE_DESC" : "Spawn a gummy clone that has <style=cIsDamage>300% damage</style> and <style=cIsHealing>300% health</style>. Expires in <style=cIsUtility>30</style> seconds.",
 	"EQUIPMENT_GUMMYCLONE_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your ‘science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
 
 	"EQUIPMENT_BOSSHUNTER_NAME" : "Trophy Hunter's Tricorn",

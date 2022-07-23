@@ -9,7 +9,7 @@
         "INFINITE_TOWER_TIME_REMAINING": "<style=cSub>Next Wave: </style>",
         "INFINITE_TOWER_TIME_COUNTER" : "{0}",
         "INFINITETOWER_TIME_HIGHEST_WAVE_EASY" : "> Highest Wave (Drizzle): <style=cIsHealing>{0}</style>",
-        "INFINITETOWER_TIME_HIGHEST_WAVE_NORMAL" : "> Highest Wave (Normal): <style=cIsHealing>{0}</style>",
+        "INFINITETOWER_TIME_HIGHEST_WAVE_NORMAL" : "> Highest Wave (Rainstorm): <style=cIsHealing>{0}</style>",
         "INFINITETOWER_TIME_HIGHEST_WAVE_HARD" : "> Highest Wave (Monsoon): <style=cIsHealing>{0}</style>",
         "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDEASY": "Wave",
         "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDNORMAL": "Wave",

@@ -79,7 +79,7 @@
 		"UNLOCKABLE_LOG_STAGES_MOON" : "Environment Log: Commencement",
 
 		"UNLOCKABLE_LOG_STAGES_ANCIENTLOFT" : "Environment Log: Aphelian Sanctuary",
-		"UNLOCKABLE_LOG_STAGES_SNOWYFOREST" : "Environment Log: Snowy Forest",
+		"UNLOCKABLE_LOG_STAGES_SNOWYFOREST" : "Environment Log: Siphoned Forest",
 		"UNLOCKABLE_LOG_STAGES_SULFURPOOLS" : "Environment Log: Sulfur Pools",
 		"UNLOCKABLE_LOG_STAGES_VOIDSTAGE" : "Environment Log: Void Locus",
 		"UNLOCKABLE_LOG_STAGES_VOIDRAID" : "Environment Log: The Planetarium",

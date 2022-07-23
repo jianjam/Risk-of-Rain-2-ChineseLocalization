@@ -20,6 +20,8 @@
 		"TITLE_UNLOCKABLES": "Challenges",
 		"TITLE_MORE": "Music & More",
 		"TITLE_MORE_DESC" : "Join Communities, learn about the game, and more!",
+		"TITLE_SIGNUP": "Mailing List",
+		"TITLE_SIGNUP_DESC": "Join our mailing list for future updates!",
 		"TITLE_EXIT": "Quit to Desktop",
 		"TITLE_EXIT_DESC" : "Close Risk of Rain 2.",
 		"TITLE_EXTRAGAMEMODE" : "Alternate Game Modes",
@@ -125,6 +127,7 @@
 		"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} per level)</style>",
 		
 		"DIALOG_OPTION_YES" : "Yes",
+		"DIALOG_OPTION_NO" : "No",
 		"OK" : "OK",
 		"CANCEL" : "Cancel",
 		
@@ -201,6 +204,18 @@
 		"PERCENT_FORMAT_PARENTHESES": "<nobr>({0:0.0%})</nobr>",
 
 		"EXPANSION_PURCHASED_REQUIRED_FORMAT" : "Requires purchase of \"{0}\".",
-		"EXPANSION_ENABLED_REQUIRED_FORMAT" : "Requires \"{0}\" to be enabled."
+		"EXPANSION_ENABLED_REQUIRED_FORMAT" : "Requires \"{0}\" to be enabled.",
+
+		"FIRST_TIME_CROSSPLAY_POPUP_HEADER" : "New Survivors Have Arrived!",
+		"FIRST_TIME_CROSSPLAY_POPUP_DESCRIPTION" : "We're excited to invite new survivors to Petrichor V! Risk of Rain 2 now has cross-play between all PC players!\n\n To enable PC crossplay, click the \"Enable Cross-play\" button below or go to Settings > Gameplay at any time (will require a restart)!\n\nFor more information on cross-play, or to get support, click the \"More Info\" button below",
+		"FIRST_TIME_CROSSPLAY_POPUP_DISABLE_CROSSPLAY" : "Enable Cross-play",
+		"FIRST_TIME_CROSSPLAY_POPUP_INFO" : "More Info",
+
+		"SIGNUP_TITLE" : "Sign up for our Hopoo Games mailing list!",
+		"SIGNUP_DESC" : "Get exclusive updates delivered right to your inbox!",
+		"SIGNUP_SUBMIT" : "Submit",
+		"SIGNUP_WAIT" : "Sending...",
+		"SIGNUP_SUCCESS" : "Thank you!",
+		"SIGNUP_FAILURE" : "Error.  Try Again?",
 	}
 }

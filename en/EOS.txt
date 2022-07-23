@@ -1,6 +1,7 @@
 {
   "strings":
-  {
+  {	
+    "EOS_LINK_ACCOUNT": "Link Epic Games Account",
     "EOS_NOT_LINKED_TITLE": "Epic Games Account Not Linked",
     "EOS_NOT_LINKED_MESSAGE" : "Cross-play has been enabled, but you do not have an Epic Games account linked to your Steam account. Press Retry to link accounts again, or Cancel to disable cross-play and exit the game.",
     "EOS_RETRY_LOGIN": "Retry",
@@ -16,5 +17,7 @@
     "EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "The lobby you are trying to join requires cross-play. Enable cross-play in the settings menu to join the lobby (requires a restart)",
     "EOS_INVALID_LOBBY_NO_CROSSPLAY_DESCRIPTION": "The lobby you are trying to join has cross-play disabled. Disable cross-play in the settings menu to join the lobby (requires a restart)",
     "EOS_INVALID_LOBBY_CROSSPLAY_GO_TO_SETTINGS": "Go To Settings",       
+	"EOS_LINK_ACCOUNT_DESCRIPTION":"Linking or creating an Epic Games Account allows you to invite your Epic Games Store friends and receive invites from them.",
+	"OPTION_EOS_LINK_ACCOUNT":"Link your Epic Games Account",
   }
 }
