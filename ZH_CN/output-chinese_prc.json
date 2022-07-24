@@ -2173,7 +2173,7 @@
     "ITEM_RANDOMLYLUNAR_LORE": "<style=cMono>\r\n对属灵争战胜利者的悼词：\r\n我要向你传达以下信息。</style>\r\n\r\n虽然在生活中你会遇到挫折与难关，尽管你会失去挚爱之人，流干自己的眼泪，但随着时间的流逝，最终你一定会在名为家园的星球上找到和平。一只静静等待你的小动物，一条溪流的欢愉，在新的季节里呼吸新鲜空气时的恬静时光。\r\n时刻铭记自己为什么来这里；让你的心告诉你什么是新、什么是旧。用头脑记忆，用心灵感受。\r\n我爱我自己，为的是爱你。我曾想过消失，但我一直想回来见你。看花草绿叶，看和煦的阳光和夜晚的虫儿。\r\n\r\n我向自己许诺，也向你保证：\r\n\r\n失败是成功之母，黑暗的尽头必是光明。即使是死亡，也有新生命的希望。一切有因果，万物皆轮回。\r\n\r\n天快黑了。如果你暂时迷路了也没有关系。我希望你喜欢流星。安息吧。",
     "ITEM_IMMUNETODEBUFF_NAME": "本的雨衣",
     "ITEM_IMMUNETODEBUFF_PICKUP": "获得一个临时性屏障，以阻挡所有减益效果，。随时间充能。",
-    "ITEM_IMMUNETODEBUFF_DESC": "Prevents <style=cIsUtility>1 <style=cStack>(+1 per stack)</style></style> <style=cIsDamage>debuff</style> and instead grants a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>10%</style> of <style=cIsHealing>maximum health</style>. Recharges every <style=cIsUtility>5</style> seconds",
+    "ITEM_IMMUNETODEBUFF_DESC": "阻挡 <style=cIsUtility>1 <style=cStack>(每层 +1)</style></style> 次 <style=cIsDamage>减益效果</style> 并且立即获得一个 <style=cIsHealing>最大生命值</style> <style=cIsHealing>10%</style> 的 <style=cIsHealing>临时性护盾</style>。每 <style=cIsUtility>5</style> 秒重新冲能",
     "ITEM_IMMUNETODEBUFF_LORE": "退货单：戈顿的男式雨衣（中号、黄色）\r\n单号：73***********\r\n预计送达时间：2053年3月4日\r\n运送方式：标准\r\n送货地址：地球，格洛斯特，马赛厄斯大道545号\r\n退货原因：\n\n雨衣本身没什么问题，但我穿上之后，有一群学生就一直骚扰我。他们老是叫我脱掉雨衣，因为有个叫本的家伙穿着黄色的上衣。我估计这可能是他的专属颜色什么的。\n\n退款：\n退换：X\n\n补充说明：\n\n请发一件蓝色的过来。",
     "ITEM_REGENERATINGSCRAP_NAME": "再生型碎片",
     "ITEM_REGENERATINGSCRAP_PICKUP": "操作 <style=cIsHealing>罕见</style> 3D 打印机时将被优先选择使用。每个关卡可被使用一次。",
